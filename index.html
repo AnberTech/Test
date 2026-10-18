@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AnberTech Test Area</title>
+<link rel="icon" href="assets/favicon.png">
+<meta name="theme-color" content="#08090d">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{background:#08090d;color:#f2f4f9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;overflow:hidden;-webkit-tap-highlight-color:transparent}
+.aurora{position:fixed;inset:0;pointer-events:none;overflow:hidden}
+.aurora i{position:absolute;border-radius:50%;filter:blur(90px);opacity:.28;animation:float 22s ease-in-out infinite alternate}
+.aurora i:nth-child(1){width:60vmax;height:60vmax;background:#4f6bff;left:-20vmax;top:-22vmax}
+.aurora i:nth-child(2){width:55vmax;height:55vmax;background:#a855f7;right:-20vmax;top:15%;animation-delay:-8s;opacity:.22}
+.aurora i:nth-child(3){width:50vmax;height:50vmax;background:#0ea5a5;left:25%;bottom:-30vmax;animation-delay:-15s;opacity:.18}
+@keyframes float{to{transform:translate(6vmax,4vmax) scale(1.08)}}
+main{position:relative;min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(20px,4vh,40px);padding:24px 16px;text-align:center}
+.logo{width:min(62vw,46vh,380px);height:auto;filter:drop-shadow(0 18px 50px rgba(124,156,255,.35));animation:rise 1s cubic-bezier(.2,.8,.2,1) both,breathe 6s ease-in-out 1s infinite}
+h1{font-size:clamp(38px,11vw,76px);line-height:1.08;letter-spacing:-.03em;font-weight:800;animation:rise 1s cubic-bezier(.2,.8,.2,1) .15s both}
+h1 .gold{color:#D4AF37}
+h1 .grad{display:block;background:linear-gradient(90deg,#7c9cff,#c084fc);-webkit-background-clip:text;background-clip:text;color:transparent}
+@keyframes rise{from{opacity:0;transform:translateY(24px)}}
+@keyframes breathe{50%{transform:scale(1.035)}}
+.sound{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));width:48px;height:48px;border-radius:50%;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.07);color:#f2f4f9;display:grid;place-items:center;cursor:pointer;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+.sound svg{width:22px;height:22px}
+.sound .off{display:none}
+.sound.muted .on{display:none}
+.sound.muted .off{display:block}
+.hint{position:fixed;left:50%;bottom:max(24px,env(safe-area-inset-bottom));transform:translateX(-50%);font-size:13px;color:#9aa2b4;opacity:.8;transition:opacity .4s;white-space:nowrap}
+.hint.gone{opacity:0;pointer-events:none}
+@media (prefers-reduced-motion:reduce){.aurora i,.logo,h1{animation:none}}
+</style>
+</head>
+<body>
+<div class="aurora"><i></i><i></i><i></i></div>
+<main>
+  <img class="logo" src="assets/logo.png" alt="AnberTech" width="340" height="310">
+  <h1>Anber<span class="gold">Tech</span><span class="grad">Test Area</span></h1>
+</main>
+<p class="hint" id="hint">Müzik için ekrana dokun</p>
+<button class="sound muted" id="sound" aria-label="Müziği aç/kapat">
+  <svg class="on" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg>
+  <svg class="off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="m22 9-6 6"/><path d="m16 9 6 6"/></svg>
+</button>
+<audio id="music" src="assets/muzik.mp3" loop preload="auto"></audio>
+<script>
+const music = document.getElementById('music');
+const btn = document.getElementById('sound');
+const hint = document.getElementById('hint');
+music.volume = 0.6;
+function sync() {
+  btn.classList.toggle('muted', music.paused);
+  if (!music.paused) hint.classList.add('gone');
+}
+function play() { return music.play().then(sync).catch(sync); }
+// Tarayıcılar sesli otomatik oynatmayı çoğu zaman engeller; ilk dokunuşta başlat
+play();
+function firstTouch(e) {
+  if (e.target.closest('#sound')) return;
+  if (music.paused) play();
+  ['pointerdown', 'keydown'].forEach(t => document.removeEventListener(t, firstTouch));
+}
+['pointerdown', 'keydown'].forEach(t => document.addEventListener(t, firstTouch));
+btn.addEventListener('click', () => {
+  if (music.paused) play(); else { music.pause(); sync(); }
+});
+music.addEventListener('play', sync);
+music.addEventListener('pause', sync);
+</script>
+</body>
+</html>
