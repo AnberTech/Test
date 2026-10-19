@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Tiếng Việt",
+    "kisa": "VI",
+    "yerel": "vi-VN",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "vn"
+  },
+  "yol": {
+    "koleksiyon": "bo-suu-tap",
+    "urun": "san-pham",
+    "tas": "loai-da",
+    "yuzey": "be-mat",
+    "sss": "cau-hoi-thuong-gap",
+    "hakkimizda": "gioi-thieu",
+    "iletisim": "lien-he"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Bộ sưu tập",
+    "nav.hakkimizda": "Giới thiệu",
+    "nav.iletisim": "Liên hệ",
+    "nav.teklif": "Yêu cầu báo giá",
+    "nav.menu": "Menu",
+    "marka.alt": "Đá cẩm thạch · Đá tự nhiên",
+    "giris.ust": "Từ năm 2014 · Denizli",
+    "giris.koleksiyon": "Khám phá các dòng đá",
+    "giris.urun": "sản phẩm",
+    "kol.ust": "Bộ sưu tập",
+    "kol.baslik": "Chân thực từng thớ đá. <em>Ấn tượng cả không gian.</em>",
+    "kol.metin": "Tất cả hình ảnh đều là ảnh chụp mẫu đá thực tế. Màu sắc và sự phân bố đường vân có thể khác nhau tự nhiên giữa từng viên đá.",
+    "kol.tumu": "Tất cả",
+    "kol.ara": "Tìm theo tên đá, màu sắc hoặc kích thước",
+    "kol.form": "Dạng sản phẩm",
+    "kol.yuzey": "Bề mặt hoàn thiện",
+    "kol.renk": "Màu sắc",
+    "kol.temizle": "Xóa bộ lọc",
+    "kol.sonuc": "{n} sản phẩm",
+    "kol.bos": "Không tìm thấy sản phẩm phù hợp với bộ lọc này. Vui lòng bớt tiêu chí lọc và thử lại.",
+    "urun.form": "Dạng sản phẩm",
+    "urun.parca": "Kích thước viên",
+    "urun.birim": "Kích thước vỉ",
+    "urun.yuzey": "Bề mặt hoàn thiện",
+    "urun.sinif": "Cấp chất lượng",
+    "urun.ozellik": "Đặc điểm bổ sung",
+    "urun.grup": "Chủng loại đá",
+    "urun.teklif": "Nhận báo giá qua WhatsApp",
+    "urun.teyit": "Một số thông tin của sản phẩm này đang chờ xác nhận. Vui lòng xác nhận với chúng tôi về kích thước và thông số sản phẩm hiện tại trước khi đặt hàng.",
+    "urun.kapat": "Đóng",
+    "urun.olcuyeGore": "Chiều dài cắt theo đơn đặt hàng",
+    "hak.ust": "Giới thiệu",
+    "hak.baslik": "Sản xuất tại Denizli, <em>từ năm 2014.</em>",
+    "hak.metin1": "Karabel Doğal Taş được thành lập năm 2014 tại Khu công nghiệp Denizli ở Honaz, Thổ Nhĩ Kỳ. Chúng tôi sản xuất đá cẩm thạch và đá travertine dưới dạng đá mosaic, gạch đá, bộ ghép Versailles và mini set, đá lục giác và tấm đá ghép chẻ ốp tường.",
+    "hak.metin2": "Chúng tôi cung cấp sản phẩm cho đối tác tại Thổ Nhĩ Kỳ và xuất khẩu quốc tế. Quý khách có thể liên hệ trực tiếp để đặt các mặt hàng trong bộ sưu tập hoặc yêu cầu gia công cắt theo kích thước riêng.",
+    "hak.kurulus": "Thành lập",
+    "hak.uretim": "Địa điểm sản xuất",
+    "hak.uretimDeger": "KCN Denizli, Thổ Nhĩ Kỳ",
+    "hak.olcu": "Gia công cắt",
+    "hak.olcuDeger": "Theo kích thước yêu cầu",
+    "hak.pazar": "Phạm vi bán hàng",
+    "hak.pazarDeger": "Thổ Nhĩ Kỳ và quốc tế",
+    "ilt.ust": "Liên hệ",
+    "ilt.baslik": "Tiếp theo là <em>dự án của bạn.</em>",
+    "ilt.metin": "Nhắn cho chúng tôi để nhận báo giá, yêu cầu mẫu đá thực tế hoặc đặt cắt theo quy cách riêng.",
+    "ilt.telefon": "Điện thoại",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "Email",
+    "ilt.adres": "Địa chỉ",
+    "ilt.harita": "Xem trên bản đồ",
+    "ilt.form.ad": "Họ và tên",
+    "ilt.form.konu": "Sản phẩm hoặc dự án quan tâm",
+    "ilt.form.mesaj": "Hãy cho chúng tôi biết nhu cầu của bạn",
+    "ilt.form.gonder": "Tiếp tục qua WhatsApp",
+    "ilt.form.eposta": "Mở trong ứng dụng email",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Hình ảnh được chụp từ mẫu thực tế. Đá tự nhiên có thể có sự khác biệt về sắc độ và đường vân.",
+    "wa.urun": "Xin chào, tôi muốn nhận báo giá cho sản phẩm {urun}.",
+    "wa.genel": "Xin chào, tôi muốn tìm hiểu thông tin về các sản phẩm đá cẩm thạch và đá travertine của công ty.",
+    "wa.form": "Xin chào, tôi là {ad}.\nChủ đề: {konu}\n{mesaj}",
+    "nav.atla": "Chuyển đến nội dung chính",
+    "urun.kenar": "Chiều dài cạnh: {n} cm",
+    "yardim.numune": "Yêu cầu gửi mẫu",
+    "yardim.sinif": "Hỏi về sự khác biệt giữa các cấp chất lượng",
+    "nav.sss": "Câu hỏi thường gặp",
+    "nav.ana": "Trang chủ",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Đá travertine và đá cẩm thạch Denizli: đá mosaic, gạch đá, bộ Versailles, tấm đá ghép chẻ",
+    "sayfa.anaAciklama": "Nhà sản xuất đá cẩm thạch và đá travertine tại Denizli từ năm 2014: đá mosaic travertine, gạch đá ốp lát, bộ ghép Versailles, đá lục giác và tấm đá ghép chẻ ốp tường. Ảnh chụp mẫu thật, kích thước và định mức trên mỗi m².",
+    "kol.hepsi": "Tất cả sản phẩm ({n})",
+    "rehber.ust": "Cẩm nang bề mặt đá",
+    "sss.baslik": "Câu hỏi thường gặp",
+    "sss.hepsi": "Xem tất cả câu hỏi →",
+    "sss.altBaslik": "Tìm hiểu về đá cẩm thạch, đá travertine và quy trình đặt hàng",
+    "urun.birimLevha": "vỉ",
+    "urun.birimTas": "viên",
+    "urun.m2Cumle": "Khoảng {n} {birim} cho 1 m².",
+    "urun.gorunum": "Hình ảnh",
+    "urun.m2": "Định mức mỗi m²",
+    "urun.teknikIste": "Yêu cầu thông số kỹ thuật",
+    "urun.hakkinda": "Giới thiệu về {ad}",
+    "urun.m2Uzun": "Cần khoảng {n} {birim} sản phẩm này cho mỗi m² (tính theo mạch ron 2 mm). Nên dự trù khoảng {fire} {birim} khi cộng thêm 10% hao hụt thi công; số lượng chính xác sẽ được xác nhận khi lên báo giá.",
+    "urun.kardes": "{ad}: các kích thước và bề mặt khác",
+    "wa.numune": "Xin chào, tôi muốn yêu cầu mẫu thực tế của sản phẩm {urun}.",
+    "wa.teknik": "Xin chào, vui lòng gửi giúp tôi thông số kỹ thuật (độ dày, dung sai, quy cách đóng gói) của sản phẩm {urun}.",
+    "wa.sinif": "Xin chào, tôi muốn tìm hiểu sự khác biệt giữa các cấp chất lượng (Loại 1 / Loại 2 / Xuất khẩu) của sản phẩm {urun}.",
+    "wa.kategori": "Xin chào, tôi muốn nhận báo giá cho dòng sản phẩm {kategori}.",
+    "kat.baslikEk": "Danh mục sản phẩm",
+    "kat.urunSayisi": "Sản phẩm",
+    "kat.olculer": "Kích thước",
+    "kat.yuzeyler": "Bề mặt",
+    "kat.taslar": "Dòng đá",
+    "kat.ortalama": "trung bình",
+    "kat.ozet": "Karabel Doğal Taş trực tiếp sản xuất {ad} tại Denizli: {n} sản phẩm, kích thước {olculer}; bề mặt hoàn thiện: {yuzeyler}. Toàn bộ hình ảnh đều là mẫu đá thực tế.",
+    "yuzeyS.baslik": "Bề mặt {ad}",
+    "sayfa.kolBaslik": "Bộ sưu tập đá cẩm thạch và đá travertine",
+    "sayfa.kolAciklama": "{n} sản phẩm đá cẩm thạch và đá travertine: đá mosaic, gạch đá ốp lát, bộ ghép Versailles, đá lục giác và tấm đá ghép chẻ ốp tường. Ảnh chụp mẫu thật, kích thước và định mức theo m².",
+    "hak.uretimimiz": "Sản phẩm của chúng tôi",
+    "sayfa.yok": "Không tìm thấy trang bạn đang tìm kiếm.",
+    "giris.baslikSade": "Đá tự nhiên.<br>Chế tác tinh xảo.",
+    "giris.metinSade": "Chúng tôi trân trọng vẻ đẹp nguyên bản của từng thớ đá cẩm thạch và travertine, tỉ mỉ chế tác thành các dòng đá mosaic, gạch ốp lát và tấm ốp tường. Với năng lực sản xuất trực tiếp tại Denizli cùng dịch vụ cắt theo quy cách riêng, chúng tôi đưa chất cảm tự nhiên của đá vào từng công trình.",
+    "urun.ustten": "Nhìn từ trên xuống (màu sắc thực tế)",
+    "urun.uygulamada": "Phối cảnh ứng dụng",
+    "urun.temsili": "Hình ảnh phối cảnh minh họa: được tạo bằng AI từ chính ảnh chụp mẫu thật của sản phẩm này. Khi thi công thực tế, hoa văn, sắc độ và tỷ lệ kích thước có thể khác biệt.",
+    "urun.temsiliKisa": "minh họa",
+    "urun.buyut": "phóng to",
+    "sahne.banyo": "Tường phòng tắm",
+    "sahne.mutfak": "Tường ốp bếp",
+    "sahne.zemin": "Sàn nhà",
+    "sahne.duvar": "Tường",
+    "sahne.teras": "Sân hiên",
+    "urun.sergi": "Trưng bày",
+    "sahne.havuz-kenari": "Sàn quanh hồ bơi",
+    "sahne.havuz-su-hatti": "Viền mực nước hồ bơi",
+    "sahne.bahce-yolu": "Lối đi sân vườn",
+    "sahne.avlu": "Sân trong phong cách Địa Trung Hải",
+    "sahne.dis-cephe": "Mặt tiền nhà",
+    "sahne.bahce-duvari": "Tường rào sân vườn",
+    "sahne.giris-merdiveni": "Bậc thềm lối vào",
+    "sahne.dis-mutfak": "Bếp ngoài trời",
+    "sahne.kis-bahcesi": "Phòng kính sân vườn",
+    "sahne.dus": "Tường buồng tắm đứng",
+    "sahne.banyo-zemini": "Sàn phòng tắm",
+    "sahne.lavabo-arkasi": "Mảng tường sau lavabo",
+    "sahne.kuvet-nisi": "Hốc tường bồn tắm",
+    "sahne.hamam": "Phòng tắm Hamam",
+    "sahne.spa": "Không gian Spa",
+    "sahne.kapali-havuz": "Hồ bơi trong nhà",
+    "sahne.mutfak-tezgah": "Tường ốp bếp",
+    "sahne.kir-mutfagi": "Gian bếp đồng quê",
+    "sahne.mutfak-adasi": "Đảo bếp",
+    "sahne.kafe": "Quầy pha chế",
+    "sahne.somine": "Ốp quanh lò sưởi",
+    "sahne.vurgu-duvari": "Mảng tường điểm nhấn phòng khách",
+    "sahne.salon-zemini": "Sàn phòng khách",
+    "sahne.antre": "Lối vào",
+    "sahne.merdiven": "Tường cầu thang",
+    "sahne.yatak-basucu": "Tường đầu giường",
+    "sahne.tv-duvari": "Vách tivi",
+    "sahne.yemek-odasi": "Phòng ăn",
+    "sahne.otel-lobisi": "Sảnh khách sạn",
+    "sahne.butik": "Cửa hàng boutique",
+    "sahne.restoran": "Tường nhà hàng",
+    "sahne.sarap-mahzeni": "Hầm rượu",
+    "sahne.ofis-resepsiyon": "Quầy lễ tân văn phòng",
+    "urun.kalinlik": "Độ dày",
+    "urun.kalinlikPanel": "2 cm (tùy chọn 1, 2 hoặc 3 cm theo yêu cầu)",
+    "sss.mozaikM2": "Với các vỉ đá mosaic kích thước khoảng 30×30 cm, mỗi m² cần trung bình {n} vỉ (tính với mạch ron 2 mm, chưa gồm hao hụt). Khi cộng thêm 10% hao hụt thi công, bạn nên dự trù khoảng {fire} vỉ. Trên trang chi tiết của từng sản phẩm đều có sẵn định mức tính riêng theo kích thước vỉ thực tế của mẫu đó."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Đá cẩm thạch",
+      "Traverten": "Đá travertine"
+    },
+    "form": {
+      "Tek parça": "Gạch đá",
+      "Mozaik": "Đá mosaic",
+      "Altıgen": "Đá lục giác",
+      "Mini set": "Bộ ghép Versailles",
+      "Panel": "Tấm đá ghép chẻ"
+    },
+    "yuzey": {
+      "Eskitme": "Giả cổ",
+      "Dolgulu honlu": "Trám lỗ mài mờ",
+      "Dolgulu eskitme": "Trám lỗ giả cổ",
+      "Dolgulu cilalı": "Trám lỗ đánh bóng",
+      "Cilalı": "Đánh bóng",
+      "Cilasız": "Không đánh bóng",
+      "Honlu": "Mài mờ",
+      "Patlatma": "Chẻ tự nhiên"
+    },
+    "ek": {
+      "İkili karışım": "Phối 2 màu",
+      "Üçlü karışım": "Phối 3 màu",
+      "Koyu": "Tông đậm",
+      "Açık": "Tông sáng",
+      "Fileli": "Dán vỉ lưới",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Trắng Muğla",
+      "Toros Siyahı": "Đen Toros",
+      "Eymer Siyah": "Đen Eymer",
+      "Sarı": "Vàng",
+      "Pembe": "Hồng",
+      "Bej": "Màu be",
+      "Klasik": "Cổ điển",
+      "Damarlı Noce": "Noce vân"
+    },
+    "ton": {
+      "beyaz": "Trắng",
+      "krem": "Kem và be",
+      "sari": "Vàng",
+      "kahve": "Nâu",
+      "gri": "Xám",
+      "siyah": "Đen",
+      "pembe": "Hồng",
+      "karisik": "Phối nhiều tông"
+    },
+    "sinif": {
+      "1": "Loại 1",
+      "2": "Loại 2",
+      "Export": "Xuất khẩu (Export)"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Đá cẩm thạch màu be",
+      "Blue Stone|Mermer": "Đá cẩm thạch Blue Stone",
+      "Muğla Beyazı|Mermer": "Đá cẩm thạch trắng Muğla",
+      "Pembe|Mermer": "Đá cẩm thạch hồng",
+      "Toros Siyahı|Mermer": "Đá cẩm thạch đen Toros",
+      "Damarlı Noce|Traverten": "Đá travertine Noce vân",
+      "Klasik|Traverten": "Đá travertine cổ điển",
+      "Light Mix|Traverten": "Đá travertine Light Mix",
+      "Mix|Traverten": "Đá travertine Mix",
+      "Noce|Traverten": "Đá travertine Noce",
+      "Pembe|Traverten": "Đá travertine hồng",
+      "Sarı|Traverten": "Đá travertine vàng",
+      "Silver|Traverten": "Đá travertine Silver",
+      "Walnut|Traverten": "Đá travertine Walnut",
+      "Emperador|Mermer": "Đá cẩm thạch Emperador",
+      "Eymer Siyah|Traverten": "Đá travertine đen Eymer",
+      "Ivory|Traverten": "Đá travertine Ivory",
+      "Light|Traverten": "Đá travertine Light",
+      "Light + Noce Mix|Traverten": "Đá travertine Light + Noce Mix",
+      "Nebula|Traverten": "Đá travertine Nebula",
+      "Onix Silver|Traverten": "Đá travertine Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Đá travertine Sarı + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Đá travertine Sarı + Noce Mix",
+      "Scabas|Traverten": "Đá travertine Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş là nhà sản xuất đá cẩm thạch và đá travertine, được thành lập năm 2014 tại Khu công nghiệp Denizli (Honaz, Thổ Nhĩ Kỳ). Công ty sản xuất đá mosaic, gạch đá, bộ ghép Versailles và mini set, đá lục giác và tấm đá ghép chẻ ốp tường từ đá travertine và đá cẩm thạch; đồng thời nhận cắt theo kích thước yêu cầu và bán hàng tại Thổ Nhĩ Kỳ cũng như quốc tế."
+    },
+    "tas": {
+      "Light Mix": "Dòng đá travertine tươi sáng với sự chuyển sắc nhẹ nhàng giữa tông kem nhạt và trắng ngà, dễ dàng hòa hợp với mọi ngôn ngữ kiến trúc.",
+      "Mix": "Đá travertine mang vẻ đẹp sinh động với dải màu tự nhiên chuyển dần từ kem sáng sang be ấm và phớt nâu caramel.",
+      "Light": "Tuyển chọn đá travertine thanh nhã, tôn lên cấu trúc lỗ rỗng tự nhiên trên nền màu kem sáng và be nhạt.",
+      "Silver": "Đá travertine xám đan xen giữa sắc bạc, xám tro và tông đá ấm — đặc biệt ăn nhập với các không gian hiện đại và phong cách công nghiệp (industrial).",
+      "Onix Silver": "Đá travertine xám giàu cá tính với các lớp vân sâu xếp tầng nổi bật trên nền xám bạc.",
+      "Noce": "Đá travertine với các tông nâu óc chó và nâu đất ấm, mang đến cho không gian vẻ trầm tĩnh và ấm áp đậm chất Địa Trung Hải.",
+      "Damarlı Noce": "Đá travertine có nhịp điệu thị giác rõ nét nhờ những dải vân song song mang tông nâu ấm và nâu gỗ óc chó.",
+      "Walnut": "Đá travertine ấm áp, cân bằng hài hòa giữa sắc nâu cà phê sữa và màu vỏ óc chó với độ chuyển màu dịu mắt.",
+      "Scabas": "Đá travertine mang đậm nét mộc mạc, với sắc kem, vàng mật ong và nâu hòa quyện trong những hoa văn nổi bật.",
+      "Sarı": "Đá travertine sắc vàng kim pha chút vàng mật ong ấm áp, thổi sức sống vào sân thượng, sân vườn và các hạng mục ngoại thất.",
+      "Klasik": "Vẻ đẹp thuần khiết phản chiếu trọn vẹn tông màu be kem ấm áp cùng cấu trúc rỗng tự nhiên đặc trưng của đá travertine Denizli truyền thống.",
+      "Ivory": "Mang sắc trắng kem và trắng ngà nhạt, đây là dòng travertine sáng màu và tinh giản nhất trong bộ sưu tập.",
+      "Nebula": "Đá travertine mang cảm giác tĩnh tại với những dải chuyển màu mềm mại như vân mây trên nền kem xám.",
+      "Pembe|Traverten": "Đá travertine mang sắc hồng cá hồi pha hồng đất độc đáo, tạo nên bầu không khí dịu dàng và khác biệt.",
+      "Eymer Siyah": "Dòng đá có độ tương phản mạnh, kết hợp tông xám đậm và đen than với cấu trúc lỗ rỗng đặc trưng của đá travertine.",
+      "Muğla Beyazı": "Đá cẩm thạch trắng cổ điển, nổi bật với những mảng vân mây xám khói và đường vân mảnh trên nền trắng.",
+      "Bej": "Đá cẩm thạch màu kem be với các tùy chọn tông sáng và trầm, tạo nên bề mặt nền đồng đều và trang nhã.",
+      "Blue Stone": "Đá cẩm thạch mang phong cách hiện đại, mát mắt với sắc xanh xám và xám đá bảng đan cài cùng những đường vân sáng.",
+      "Emperador": "Đá cẩm thạch mang chiều sâu sang trọng, cổ điển với mạng lưới vân sáng mảnh mai đan xen trên nền nâu trầm.",
+      "Pembe|Mermer": "Đá cẩm thạch hồng thanh lịch với những đường vân trắng mềm mại trên nền hồng phấn trầm.",
+      "Toros Siyahı": "Đá cẩm thạch tạo ấn tượng tương phản sắc nét nhờ những đường vân trắng nổi bật trên nền đen than đậm.",
+      "Light + Noce Mix": "Sự kết hợp cân đối hai tông màu trên cùng một vỉ lưới: sắc kem sáng của Light và sắc nâu ấm của Noce.",
+      "Sarı + Noce Mix": "Sự phối trộn hai tông màu đất ấm giữa đá travertine vàng kim và đá travertine Noce nâu óc chó.",
+      "Sarı + Noce + Light Mix": "Nhịp điệu màu sắc phong phú từ sự kết hợp ba tông đá travertine: kem sáng, vàng kim và nâu óc chó."
+    },
+    "yuzey": {
+      "Eskitme": "Đá được đưa vào lồng quay để bo tròn các cạnh và tạo bề mặt giả cổ mềm mại. Bề mặt tán xạ ánh sáng mà không gây chói, mang lại vẻ tự nhiên và ấm áp cho khu vực ngoại thất, sàn quanh hồ bơi, sân vườn và nội thất phong cách mộc mạc.",
+      "Honlu": "Bề mặt được mài nhẵn mịn đến độ mờ lì như lụa mà không đánh bóng. Nhờ vẻ đẹp hiện đại, không phản chiếu ánh sáng chói, bề mặt mài mờ (honed) rất được ưa chuộng cho sàn nội thất.",
+      "Cilalı": "Bề mặt được mài bóng như gương, làm nổi bật rõ nét nhất các đường vân và độ tương phản màu sắc của đá. Mang lại vẻ sang trọng cho cả tường và sàn nội thất.",
+      "Cilasız": "Bề mặt không được đánh bóng sau khi cắt, giữ nguyên kết cấu mờ tự nhiên của đá.",
+      "Dolgulu honlu": "Các lỗ rỗng tự nhiên của đá travertine được lấp kín bằng vật liệu trám, sau đó bề mặt được mài nhẵn và mờ. Do không còn các lỗ hở tích tụ bụi bẩn nên bề mặt rất dễ vệ sinh.",
+      "Dolgulu eskitme": "Đá travertine được trám kín lỗ rỗng trước khi đưa vào quay giả cổ để bo tròn góc cạnh. Sự kết hợp này giữ được nét ấm áp cổ điển nhưng mang lại bề mặt liền lạc, ít lỗ rỗng hơn.",
+      "Dolgulu cilalı": "Các lỗ rỗng của đá travertine được lấp đầy, sau đó bề mặt được đánh bóng, tạo độ phẳng mịn, sáng bóng và dễ lau chùi.",
+      "Patlatma": "Đá được tách chẻ cơ học để lộ bề mặt gồ ghề tự nhiên như vách đá nguyên sinh. Hiệu ứng ánh sáng và bóng đổ tạo chiều sâu ấn tượng cho lò sưởi, mặt tiền, tường sân vườn và các mảng tường điểm nhấn."
+    },
+    "form": {
+      "Tek parça": "Gạch đá hình vuông và hình chữ nhật. Có thể lát thẳng mạch, so le, lệch ⅓ hoặc theo kiểu xương cá trên sàn và tường.",
+      "Mozaik": "Gồm các viên đá nhỏ được gắn sẵn trên vỉ lưới kích thước khoảng 30×30 cm. Các vỉ ghép khít với nhau, giúp thi công nhanh và đồng đều trên sàn khu vực tắm, tường ốp bếp và các bề mặt cong.",
+      "Altıgen": "Đá tự nhiên cắt theo hình lục giác tổ ong, đưa chất cảm cổ điển của đá travertine vào ngôn ngữ hình học đương đại.",
+      "Mini set": "Kiểu ghép Versailles (kiểu Pháp) kết hợp các viên hình vuông và chữ nhật có kích thước khác nhau đan cài trong cùng một mô-đun, phá vỡ sự lặp lại đơn điệu và tạo bề mặt sinh động.",
+      "Panel": "Tấm đá ghép ốp tường gồm các thanh đá chẻ được xếp so le theo tầng. Hai đầu dạng chữ Z giúp các tấm ghép khít với nhau, tạo bề mặt đá liền mạch trên tường nội thất và ngoại thất."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "da-mosaic-travertine",
+        "ad": "Đá mosaic travertine"
+      },
+      "Mermer|Mozaik": {
+        "slug": "da-mosaic-cam-thach",
+        "ad": "Đá mosaic cẩm thạch"
+      },
+      "Traverten|Tek parça": {
+        "slug": "gach-da-travertine",
+        "ad": "Gạch đá travertine"
+      },
+      "Mermer|Tek parça": {
+        "slug": "gach-da-cam-thach",
+        "ad": "Gạch đá cẩm thạch"
+      },
+      "Traverten|Mini set": {
+        "slug": "da-travertine-kieu-versailles",
+        "ad": "Bộ đá travertine kiểu Versailles"
+      },
+      "Traverten|Altıgen": {
+        "slug": "da-travertine-luc-giac",
+        "ad": "Đá travertine lục giác"
+      },
+      "Traverten|Panel": {
+        "slug": "da-travertine-op-tuong-che-tu-nhien",
+        "ad": "Tấm đá travertine ghép chẻ ốp tường"
+      }
+    },
+    "sss": [
+      [
+        "Karabel Doğal Taş đặt nhà máy ở đâu và sản xuất những sản phẩm gì?",
+        "Karabel Doğal Taş là nhà sản xuất đá cẩm thạch và đá travertine hoạt động từ năm 2014 tại Khu công nghiệp Denizli (Honaz, Denizli, Thổ Nhĩ Kỳ). Công ty sản xuất đá mosaic, gạch đá, bộ ghép Versailles và mini set, đá lục giác và tấm đá ghép chẻ ốp tường từ đá travertine và đá cẩm thạch, đồng thời nhận cắt theo kích thước yêu cầu."
+      ],
+      [
+        "Đá travertine và đá cẩm thạch khác nhau như thế nào?",
+        "Đá travertine hình thành từ canxi cacbonat lắng đọng từ các nguồn nước khoáng, có cấu trúc lỗ rỗng tự nhiên và thường mang các tông kem ấm, be, xám và nâu. Đá cẩm thạch hình thành khi đá vôi biến chất dưới tác động của nhiệt độ và áp suất; đá có kết cấu đặc chắc hơn và đường vân rõ nét. Denizli là vùng nổi tiếng nhất về đá travertine tại Thổ Nhĩ Kỳ."
+      ],
+      [
+        "Bề mặt mài mờ (honed), giả cổ (tumbled) và đánh bóng (polished) khác nhau ra sao?",
+        "Bề mặt mài mờ được mài phẳng mịn nhưng giữ độ lì tự nhiên, không bóng. Bề mặt giả cổ được xử lý trong lồng quay giúp bo tròn các cạnh và tạo vẻ trầm mặc cổ điển. Bề mặt đánh bóng được mài đến độ bóng gương, giúp tôn lên màu sắc và đường vân đá rực rỡ nhất."
+      ],
+      [
+        "Đá travertine trám lỗ là gì?",
+        "Đó là loại đá travertine đã được lấp kín các lỗ rỗng tự nhiên trên bề mặt bằng vật liệu trám chuyên dụng. Bề mặt sau khi trám sẽ liền lạc và đồng nhất hơn, hạn chế bám bẩn và dễ lau chùi. Ngược lại, đá travertine không trám lỗ sẽ giữ nguyên vẻ đẹp mộc mạc của các hốc đá tự nhiên."
+      ],
+      [
+        "1 m² đá mosaic cần bao nhiêu vỉ?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Loại 1, Loại 2 và cấp Xuất khẩu (Export) khác nhau như thế nào?",
+        "Trong ngành đá tự nhiên, cấp chất lượng thể hiện mức độ khắt khe của quá trình tuyển chọn dựa trên độ đồng đều màu sắc, lỗ rỗng và khuyết điểm bề mặt. Cấp Xuất khẩu (Export) được tuyển chọn kỹ lưỡng nhất. Nên xem mẫu đá thực tế để lựa chọn cấp phù hợp nhất cho dự án."
+      ],
+      [
+        "Công ty có nhận cắt đá theo kích thước yêu cầu không?",
+        "Có. Ngoài các kích thước tiêu chuẩn, chúng tôi nhận cắt theo chiều dài tùy chọn và kích thước riêng của từng dự án. Ví dụ, đá travertine Silver rộng 8 cm có thể được sản xuất theo chiều dài quý khách yêu cầu."
+      ],
+      [
+        "Công ty có xuất khẩu ra nước ngoài không?",
+        "Có, bên cạnh thị trường nội địa Thổ Nhĩ Kỳ, Karabel Doğal Taş cung cấp và xuất khẩu trực tiếp cho khách hàng quốc tế. Để nhận báo giá, yêu cầu gửi mẫu và tư vấn vận chuyển, vui lòng liên hệ qua WhatsApp ({telefon}) hoặc email {eposta}."
+      ],
+      [
+        "Màu sắc đá trên website có giống thực tế không?",
+        "Tất cả hình ảnh đều là ảnh chụp mẫu đá thực tế; không sử dụng bộ lọc chỉnh màu mà chỉ xử lý phần nền. Mỗi viên đá tự nhiên có thể khác nhau đôi chút và màu sắc hiển thị cũng khác nhau tùy màn hình, vì vậy chúng tôi khuyến nghị xem mẫu thực tế trước khi quyết định."
+      ]
+    ]
+  }
+}

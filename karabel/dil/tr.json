@@ -1,0 +1,297 @@
+{
+  "dil": {
+    "ad": "Türkçe",
+    "kisa": "TR",
+    "yerel": "tr-TR",
+    "yon": "ltr"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Koleksiyon",
+    "nav.hakkimizda": "Hakkımızda",
+    "nav.iletisim": "İletişim",
+    "nav.teklif": "Teklif iste",
+    "nav.menu": "Menü",
+    "marka.alt": "Mermer · Doğal Taş",
+    "giris.ust": "2014’ten beri · Denizli",
+    "giris.koleksiyon": "Taşları keşfet",
+    "giris.urun": "ürün",
+    "kol.ust": "Koleksiyon",
+    "kol.baslik": "Yakından doku. <em>Bütünde karakter.</em>",
+    "kol.metin": "Gördüğünüz görseller gerçek numunelere ait. Renk ve damar dağılımı doğal taşın her parçasında farklılık gösterebilir.",
+    "kol.tumu": "Tümü",
+    "kol.ara": "Taş adı, renk veya ölçü ara",
+    "kol.form": "Ürün formu",
+    "kol.yuzey": "Yüzey işlemi",
+    "kol.renk": "Renk",
+    "kol.temizle": "Filtreleri temizle",
+    "kol.sonuc": "{n} ürün",
+    "kol.bos": "Bu filtrelerle eşleşen ürün bulunamadı. Filtreleri azaltarak yeniden deneyin.",
+    "urun.form": "Ürün formu",
+    "urun.parca": "Parça ölçüsü",
+    "urun.birim": "Levha ölçüsü",
+    "urun.yuzey": "Yüzey işlemi",
+    "urun.sinif": "Ürün sınıfı",
+    "urun.ozellik": "Ek özellik",
+    "urun.grup": "Taş türü",
+    "urun.teklif": "WhatsApp’tan teklif iste",
+    "urun.teyit": "Bu ürünün bazı bilgileri teyit bekliyor. Sipariş öncesinde güncel ölçü ve ürün özelliklerini bizimle doğrulayın.",
+    "urun.kapat": "Kapat",
+    "urun.olcuyeGore": "Boy siparişe göre belirlenir",
+    "hak.ust": "Hakkımızda",
+    "hak.baslik": "Denizli’de üretim, <em>2014’ten beri.</em>",
+    "hak.metin1": "Karabel Doğal Taş, 2014 yılında Denizli Organize Sanayi Bölgesi’nde, Honaz’da kuruldu. Mermer ve traverteni mozaik, tek parça kaplama, Versailles ve mini set, altıgen ve patlatma panel formlarında üretiyoruz.",
+    "hak.metin2": "Türkiye’deki ve yurt dışındaki alıcılarla çalışıyoruz. Koleksiyondaki ürünler ve ölçüye özel kesim talepleriniz için bizimle iletişime geçebilirsiniz.",
+    "hak.kurulus": "Kuruluş",
+    "hak.uretim": "Üretim yeri",
+    "hak.uretimDeger": "Denizli OSB",
+    "hak.olcu": "Kesim",
+    "hak.olcuDeger": "Ölçüye özel",
+    "hak.pazar": "Satış",
+    "hak.pazarDeger": "Yurt içi ve yurt dışı",
+    "ilt.ust": "İletişim",
+    "ilt.baslik": "Sırada <em>sizin projeniz var.</em>",
+    "ilt.metin": "Fiyat, numune talebi veya ölçüye özel kesim için bize yazın.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-posta",
+    "ilt.adres": "Adres",
+    "ilt.harita": "Haritada göster",
+    "ilt.form.ad": "Adınız",
+    "ilt.form.konu": "İlgilendiğiniz ürün veya proje",
+    "ilt.form.mesaj": "İhtiyacınızı anlatın",
+    "ilt.form.gonder": "WhatsApp’ta devam et",
+    "ilt.form.eposta": "E-posta uygulamasında aç",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Görseller gerçek numunelere aittir. Doğal taşta renk ve damar farklılıkları görülebilir.",
+    "wa.urun": "Merhaba, {urun} için teklif almak istiyorum.",
+    "wa.genel": "Merhaba, mermer ve traverten ürünleriniz hakkında bilgi almak istiyorum.",
+    "wa.form": "Merhaba, ben {ad}.\nKonu: {konu}\n{mesaj}",
+    "nav.atla": "İçeriğe geç",
+    "urun.kenar": "Kenar uzunluğu: {n} cm",
+    "yardim.numune": "Numune talep et",
+    "yardim.sinif": "Sınıf farkını sor",
+    "nav.sss": "Sık sorulanlar",
+    "nav.ana": "Ana sayfa",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Denizli traverten ve mermer: mozaik, karo, Versailles, patlatma panel",
+    "sayfa.anaAciklama": "Denizli'de 2014'ten beri mermer ve traverten üretimi: traverten mozaik, karo, Versailles set, altıgen ve patlatma panel. Gerçek numune fotoğrafları, ölçüler ve m² hesapları.",
+    "kol.hepsi": "Bütün ürünler ({n})",
+    "rehber.ust": "Yüzey rehberi",
+    "sss.baslik": "Sık sorulan sorular",
+    "sss.hepsi": "Bütün sorular →",
+    "sss.altBaslik": "Mermer, traverten ve sipariş hakkında",
+    "urun.birimLevha": "levha",
+    "urun.birimTas": "taş",
+    "urun.m2Cumle": "1 m² için yaklaşık {n} {birim}.",
+    "urun.gorunum": "Görsel",
+    "urun.m2": "m² başına",
+    "urun.teknikIste": "Teknik bilgi iste",
+    "urun.hakkinda": "{ad} hakkında",
+    "urun.m2Uzun": "Bu üründen 1 m² için yaklaşık {n} {birim} gerekir (2 mm derzle). %10 fire payıyla yaklaşık {fire} {birim} hesaplayın; kesin miktar teklif aşamasında doğrulanır.",
+    "urun.kardes": "{ad}: diğer ölçü ve yüzeyler",
+    "wa.numune": "Merhaba, {urun} için numune talep etmek istiyorum.",
+    "wa.teknik": "Merhaba, {urun} için teknik bilgi (kalınlık, tolerans, paketleme) rica ediyorum.",
+    "wa.sinif": "Merhaba, {urun} için sınıflar (1. sınıf / 2. sınıf / Export) arasındaki farkı öğrenmek istiyorum.",
+    "wa.kategori": "Merhaba, {kategori} ürünleriniz için teklif almak istiyorum.",
+    "kat.baslikEk": "Kategoriler",
+    "kat.urunSayisi": "Ürün",
+    "kat.olculer": "Ölçüler",
+    "kat.yuzeyler": "Yüzeyler",
+    "kat.taslar": "Taşlar",
+    "kat.ortalama": "ortalama",
+    "kat.ozet": "Karabel Doğal Taş, Denizli'de {ad} üretir: {n} ürün, ölçüler {olculer}; yüzeyler: {yuzeyler}. Bütün görseller gerçek numunelerdir.",
+    "yuzeyS.baslik": "{ad} yüzey",
+    "sayfa.kolBaslik": "Mermer ve traverten koleksiyonu",
+    "sayfa.kolAciklama": "{n} mermer ve traverten ürünü: mozaik, karo, Versailles set, altıgen ve patlatma panel. Gerçek numune fotoğrafları, ölçüler ve m² hesabı.",
+    "hak.uretimimiz": "Ürettiklerimiz",
+    "sayfa.yok": "Aradığınız sayfa bulunamadı.",
+    "giris.baslikSade": "Doğal taş.<br>İncelikli işçilik.",
+    "giris.metinSade": "Mermer ve travertenin kendine özgü dokusunu özenle işliyor; mozaik, karo ve duvar kaplamalarına dönüştürüyoruz. Denizli’deki üretimimiz ve projenize özel ölçü seçeneklerimizle, doğal taşı mekânlarınızla buluşturuyoruz.",
+    "urun.ustten": "Üstten (gerçek renk)",
+    "urun.uygulamada": "Uygulamada",
+    "urun.temsili": "Temsili uygulama görselleri: yapay zekâ ile, bu ürünün numune fotoğrafından üretilmiştir. Gerçek uygulamada desen, ton ve ölçü farklılık gösterebilir.",
+    "urun.temsiliKisa": "temsili",
+    "urun.buyut": "büyüt",
+    "sahne.banyo": "Banyo duvarı",
+    "sahne.mutfak": "Mutfak tezgâh arası",
+    "sahne.zemin": "Zemin",
+    "sahne.duvar": "Duvar",
+    "sahne.teras": "Teras",
+    "urun.sergi": "Sergi",
+    "sahne.havuz-kenari": "Havuz kenarı",
+    "sahne.havuz-su-hatti": "Havuz su hattı",
+    "sahne.bahce-yolu": "Bahçe yolu",
+    "sahne.avlu": "Akdeniz avlusu",
+    "sahne.dis-cephe": "Ev dış cephesi",
+    "sahne.bahce-duvari": "Bahçe duvarı",
+    "sahne.giris-merdiveni": "Giriş basamakları",
+    "sahne.dis-mutfak": "Dış mutfak",
+    "sahne.kis-bahcesi": "Kış bahçesi",
+    "sahne.dus": "Duş duvarı",
+    "sahne.banyo-zemini": "Banyo zemini",
+    "sahne.lavabo-arkasi": "Lavabo arkası",
+    "sahne.kuvet-nisi": "Küvet nişi",
+    "sahne.hamam": "Hamam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Kapalı havuz",
+    "sahne.mutfak-tezgah": "Mutfak tezgâh arası",
+    "sahne.kir-mutfagi": "Kır evi mutfağı",
+    "sahne.mutfak-adasi": "Mutfak adası",
+    "sahne.kafe": "Kafe tezgâhı",
+    "sahne.somine": "Şömine çevresi",
+    "sahne.vurgu-duvari": "Salon vurgu duvarı",
+    "sahne.salon-zemini": "Salon zemini",
+    "sahne.antre": "Antre",
+    "sahne.merdiven": "Merdiven duvarı",
+    "sahne.yatak-basucu": "Yatak başı duvarı",
+    "sahne.tv-duvari": "TV duvarı",
+    "sahne.yemek-odasi": "Yemek odası",
+    "sahne.otel-lobisi": "Otel lobisi",
+    "sahne.butik": "Butik mağaza",
+    "sahne.restoran": "Restoran duvarı",
+    "sahne.sarap-mahzeni": "Şarap mahzeni",
+    "sahne.ofis-resepsiyon": "Ofis resepsiyonu",
+    "urun.kalinlik": "Kalınlık",
+    "urun.kalinlikPanel": "2 cm (isteğe göre 1, 2 veya 3 cm)",
+    "sss.mozaikM2": "Yaklaşık 30×30 cm'lik mozaik fileleriyle 1 m² için ortalama {n} file gerekir (2 mm derzle, fire hariç). %10 fire payıyla yaklaşık {fire} file hesaplayın. Her ürün sayfasında o ürünün kendi levha ölçüsünden hesaplanmış değer yazar."
+  },
+  "terim": {
+    "grup": {},
+    "form": {
+      "Panel": "Patlatma panel"
+    },
+    "yuzey": {},
+    "ek": {},
+    "ad": {},
+    "ton": {
+      "beyaz": "Beyaz",
+      "krem": "Krem ve bej",
+      "sari": "Sarı",
+      "kahve": "Kahverengi",
+      "gri": "Gri",
+      "siyah": "Siyah",
+      "pembe": "Pembe",
+      "karisik": "Karışık tonlar"
+    },
+    "sinif": {
+      "1": "1. sınıf",
+      "2": "2. sınıf",
+      "Export": "Export"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş, 2014'te Denizli Organize Sanayi Bölgesi'nde (Honaz) kurulmuş bir mermer ve traverten üreticisidir. Traverten ve mermerden mozaik, tek parça karo, Versailles (mini set), altıgen ve patlatma duvar paneli üretir; ölçüye özel kesim yapar ve yurt içine ve yurt dışına satış yapar."
+    },
+    "tas": {
+      "Light Mix": "Açık krem ve fildişi tonlarının yumuşak geçişlerle karıştığı, ferah ve her mimari dile uyan traverten.",
+      "Mix": "Açık kremden sıcak bej ve hafif karamel tonlarına uzanan doğal renk dalgalanmasıyla canlı bir traverten.",
+      "Light": "Gözenekli dokusunu en aydınlık krem ve açık bej tonlarıyla gösteren sakin bir traverten seçkisi.",
+      "Silver": "Gümüş grisi, kül ve sıcak taş tonlarının iç içe geçtiği; modern ve endüstriyel mekânlara yakışan gri traverten.",
+      "Onix Silver": "Gümüş grisi zemin üzerinde katmanlı, derinlikli damar geçişleri taşıyan karakterli bir gri traverten.",
+      "Noce": "Ceviz ve sıcak toprak kahvesi tonlarıyla mekâna ağırbaşlı, sıcak bir Akdeniz havası veren traverten.",
+      "Damarlı Noce": "Sıcak kahve ve ceviz tonlarının belirgin, paralel damar katmanlarıyla hareketlendiği ritmik dokulu traverten.",
+      "Walnut": "Sütlü kahve ile ceviz kabuğu arasında dengeli, yumuşak geçişli ve sıcak hisli traverten.",
+      "Scabas": "Krem, bal ve kahve tonlarının güçlü desenlerle buluştuğu, rustik karakteri belirgin traverten.",
+      "Sarı": "Altın sarısı ve sıcak bal tonlarıyla özellikle teras, bahçe ve dış mekâna canlılık katan traverten.",
+      "Klasik": "Geleneksel Denizli traverteninin sıcak bej-krem tonunu ve doğal gözenekli yapısını yansıtan yalın taş.",
+      "Ivory": "Kırık beyaz ve açık fildişi tonuyla koleksiyonun en aydınlık, en sade traverteni.",
+      "Nebula": "Krem-gri zeminde bulut gibi yumuşak ton geçişleri taşıyan, dingin dokulu traverten.",
+      "Pembe|Traverten": "Somon ve toprak pembesi tonlarıyla sıra dışı, yumuşak bir atmosfer kuran traverten.",
+      "Eymer Siyah": "Koyu gri ve antrasit tonlarını travertenin gözenekli dokusuyla birleştiren, güçlü kontrastlı taş.",
+      "Muğla Beyazı": "Beyaz zemin üzerinde dumanlı gri bulut ve ince damar geçişleriyle tanınan, ferah ve klasik beyaz mermer.",
+      "Bej": "Açık ve koyu seçenekleriyle homojen, dingin bir zemin oluşturan krem-bej mermer.",
+      "Blue Stone": "Mavi-gri ve arduvaz tonlarının açık damarlarla kesiştiği, serin ve modern karakterli mermer.",
+      "Emperador": "Kahverengi zemin üzerinde ince, açık renkli ağ damarlarıyla klasik ve zengin bir derinlik sunan mermer.",
+      "Pembe|Mermer": "Gül kurusu zemin üzerinde beyaz damar geçişleri taşıyan zarif bir pembe mermer.",
+      "Toros Siyahı": "Koyu antrasit-siyah zemin üzerinde keskin beyaz damarlarla güçlü bir kontrast yaratan mermer.",
+      "Light + Noce Mix": "Açık krem Light ile sıcak kahve Noce travertenin aynı filede dengeli bir kontrastla buluştuğu ikili karışım.",
+      "Sarı + Noce Mix": "Altın sarısı ve ceviz kahvesi travertenlerin sıcak toprak tonlarında harmanlandığı ikili karışım.",
+      "Sarı + Noce + Light Mix": "Açık krem, altın sarısı ve ceviz kahvesi travertenlerin üçlü kombinasyonuyla zengin bir renk ritmi."
+    },
+    "yuzey": {
+      "Eskitme": "Taşlar tamburda döndürülerek kenarları yuvarlatılır, yüzeye yumuşak ve antik bir doku kazandırılır. Işığı parlamadan dağıtır; dış mekân, havuz kenarı, bahçe ve rustik iç mekânlarda doğal ve sıcak bir görünüm verir.",
+      "Honlu": "Yüzey parlatılmadan, pürüzsüz ve ipeksi bir mat düzeye kadar zımparalanır. Yansıma yapmayan modern görünümüyle iç mekân zeminlerinde sık tercih edilir.",
+      "Cilalı": "Yüzey ayna parlaklığına kadar parlatılır; damarları ve renk kontrastını en canlı haliyle gösterir. İç mekân duvar ve zeminlerinde şık bir sonuç verir.",
+      "Cilasız": "Kesim sonrası parlatılmamış, taşın doğal mat dokusunu koruyan yüzey.",
+      "Dolgulu honlu": "Travertenin doğal gözenekleri dolgu malzemesiyle kapatılır, ardından yüzey mat ve pürüzsüz şekilde honlanır. Gözeneklere kir dolmadığı için temizliği kolaydır.",
+      "Dolgulu eskitme": "Gözenekleri doldurulmuş travertenin tamburlanarak yuvarlak kenarlı, antik bir görünüme kavuşturulması. Eskitmenin sıcaklığını daha kapalı bir yüzeyle birleştirir.",
+      "Dolgulu cilalı": "Traverten gözenekleri doldurulur ve yüzey parlak cilalanır; pürüzsüz, parlak ve kolay silinen bir yüzey elde edilir.",
+      "Patlatma": "Taş mekanik olarak yarılarak doğal kaya yüzeyini andıran kabartmalı bir doku elde edilir. Işık-gölge oyunlarıyla şömine, cephe, bahçe ve vurgu duvarlarında derinlik yaratır."
+    },
+    "form": {
+      "Tek parça": "Kare ve dikdörtgen karolar. Düz, şaşırtmalı, ⅓ kaydırmalı ya da balıksırtı dizilerek zemin ve duvarda kullanılır.",
+      "Mozaik": "Küçük parçaların yaklaşık 30×30 cm'lik filelere dizilmesiyle hazırlanır. Fileler birbirine kenetlenir; duş zemini, tezgâh arası ve kavisli yüzeylerde hızlı ve düzgün uygulama sağlar.",
+      "Altıgen": "Petek geometrisinde kesilmiş doğal taş. Klasik traverten dokusunu çağdaş geometrik bir dille buluşturur.",
+      "Mini set": "Farklı ölçülerdeki kare ve dikdörtgen parçaların bir modül içinde kenetlendiği Versailles (Fransız) dizilimi. Tekrar hissini kıran, hareketli bir yüzey oluşturur.",
+      "Panel": "Patlatma taş şeritlerinin kademeli dizildiği duvar kaplama paneli. Z biçimli uçları sayesinde paneller birbirine geçer; iç ve dış duvarlarda kesintisiz bir kaya dokusu verir."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "traverten-mozaik",
+        "ad": "Traverten mozaik"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mermer-mozaik",
+        "ad": "Mermer mozaik"
+      },
+      "Traverten|Tek parça": {
+        "slug": "traverten-karo",
+        "ad": "Traverten karo"
+      },
+      "Mermer|Tek parça": {
+        "slug": "mermer-karo",
+        "ad": "Mermer karo"
+      },
+      "Traverten|Mini set": {
+        "slug": "traverten-versailles-set",
+        "ad": "Traverten Versailles set"
+      },
+      "Traverten|Altıgen": {
+        "slug": "traverten-altigen",
+        "ad": "Traverten altıgen"
+      },
+      "Traverten|Panel": {
+        "slug": "traverten-patlatma-panel",
+        "ad": "Traverten patlatma panel"
+      }
+    },
+    "sss": [
+      [
+        "Karabel Doğal Taş nerede ve ne üretir?",
+        "Karabel Doğal Taş, Denizli Organize Sanayi Bölgesi'nde (Honaz, Denizli) 2014'ten beri faaliyet gösteren bir mermer ve traverten üreticisidir. Traverten ve mermerden mozaik, tek parça karo, Versailles (mini set), altıgen ve patlatma duvar paneli üretir; ölçüye özel kesim yapar."
+      ],
+      [
+        "Traverten ile mermer arasındaki fark nedir?",
+        "Traverten, kaynak sularının bıraktığı kalsiyum karbonatın çökelmesiyle oluşan, doğal gözenekli bir taştır; sıcak krem, bej, gri ve kahve tonlarıyla bilinir. Mermer ise kireçtaşının ısı ve basınçla başkalaşmasıyla oluşur; daha yoğun bir yapıya ve belirgin damarlara sahiptir. Denizli, Türkiye'nin traverteniyle en bilinen bölgesidir."
+      ],
+      [
+        "Honlu, eskitme ve cilalı yüzey arasındaki fark nedir?",
+        "Honlu yüzey parlatılmadan pürüzsüz ve mat zımparalanır. Eskitme yüzeyde taşlar tamburda döndürülür; kenarlar yuvarlanır, yüzey antik bir doku kazanır. Cilalı yüzey ayna parlaklığına kadar parlatılır ve damarları en canlı haliyle gösterir."
+      ],
+      [
+        "Dolgulu traverten nedir?",
+        "Travertenin doğal gözeneklerinin dolgu malzemesiyle kapatılmasıdır. Dolgulu yüzey daha kapalı ve homojen görünür, kir tutmaz ve temizliği kolaydır. Dolgusuz traverten ise doğal, gözenekli dokusunu korur."
+      ],
+      [
+        "1 m² mozaik için kaç file gerekir?",
+        "{mozaik_m2}"
+      ],
+      [
+        "1., 2. sınıf ve Export arasındaki fark nedir?",
+        "Doğal taşta sınıflar seçimin (seleksiyonun) sıkılığını gösterir: renk birliği, gözenek ve yüzey kusurları gibi ölçütlere göre ayrılır. Export en seçme sınıftır. Proje için en doğru karar numune üzerinden verilir."
+      ],
+      [
+        "Ölçüye özel kesim yapıyor musunuz?",
+        "Evet. Standart ölçülerin yanında serbest boy ve projeye özel ölçülerde kesim yapılır. Örneğin 8 cm enindeki Silver traverten, istenen boyda üretilir."
+      ],
+      [
+        "Yurt dışına satış yapıyor musunuz?",
+        "Evet, Karabel Doğal Taş yurt içinin yanı sıra yurt dışındaki müşterilere de satış yapar. Fiyat, numune ve sevkiyat için WhatsApp ({telefon}) ya da {eposta} üzerinden iletişime geçebilirsiniz."
+      ],
+      [
+        "Sitedeki taş renkleri gerçek mi?",
+        "Görseller gerçek numunelerin fotoğraflarıdır; renk düzeltme filtresi uygulanmamıştır, yalnızca arka plan temizlenmiştir. Doğal taşta her parça biraz farklıdır ve ekranlar rengi farklı gösterebilir; kesin karar için numune görmenizi öneririz."
+      ]
+    ]
+  }
+}

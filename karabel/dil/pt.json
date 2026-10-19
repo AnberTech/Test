@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Português",
+    "kisa": "PT",
+    "yerel": "pt-PT",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "pt"
+  },
+  "yol": {
+    "koleksiyon": "colecao",
+    "urun": "produto",
+    "tas": "pedra",
+    "yuzey": "acabamento",
+    "sss": "perguntas-frequentes",
+    "hakkimizda": "sobre-nos",
+    "iletisim": "contacto"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Coleção",
+    "nav.hakkimizda": "Sobre nós",
+    "nav.iletisim": "Contacto",
+    "nav.teklif": "Pedir orçamento",
+    "nav.menu": "Menu",
+    "marka.alt": "Mármore · Pedra Natural",
+    "giris.ust": "Desde 2014 · Denizli",
+    "giris.koleksiyon": "Descobrir as pedras",
+    "giris.urun": "produtos",
+    "kol.ust": "Coleção",
+    "kol.baslik": "Textura de perto. <em>Caráter no conjunto.</em>",
+    "kol.metin": "As imagens apresentadas correspondem a amostras reais. A cor e a distribuição dos veios podem variar naturalmente de peça para peça.",
+    "kol.tumu": "Todos",
+    "kol.ara": "Pesquisar por pedra, cor ou dimensão",
+    "kol.form": "Formato",
+    "kol.yuzey": "Acabamento",
+    "kol.renk": "Cor",
+    "kol.temizle": "Limpar filtros",
+    "kol.sonuc": "{n} produtos",
+    "kol.bos": "Nenhum produto corresponde a estes filtros. Tente remover alguns filtros.",
+    "urun.form": "Formato",
+    "urun.parca": "Dimensão da peça",
+    "urun.birim": "Dimensão da placa",
+    "urun.yuzey": "Acabamento",
+    "urun.sinif": "Seleção",
+    "urun.ozellik": "Detalhe adicional",
+    "urun.grup": "Tipo de pedra",
+    "urun.teklif": "Pedir orçamento por WhatsApp",
+    "urun.teyit": "Algumas informações deste produto aguardam confirmação. Antes de encomendar, confirme connosco as dimensões e especificações atuais.",
+    "urun.kapat": "Fechar",
+    "urun.olcuyeGore": "Comprimento definido por encomenda",
+    "hak.ust": "Sobre nós",
+    "hak.baslik": "Produção em Denizli, <em>desde 2014.</em>",
+    "hak.metin1": "A Karabel Doğal Taş foi fundada em 2014 na Zona Industrial Organizada de Denizli, em Honaz, na Turquia. Produzimos mosaicos e ladrilhos de mármore e travertino, padrões Versailles e mini set, hexágonos e painéis split-face.",
+    "hak.metin2": "Trabalhamos com compradores na Turquia e noutros países. Contacte-nos sobre os produtos da coleção ou para pedidos de corte por medida.",
+    "hak.kurulus": "Fundação",
+    "hak.uretim": "Local de produção",
+    "hak.uretimDeger": "Zona Industrial Organizada de Denizli",
+    "hak.olcu": "Corte",
+    "hak.olcuDeger": "Por medida",
+    "hak.pazar": "Vendas",
+    "hak.pazarDeger": "Turquia e mercado internacional",
+    "ilt.ust": "Contacto",
+    "ilt.baslik": "Agora é a vez <em>do seu projeto.</em>",
+    "ilt.metin": "Contacte-nos para saber preços, pedir amostras ou solicitar cortes por medida.",
+    "ilt.telefon": "Telefone",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-mail",
+    "ilt.adres": "Morada",
+    "ilt.harita": "Ver no mapa",
+    "ilt.form.ad": "O seu nome",
+    "ilt.form.konu": "Produto ou projeto de interesse",
+    "ilt.form.mesaj": "Descreva o que procura",
+    "ilt.form.gonder": "Continuar no WhatsApp",
+    "ilt.form.eposta": "Abrir na aplicação de e-mail",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "As imagens correspondem a amostras reais. Na pedra natural podem ocorrer variações de cor e de veios.",
+    "wa.urun": "Olá, gostaria de receber um orçamento para {urun}.",
+    "wa.genel": "Olá, gostaria de obter informações sobre os vossos produtos em mármore e travertino.",
+    "wa.form": "Olá, o meu nome é {ad}.\nAssunto: {konu}\n{mesaj}",
+    "nav.atla": "Saltar para o conteúdo",
+    "urun.kenar": "Comprimento do lado: {n} cm",
+    "yardim.numune": "Pedir amostra",
+    "yardim.sinif": "Perguntar sobre as diferenças entre seleções",
+    "nav.sss": "Perguntas frequentes",
+    "nav.ana": "Início",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Travertino e mármore de Denizli: mosaicos, ladrilhos, Versailles e painéis split-face",
+    "sayfa.anaAciklama": "Fabricante de mármore e travertino em Denizli desde 2014: mosaicos de travertino, ladrilhos, conjuntos Versailles, hexágonos e painéis split-face. Fotografias de amostras reais, dimensões e quantidades por m².",
+    "kol.hepsi": "Todos os produtos ({n})",
+    "rehber.ust": "Guia de acabamentos",
+    "sss.baslik": "Perguntas frequentes",
+    "sss.hepsi": "Todas as perguntas →",
+    "sss.altBaslik": "Sobre mármore, travertino e encomendas",
+    "urun.birimLevha": "placas",
+    "urun.birimTas": "peças",
+    "urun.m2Cumle": "Cerca de {n} {birim} por m².",
+    "urun.gorunum": "Imagem",
+    "urun.m2": "Por m²",
+    "urun.teknikIste": "Pedir ficha técnica",
+    "urun.hakkinda": "Sobre {ad}",
+    "urun.m2Uzun": "Para 1 m² deste produto são necessárias cerca de {n} {birim} (com junta de 2 mm). Considere cerca de {fire} {birim} com 10% de margem de desperdício; a quantidade exata é confirmada na fase de orçamento.",
+    "urun.kardes": "{ad}: outras medidas e acabamentos",
+    "wa.numune": "Olá, gostaria de solicitar uma amostra de {urun}.",
+    "wa.teknik": "Olá, gostaria de solicitar informações técnicas (espessura, tolerância, embalamento) para {urun}.",
+    "wa.sinif": "Olá, gostaria de saber a diferença entre as classes de seleção (1.ª escolha / 2.ª escolha / Export) para {urun}.",
+    "wa.kategori": "Olá, gostaria de receber um orçamento para os vossos produtos de {kategori}.",
+    "kat.baslikEk": "Categorias",
+    "kat.urunSayisi": "Produtos",
+    "kat.olculer": "Dimensões",
+    "kat.yuzeyler": "Acabamentos",
+    "kat.taslar": "Pedras",
+    "kat.ortalama": "média",
+    "kat.ozet": "A Karabel Doğal Taş produz {ad} em Denizli, na Turquia: {n} produtos, dimensões {olculer}; acabamentos: {yuzeyler}. Todas as imagens são de amostras reais.",
+    "yuzeyS.baslik": "Acabamento {ad}",
+    "sayfa.kolBaslik": "Coleção de mármore e travertino",
+    "sayfa.kolAciklama": "{n} produtos em mármore e travertino: mosaicos, ladrilhos, conjuntos Versailles, hexágonos e painéis split-face. Fotografias de amostras reais, dimensões e quantidades por m².",
+    "hak.uretimimiz": "O que produzimos",
+    "sayfa.yok": "A página que procura não foi encontrada.",
+    "giris.baslikSade": "Pedra natural.<br>Saber-fazer apurado.",
+    "giris.metinSade": "Trabalhamos com rigor a textura única do mármore e do travertino, transformando-os em mosaicos, ladrilhos e revestimentos de parede. Com produção própria em Denizli e opções de corte por medida para o seu projeto, levamos a pedra natural aos seus espaços.",
+    "urun.ustten": "Vista de topo (cor real)",
+    "urun.uygulamada": "Em aplicação",
+    "urun.temsili": "Imagens de aplicação ilustrativas: geradas por inteligência artificial a partir da fotografia da amostra deste produto. Na aplicação real, o padrão, a tonalidade e as dimensões podem variar.",
+    "urun.temsiliKisa": "ilustrativo",
+    "urun.buyut": "ampliar",
+    "sahne.banyo": "Parede de casa de banho",
+    "sahne.mutfak": "Revestimento entre móveis de cozinha",
+    "sahne.zemin": "Pavimento",
+    "sahne.duvar": "Parede",
+    "sahne.teras": "Terraço",
+    "urun.sergi": "Exposição",
+    "sahne.havuz-kenari": "Bordadura de piscina",
+    "sahne.havuz-su-hatti": "Linha de água da piscina",
+    "sahne.bahce-yolu": "Caminho de jardim",
+    "sahne.avlu": "Pátio mediterrânico",
+    "sahne.dis-cephe": "Fachada da casa",
+    "sahne.bahce-duvari": "Muro de jardim",
+    "sahne.giris-merdiveni": "Degraus de entrada",
+    "sahne.dis-mutfak": "Cozinha exterior",
+    "sahne.kis-bahcesi": "Jardim de inverno",
+    "sahne.dus": "Parede de duche",
+    "sahne.banyo-zemini": "Pavimento de casa de banho",
+    "sahne.lavabo-arkasi": "Parede de lavatório",
+    "sahne.kuvet-nisi": "Nicho de banheira",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Piscina interior",
+    "sahne.mutfak-tezgah": "Revestimento entre móveis de cozinha",
+    "sahne.kir-mutfagi": "Cozinha rústica",
+    "sahne.mutfak-adasi": "Ilha de cozinha",
+    "sahne.kafe": "Balcão de café",
+    "sahne.somine": "Revestimento de lareira",
+    "sahne.vurgu-duvari": "Parede de destaque na sala",
+    "sahne.salon-zemini": "Pavimento da sala",
+    "sahne.antre": "Hall de entrada",
+    "sahne.merdiven": "Parede da escada",
+    "sahne.yatak-basucu": "Parede de cabeceira",
+    "sahne.tv-duvari": "Parede de TV",
+    "sahne.yemek-odasi": "Sala de jantar",
+    "sahne.otel-lobisi": "Lobby de hotel",
+    "sahne.butik": "Loja boutique",
+    "sahne.restoran": "Parede de restaurante",
+    "sahne.sarap-mahzeni": "Garrafeira",
+    "sahne.ofis-resepsiyon": "Receção de escritório",
+    "urun.kalinlik": "Espessura",
+    "urun.kalinlikPanel": "2 cm (1, 2 ou 3 cm a pedido)",
+    "sss.mozaikM2": "Com placas de mosaico em rede de cerca de 30×30 cm, são necessárias, em média, {n} placas por m² (com juntas de 2 mm, sem contar com desperdícios). Acrescente cerca de {fire} placas para uma margem de desperdício de 10%. Cada página de produto apresenta o valor calculado com base nas dimensões da respetiva placa."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Mármore",
+      "Traverten": "Travertino"
+    },
+    "form": {
+      "Tek parça": "Ladrilho",
+      "Mozaik": "Mosaico",
+      "Altıgen": "Hexágono",
+      "Mini set": "Mini set Versailles",
+      "Panel": "Painel split-face"
+    },
+    "yuzey": {
+      "Eskitme": "Envelhecido",
+      "Dolgulu honlu": "Betumado e amaciado",
+      "Dolgulu eskitme": "Betumado e envelhecido",
+      "Dolgulu cilalı": "Betumado e polido",
+      "Cilalı": "Polido",
+      "Cilasız": "Sem polimento",
+      "Honlu": "Amaciado",
+      "Patlatma": "Split-face"
+    },
+    "ek": {
+      "İkili karışım": "Mistura bicolor",
+      "Üçlü karışım": "Mistura tricolor",
+      "Koyu": "Escuro",
+      "Açık": "Claro",
+      "Fileli": "Montado em rede",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Branco Muğla",
+      "Toros Siyahı": "Preto Toros",
+      "Eymer Siyah": "Preto Eymer",
+      "Sarı": "Amarelo",
+      "Pembe": "Rosa",
+      "Bej": "Bege",
+      "Klasik": "Clássico",
+      "Damarlı Noce": "Noce Veiado"
+    },
+    "ton": {
+      "beyaz": "Branco",
+      "krem": "Creme e bege",
+      "sari": "Amarelo",
+      "kahve": "Castanho",
+      "gri": "Cinzento",
+      "siyah": "Preto",
+      "pembe": "Rosa",
+      "karisik": "Tons mistos"
+    },
+    "sinif": {
+      "1": "1.ª escolha",
+      "2": "2.ª escolha",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Mármore Bege",
+      "Blue Stone|Mermer": "Mármore Blue Stone",
+      "Muğla Beyazı|Mermer": "Mármore Branco Muğla",
+      "Pembe|Mermer": "Mármore Rosa",
+      "Toros Siyahı|Mermer": "Mármore Preto Toros",
+      "Damarlı Noce|Traverten": "Travertino Noce Veiado",
+      "Klasik|Traverten": "Travertino Clássico",
+      "Light Mix|Traverten": "Travertino Light Mix",
+      "Mix|Traverten": "Travertino Mix",
+      "Noce|Traverten": "Travertino Noce",
+      "Pembe|Traverten": "Travertino Rosa",
+      "Sarı|Traverten": "Travertino Amarelo",
+      "Silver|Traverten": "Travertino Silver",
+      "Walnut|Traverten": "Travertino Walnut",
+      "Emperador|Mermer": "Mármore Emperador",
+      "Eymer Siyah|Traverten": "Travertino Preto Eymer",
+      "Ivory|Traverten": "Travertino Ivory",
+      "Light|Traverten": "Travertino Light",
+      "Light + Noce Mix|Traverten": "Travertino Light + Noce Mix",
+      "Nebula|Traverten": "Travertino Nebula",
+      "Onix Silver|Traverten": "Travertino Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Travertino Amarelo + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Travertino Amarelo + Noce Mix",
+      "Scabas|Traverten": "Travertino Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "A Karabel Doğal Taş é um fabricante de mármore e travertino fundado em 2014 na Zona Industrial Organizada de Denizli (Honaz, Turquia). Produz mosaicos, ladrilhos, padrões Versailles (mini set), hexágonos e painéis de parede split-face em travertino e mármore, executa cortes por medida e vende na Turquia e no mercado internacional."
+    },
+    "tas": {
+      "Light Mix": "Travertino luminoso onde tons de creme claro e marfim se fundem em transições suaves, adaptando-se facilmente a qualquer linguagem arquitetónica.",
+      "Mix": "Travertino expressivo com variação cromática natural que vai do creme claro ao bege quente e a subtis tons de caramelo.",
+      "Light": "Uma seleção serena de travertino que revela a sua textura porosa nos tons mais luminosos de creme e bege claro.",
+      "Silver": "Travertino cinzento onde se cruzam tons de prata, cinza e pedra quente — ideal para espaços modernos e de inspiração industrial.",
+      "Onix Silver": "Travertino cinzento de forte personalidade, marcado por veios profundos e estratificados sobre fundo cinza-prata.",
+      "Noce": "Travertino em tons de nogueira e castanho-terra quente que confere aos espaços um ambiente sóbrio e acolhedor de espírito mediterrânico.",
+      "Damarlı Noce": "Travertino de textura ritmada, dinamizado por camadas de veios paralelos bem definidos em tons de castanho quente e nogueira.",
+      "Walnut": "Travertino acolhedor, equilibrado entre o café com leite e a casca de noz, com transições suaves de tom.",
+      "Scabas": "Travertino de vincado caráter rústico, onde tons de creme, mel e castanho se encontram em desenhos expressivos.",
+      "Sarı": "Travertino em tons de amarelo-dourado e mel quente que traz luminosidade e vida a terraços, jardins e zonas exteriores.",
+      "Klasik": "Pedra depurada que reflete o tom bege-creme quente e a estrutura naturalmente porosa do tradicional travertino de Denizli.",
+      "Ivory": "Com os seus tons de branco quebrado e marfim claro, é o travertino mais luminoso e discreto da coleção.",
+      "Nebula": "Travertino de textura tranquila, com transições suaves como nuvens sobre uma base creme-acinzentada.",
+      "Pembe|Traverten": "Travertino em tons de salmão e rosa-terracota que cria uma atmosfera suave e fora do comum.",
+      "Eymer Siyah": "Pedra de forte contraste que alia tons de cinzento-escuro e antracite à textura porosa característica do travertino.",
+      "Muğla Beyazı": "Clássico mármore branco, reconhecido pelas nuvens cinza-fumo e veios delicados sobre fundo branco luminoso.",
+      "Bej": "Mármore creme-bege, disponível em seleções clara e escura, que cria uma superfície homogénea e serena.",
+      "Blue Stone": "Mármore de caráter fresco e contemporâneo, onde tons de azul-acinzentado e ardósia são atravessados por veios claros.",
+      "Emperador": "Mármore clássico e profundo, caracterizado por uma fina malha de veios claros sobre fundo castanho.",
+      "Pembe|Mermer": "Mármore rosa elegante, percorrido por veios brancos sobre um fundo rosa-velho.",
+      "Toros Siyahı": "Mármore de contraste marcante, com veios brancos bem definidos sobre um fundo preto-antracite escuro.",
+      "Light + Noce Mix": "Mistura bicolor que combina, na mesma placa em rede, o travertino creme claro Light e o castanho quente Noce, criando um contraste equilibrado.",
+      "Sarı + Noce Mix": "Mistura bicolor que harmoniza travertinos amarelo-dourado e castanho-nogueira em tons quentes de terra.",
+      "Sarı + Noce + Light Mix": "Combinação tricolor de travertinos creme claro, amarelo-dourado e castanho-nogueira, criando um ritmo cromático rico."
+    },
+    "yuzey": {
+      "Eskitme": "As peças são envelhecidas em tambor para arredondar as arestas e conferir à superfície uma textura suave e antiga. Este acabamento difunde a luz sem reflexos e proporciona um aspeto natural e acolhedor em exteriores, bordaduras de piscina, jardins e interiores rústicos.",
+      "Honlu": "A superfície é amaciada até atingir um acabamento mate, liso e acetinado, sem ser polida. Pelo seu aspeto contemporâneo e sem reflexos, este acabamento é muito procurado para pavimentos interiores.",
+      "Cilalı": "A superfície é polida até ao brilho espelhado, realçando ao máximo os veios e o contraste de cores. Proporciona um acabamento sofisticado em paredes e pavimentos interiores.",
+      "Cilasız": "Superfície deixada sem polimento após o corte, preservando a textura mate natural da pedra.",
+      "Dolgulu honlu": "Os poros naturais do travertino são betumados e a superfície é depois amaciada até ficar lisa e mate. Como os poros fechados não acumulam sujidade, a limpeza diária torna-se muito simples.",
+      "Dolgulu eskitme": "Travertino com poros betumados e posteriormente envelhecido em tambor para obter arestas boleadas e aspeto antigo — unindo o calor do acabamento envelhecido a uma superfície mais fechada.",
+      "Dolgulu cilalı": "Os poros do travertino são preenchidos e a superfície recebe polimento de alto brilho, resultando num acabamento liso, luminoso e fácil de limpar.",
+      "Patlatma": "A pedra é clivada mecanicamente para criar um relevo rugoso que evoca a rocha natural. O jogo de luz e sombra acrescenta profundidade a lareiras, fachadas, muros de jardim e paredes de destaque."
+    },
+    "form": {
+      "Tek parça": "Ladrilhos quadrados e retangulares para pavimento e parede, aplicáveis em junta alinhada, junta desencontrada, desfasamento a ⅓ ou espinha de peixe.",
+      "Mozaik": "Composto por tesselas montadas em placas de rede com cerca de 30×30 cm. As placas encaixam entre si, permitindo uma aplicação rápida e uniforme em bases de duche, paredes de cozinha e superfícies curvas.",
+      "Altıgen": "Pedra natural cortada em geometria de favo de mel, cruzando a textura clássica do travertino com uma linguagem geométrica contemporânea.",
+      "Mini set": "Composição Versailles (padrão francês) em que peças quadradas e retangulares de diferentes dimensões se encaixam no mesmo módulo, quebrando a repetição visual e criando uma superfície dinâmica.",
+      "Panel": "Painel de revestimento mural formado por tiras de pedra clivada dispostas em diferentes níveis. As extremidades em Z permitem o encaixe entre painéis, criando uma textura contínua de rocha em paredes interiores e exteriores."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "mosaico-de-travertino",
+        "ad": "Mosaico de travertino"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mosaico-de-marmore",
+        "ad": "Mosaico de mármore"
+      },
+      "Traverten|Tek parça": {
+        "slug": "ladrilho-de-travertino",
+        "ad": "Ladrilho de travertino"
+      },
+      "Mermer|Tek parça": {
+        "slug": "ladrilho-de-marmore",
+        "ad": "Ladrilho de mármore"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertino-padrao-versailles",
+        "ad": "Travertino padrão Versailles"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertino-hexagonal",
+        "ad": "Travertino hexagonal"
+      },
+      "Traverten|Panel": {
+        "slug": "painel-split-face-de-travertino",
+        "ad": "Painel split-face de travertino"
+      }
+    },
+    "sss": [
+      [
+        "Onde se situa a Karabel Doğal Taş e o que produz?",
+        "A Karabel Doğal Taş é um fabricante de mármore e travertino em atividade desde 2014 na Zona Industrial Organizada de Denizli (Honaz, Denizli, Turquia). Produz mosaicos, ladrilhos, conjuntos Versailles (mini set), hexágonos e painéis de parede split-face em travertino e mármore, além de realizar cortes por medida."
+      ],
+      [
+        "Qual é a diferença entre travertino e mármore?",
+        "O travertino é uma pedra naturalmente porosa formada pela deposição de carbonato de cálcio transportado por águas de nascente, conhecida pelos seus tons quentes de creme, bege, cinzento e castanho. O mármore resulta da transformação do calcário sob calor e pressão, apresentando uma estrutura mais densa e veios bem marcados. Denizli é a região da Turquia mais reconhecida pelo seu travertino."
+      ],
+      [
+        "Qual é a diferença entre os acabamentos amaciado, envelhecido e polido?",
+        "No acabamento amaciado, a superfície é trabalhada até ficar lisa e mate, sem ser polida. No acabamento envelhecido, as peças são trabalhadas num tambor; as arestas ficam arredondadas e a superfície adquire uma textura antiga. No acabamento polido, a pedra é trabalhada até atingir um brilho espelhado, evidenciando os veios com a máxima intensidade."
+      ],
+      [
+        "O que é o travertino betumado (filled)?",
+        "Consiste no preenchimento dos poros naturais do travertino com massa própria. A superfície betumada apresenta um aspeto mais fechado e uniforme, não retém sujidade e limpa-se facilmente. Já o travertino não betumado conserva os poros abertos e a textura natural da pedra."
+      ],
+      [
+        "Quantas placas de mosaico são necessárias para 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Qual é a diferença entre 1.ª escolha, 2.ª escolha e Export?",
+        "Na pedra natural, as classes indicam o rigor da seleção, com base em critérios como a uniformidade da cor, os poros e os defeitos de superfície. A classe Export corresponde à seleção mais rigorosa. A escolha mais adequada para cada projeto deve ser feita com base numa amostra."
+      ],
+      [
+        "Fazem cortes por medida?",
+        "Sim. Além dos formatos padrão, produzimos em comprimentos livres e em medidas específicas para cada projeto — por exemplo, travertino Silver com 8 cm de largura cortado no comprimento pretendido."
+      ],
+      [
+        "Vendem para o estrangeiro?",
+        "Sim, a Karabel Doğal Taş fornece clientes tanto na Turquia como no mercado internacional. Para preços, amostras e condições de expedição, pode contactar-nos por WhatsApp ({telefon}) ou através do e-mail {eposta}."
+      ],
+      [
+        "As cores das pedras apresentadas no site são reais?",
+        "As imagens são fotografias de amostras reais; não foram aplicados filtros de correção de cor, tendo sido apenas limpo o fundo. Como na pedra natural cada peça é única e os ecrãs podem alterar a perceção das cores, recomendamos a visualização de uma amostra antes da decisão final."
+      ]
+    ]
+  }
+}

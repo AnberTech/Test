@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Polski",
+    "kisa": "PL",
+    "yerel": "pl-PL",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "pl"
+  },
+  "yol": {
+    "koleksiyon": "kolekcja",
+    "urun": "produkt",
+    "tas": "kamien",
+    "yuzey": "wykonczenie",
+    "sss": "faq",
+    "hakkimizda": "o-nas",
+    "iletisim": "kontakt"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kolekcja",
+    "nav.hakkimizda": "O nas",
+    "nav.iletisim": "Kontakt",
+    "nav.teklif": "Poproś o wycenę",
+    "nav.menu": "Menu",
+    "marka.alt": "Marmur · Kamień naturalny",
+    "giris.ust": "Od 2014 r. · Denizli",
+    "giris.koleksiyon": "Poznaj nasze kamienie",
+    "giris.urun": "produktów",
+    "kol.ust": "Kolekcja",
+    "kol.baslik": "Faktura z bliska. <em>Charakter w pełnej skali.</em>",
+    "kol.metin": "Zdjęcia przedstawiają rzeczywiste próbki. Odcień i użylenie naturalnego kamienia mogą różnić się między poszczególnymi elementami.",
+    "kol.tumu": "Wszystkie",
+    "kol.ara": "Szukaj według nazwy kamienia, koloru lub wymiaru",
+    "kol.form": "Format",
+    "kol.yuzey": "Wykończenie",
+    "kol.renk": "Kolor",
+    "kol.temizle": "Wyczyść filtry",
+    "kol.sonuc": "{n} produktów",
+    "kol.bos": "Brak produktów spełniających wybrane kryteria. Spróbuj ograniczyć liczbę filtrów.",
+    "urun.form": "Format",
+    "urun.parca": "Wymiary elementu",
+    "urun.birim": "Wymiary plastra",
+    "urun.yuzey": "Wykończenie powierzchni",
+    "urun.sinif": "Klasa gatunkowa",
+    "urun.ozellik": "Dodatkowa cecha",
+    "urun.grup": "Rodzaj kamienia",
+    "urun.teklif": "Poproś o wycenę na WhatsAppie",
+    "urun.teyit": "Niektóre parametry tego produktu wymagają potwierdzenia. Przed złożeniem zamówienia prosimy o weryfikację aktualnych wymiarów i specyfikacji.",
+    "urun.kapat": "Zamknij",
+    "urun.olcuyeGore": "Długość ustalana na zamówienie",
+    "hak.ust": "O nas",
+    "hak.baslik": "Produkcja w Denizli, <em>od 2014 roku.</em>",
+    "hak.metin1": "Firma Karabel Doğal Taş powstała w 2014 roku w Zorganizowanej Strefie Przemysłowej Denizli w Honaz (Turcja). Produkujemy mozaiki, płytki, zestawy Versailles i mini set, heksagony oraz panele łupane z marmuru i trawertynu.",
+    "hak.metin2": "Współpracujemy z odbiorcami w Turcji oraz za granicą. Zapraszamy do kontaktu w sprawie produktów z kolekcji oraz cięcia kamienia na wymiar.",
+    "hak.kurulus": "Rok założenia",
+    "hak.uretim": "Miejsce produkcji",
+    "hak.uretimDeger": "Zorganizowana Strefa Przemysłowa Denizli",
+    "hak.olcu": "Cięcie",
+    "hak.olcuDeger": "Na wymiar",
+    "hak.pazar": "Sprzedaż",
+    "hak.pazarDeger": "Krajowa i międzynarodowa",
+    "ilt.ust": "Kontakt",
+    "ilt.baslik": "Czas na <em>Twój projekt.</em>",
+    "ilt.metin": "Napisz do nas w sprawie wyceny, zamówienia próbek lub cięcia na wymiar.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-mail",
+    "ilt.adres": "Adres",
+    "ilt.harita": "Pokaż na mapie",
+    "ilt.form.ad": "Imię i nazwisko",
+    "ilt.form.konu": "Produkt lub projekt",
+    "ilt.form.mesaj": "Opisz swoje zapotrzebowanie",
+    "ilt.form.gonder": "Kontynuuj na WhatsAppie",
+    "ilt.form.eposta": "Otwórz w programie pocztowym",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Zdjęcia przedstawiają rzeczywiste próbki. W przypadku kamienia naturalnego mogą występować różnice w odcieniu i użyleniu.",
+    "wa.urun": "Dzień dobry, proszę o wycenę produktu {urun}.",
+    "wa.genel": "Dzień dobry, proszę o informacje o Państwa produktach z marmuru i trawertynu.",
+    "wa.form": "Dzień dobry, nazywam się {ad}.\nTemat: {konu}\n{mesaj}",
+    "nav.atla": "Przejdź do treści",
+    "urun.kenar": "Długość boku: {n} cm",
+    "yardim.numune": "Poproś o próbkę",
+    "yardim.sinif": "Zapytaj o różnice w klasach",
+    "nav.sss": "FAQ",
+    "nav.ana": "Strona główna",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — turecki trawertyn i marmur z Denizli: mozaiki, płytki, wzór Versailles, panele łupane",
+    "sayfa.anaAciklama": "Producent marmuru i trawertynu w Denizli od 2014 roku: mozaiki trawertynowe, płytki, zestawy Versailles, heksagony i panele łupane. Zdjęcia rzeczywistych próbek, wymiary i przeliczniki na m².",
+    "kol.hepsi": "Wszystkie produkty ({n})",
+    "rehber.ust": "Przewodnik po wykończeniach",
+    "sss.baslik": "Najczęściej zadawane pytania",
+    "sss.hepsi": "Wszystkie pytania →",
+    "sss.altBaslik": "O marmurze, trawertynie i zamówieniach",
+    "urun.birimLevha": "plastrów",
+    "urun.birimTas": "płytek",
+    "urun.m2Cumle": "Około {n} {birim} na 1 m².",
+    "urun.gorunum": "Zdjęcie",
+    "urun.m2": "Na m²",
+    "urun.teknikIste": "Zapytaj o dane techniczne",
+    "urun.hakkinda": "O kamieniu: {ad}",
+    "urun.m2Uzun": "Na 1 m² potrzeba około {n} {birim} tego produktu (przy fudze 2 mm). Przy zapasie 10% na docinki należy przyjąć około {fire} {birim}; dokładną ilość potwierdzimy na etapie wyceny.",
+    "urun.kardes": "{ad}: inne wymiary i wykończenia",
+    "wa.numune": "Dzień dobry, proszę o próbkę produktu {urun}.",
+    "wa.teknik": "Dzień dobry, proszę o specyfikację techniczną produktu {urun} (grubość, tolerancja wymiarowa, pakowanie).",
+    "wa.sinif": "Dzień dobry, proszę o informację, czym różnią się klasy gatunkowe (Klasa 1 / Klasa 2 / Export) produktu {urun}.",
+    "wa.kategori": "Dzień dobry, proszę o wycenę produktów z kategorii {kategori}.",
+    "kat.baslikEk": "Kategorie",
+    "kat.urunSayisi": "Produkty",
+    "kat.olculer": "Wymiary",
+    "kat.yuzeyler": "Wykończenia",
+    "kat.taslar": "Kamienie",
+    "kat.ortalama": "średnio",
+    "kat.ozet": "Karabel Doğal Taş produkuje w Denizli produkty z kategorii „{ad}”. Liczba produktów: {n}; wymiary: {olculer}; wykończenia: {yuzeyler}. Wszystkie zdjęcia przedstawiają rzeczywiste próbki.",
+    "yuzeyS.baslik": "Wykończenie: {ad}",
+    "sayfa.kolBaslik": "Kolekcja marmuru i trawertynu",
+    "sayfa.kolAciklama": "{n} produktów z marmuru i trawertynu: mozaiki, płytki, zestawy Versailles, heksagony oraz panele łupane. Zdjęcia rzeczywistych próbek, wymiary i przelicznik na m².",
+    "hak.uretimimiz": "Nasze produkty",
+    "sayfa.yok": "Nie znaleziono szukanej strony.",
+    "giris.baslikSade": "Kamień naturalny.<br>Precyzja wykonania.",
+    "giris.metinSade": "Z dbałością o detale wydobywamy unikalną strukturę marmuru i trawertynu, tworząc mozaiki, płytki oraz okładziny ścienne. Dzięki własnej produkcji w Denizli i możliwości cięcia na wymiar pod konkretny projekt wprowadzamy kamień naturalny do Twoich przestrzeni.",
+    "urun.ustten": "Widok z góry (rzeczywisty kolor)",
+    "urun.uygulamada": "W aranżacji",
+    "urun.temsili": "Wizualizacje poglądowe: wygenerowane z użyciem AI na podstawie zdjęcia próbki tego produktu. W rzeczywistej realizacji wzór, odcień i wymiary mogą się różnić.",
+    "urun.temsiliKisa": "wizualizacja",
+    "urun.buyut": "powiększ",
+    "sahne.banyo": "Ściana w łazience",
+    "sahne.mutfak": "Pas nad blatem kuchennym",
+    "sahne.zemin": "Podłoga",
+    "sahne.duvar": "Ściana",
+    "sahne.teras": "Taras",
+    "urun.sergi": "Ekspozycja",
+    "sahne.havuz-kenari": "Obejście basenu",
+    "sahne.havuz-su-hatti": "Linia wody w basenie",
+    "sahne.bahce-yolu": "Ścieżka ogrodowa",
+    "sahne.avlu": "Dziedziniec śródziemnomorski",
+    "sahne.dis-cephe": "Elewacja domu",
+    "sahne.bahce-duvari": "Mur ogrodowy",
+    "sahne.giris-merdiveni": "Schody wejściowe",
+    "sahne.dis-mutfak": "Kuchnia ogrodowa",
+    "sahne.kis-bahcesi": "Ogród zimowy",
+    "sahne.dus": "Ściana pod prysznicem",
+    "sahne.banyo-zemini": "Podłoga w łazience",
+    "sahne.lavabo-arkasi": "Ściana za umywalką",
+    "sahne.kuvet-nisi": "Wnęka wannowa",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Strefa SPA",
+    "sahne.kapali-havuz": "Basen kryty",
+    "sahne.mutfak-tezgah": "Pas nad blatem kuchennym",
+    "sahne.kir-mutfagi": "Kuchnia w stylu rustykalnym",
+    "sahne.mutfak-adasi": "Wyspa kuchenna",
+    "sahne.kafe": "Lada kawiarniana",
+    "sahne.somine": "Obudowa kominka",
+    "sahne.vurgu-duvari": "Ściana akcentowa w salonie",
+    "sahne.salon-zemini": "Podłoga w salonie",
+    "sahne.antre": "Przedpokój",
+    "sahne.merdiven": "Ściana przy schodach",
+    "sahne.yatak-basucu": "Ściana za wezgłowiem łóżka",
+    "sahne.tv-duvari": "Ściana TV",
+    "sahne.yemek-odasi": "Jadalnia",
+    "sahne.otel-lobisi": "Lobby hotelowe",
+    "sahne.butik": "Butik",
+    "sahne.restoran": "Ściana w restauracji",
+    "sahne.sarap-mahzeni": "Piwniczka na wino",
+    "sahne.ofis-resepsiyon": "Recepcja biurowa",
+    "urun.kalinlik": "Grubość",
+    "urun.kalinlikPanel": "2 cm (na zamówienie 1, 2 lub 3 cm)",
+    "sss.mozaikM2": "Przy plastrach mozaiki o wymiarach ok. 30×30 cm na 1 m² potrzeba średnio {n} plastrów (z fugą 2 mm, bez zapasu na docinki). Doliczając 10% zapasu, należy przyjąć ok. {fire} plastrów. Na karcie każdego produktu podana jest wartość wyliczona dla dokładnego wymiaru jego plastra."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Marmur",
+      "Traverten": "Trawertyn"
+    },
+    "form": {
+      "Tek parça": "Płytka",
+      "Mozaik": "Mozaika",
+      "Altıgen": "Heksagon",
+      "Mini set": "Zestaw Versailles",
+      "Panel": "Panel łupany"
+    },
+    "yuzey": {
+      "Eskitme": "Bębnowany (postarzany)",
+      "Dolgulu honlu": "Szpachlowany i szlifowany",
+      "Dolgulu eskitme": "Szpachlowany i bębnowany",
+      "Dolgulu cilalı": "Szpachlowany i polerowany",
+      "Cilalı": "Polerowany",
+      "Cilasız": "Niepolerowany",
+      "Honlu": "Szlifowany (matowy)",
+      "Patlatma": "Łupany"
+    },
+    "ek": {
+      "İkili karışım": "Mieszanka dwukolorowa",
+      "Üçlü karışım": "Mieszanka trójkolorowa",
+      "Koyu": "Ciemny",
+      "Açık": "Jasny",
+      "Fileli": "Na siatce",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Biały Muğla",
+      "Toros Siyahı": "Czarny Toros",
+      "Eymer Siyah": "Czarny Eymer",
+      "Sarı": "Żółty",
+      "Pembe": "Różowy",
+      "Bej": "Beżowy",
+      "Klasik": "Klasyczny",
+      "Damarlı Noce": "Noce żyłkowany"
+    },
+    "ton": {
+      "beyaz": "Biały",
+      "krem": "Kremowy i beżowy",
+      "sari": "Żółty",
+      "kahve": "Brązowy",
+      "gri": "Szary",
+      "siyah": "Czarny",
+      "pembe": "Różowy",
+      "karisik": "Mieszane odcienie"
+    },
+    "sinif": {
+      "1": "Klasa 1",
+      "2": "Klasa 2",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Marmur beżowy",
+      "Blue Stone|Mermer": "Marmur Blue Stone",
+      "Muğla Beyazı|Mermer": "Biały marmur Muğla",
+      "Pembe|Mermer": "Marmur różowy",
+      "Toros Siyahı|Mermer": "Czarny marmur Toros",
+      "Damarlı Noce|Traverten": "Trawertyn Noce żyłkowany",
+      "Klasik|Traverten": "Trawertyn klasyczny",
+      "Light Mix|Traverten": "Trawertyn Light Mix",
+      "Mix|Traverten": "Trawertyn Mix",
+      "Noce|Traverten": "Trawertyn Noce",
+      "Pembe|Traverten": "Trawertyn różowy",
+      "Sarı|Traverten": "Trawertyn żółty",
+      "Silver|Traverten": "Trawertyn Silver",
+      "Walnut|Traverten": "Trawertyn Walnut",
+      "Emperador|Mermer": "Marmur Emperador",
+      "Eymer Siyah|Traverten": "Czarny trawertyn Eymer",
+      "Ivory|Traverten": "Trawertyn Ivory",
+      "Light|Traverten": "Trawertyn Light",
+      "Light + Noce Mix|Traverten": "Trawertyn Light + Noce Mix",
+      "Nebula|Traverten": "Trawertyn Nebula",
+      "Onix Silver|Traverten": "Trawertyn Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Trawertyn Żółty + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Trawertyn Żółty + Noce Mix",
+      "Scabas|Traverten": "Trawertyn Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş to producent marmuru i trawertynu działający od 2014 roku w Zorganizowanej Strefie Przemysłowej Denizli (Honaz, Turcja). Wytwarza z trawertynu i marmuru mozaiki, płytki, zestawy Versailles (mini set), heksagony oraz łupane panele ścienne, oferuje cięcie na wymiar i prowadzi sprzedaż w Turcji oraz za granicą."
+    },
+    "tas": {
+      "Light Mix": "Trawertyn, w którym odcienie jasnego kremu i kości słoniowej łagodnie się przenikają — lekki wizualnie i pasujący do każdego stylu architektonicznego.",
+      "Mix": "Wyrazisty trawertyn o naturalnej grze barw przechodzącej od jasnego kremu po ciepły beż i delikatny karmel.",
+      "Light": "Stonowana selekcja trawertynu eksponująca porowatą strukturę kamienia w najjaśniejszych odcieniach kremu i jasnego beżu.",
+      "Silver": "Szary trawertyn, w którym przeplatają się srebrzysta szarość, popiel i ciepłe odcienie kamienia — doskonały do wnętrz nowoczesnych i industrialnych.",
+      "Onix Silver": "Wyrazisty szary trawertyn z warstwowym, głębokim użyleniem na srebrzystoszarym tle.",
+      "Noce": "Odcienie orzecha i ciepłego ziemistego brązu nadające przestrzeni szlachetny, śródziemnomorski charakter.",
+      "Damarlı Noce": "Trawertyn o rytmicznej strukturze ożywionej wyraźnymi, równoległymi pasmami ciepłego brązu i orzecha.",
+      "Walnut": "Ciepły w odbiorze trawertyn o łagodnych przejściach tonalnych między kawą z mlekiem a łupiną orzecha.",
+      "Scabas": "Trawertyn o wyrazistym, rustykalnym charakterze, w którym odcienie kremu, miodu i brązu tworzą mocny rysunek.",
+      "Sarı": "Trawertyn w odcieniach złocistej żółci i ciepłego miodu, który ożywia zwłaszcza tarasy, ogrody i przestrzenie zewnętrzne.",
+      "Klasik": "Szlachetny w swojej prostocie kamień oddający ciepły beżowo-kremowy odcień i naturalną porowatą strukturę tradycyjnego trawertynu z Denizli.",
+      "Ivory": "Złamana biel i jasna kość słoniowa — najjaśniejszy i najbardziej subtelny trawertyn w kolekcji.",
+      "Nebula": "Spokojny w wyrazie trawertyn z miękkimi, przypominającymi obłoki przejściami tonalnymi na kremowo-szarym tle.",
+      "Pembe|Traverten": "Trawertyn w odcieniach łososiowym i ziemistego różu, budujący nieoczywistą, łagodną atmosferę.",
+      "Eymer Siyah": "Kontrastowy kamień łączący ciemną szarość i antracyt z naturalnie porowatą strukturą trawertynu.",
+      "Muğla Beyazı": "Klasyczny biały marmur rozpoznawalny dzięki przydymionym szarym obłokom i subtelnym żyłkom na białym tle.",
+      "Bej": "Kremowo-beżowy marmur w jasnej i ciemnej selekcji, tworzący jednolitą, spokojną powierzchnię.",
+      "Blue Stone": "Marmur o chłodnym, nowoczesnym charakterze, w którym niebieskoszare i łupkowe tony przecinają się z jasnym użyleniem.",
+      "Emperador": "Klasyczny marmur o głębokim wyrazie, wyróżniający się gęstą siatką drobnych, jasnych żyłek na brązowym tle.",
+      "Pembe|Mermer": "Elegancki różowy marmur z białym użyleniem na tle w odcieniu zgaszonego różu.",
+      "Toros Siyahı": "Marmur tworzący mocny kontrast dzięki wyraźnym białym żyłom na ciemnym, antracytowo-czarnym tle.",
+      "Light + Noce Mix": "Dwukolorowa kompozycja łącząca na jednym plastrze jasnokremowy trawertyn Light oraz ciepły, brązowy Noce.",
+      "Sarı + Noce Mix": "Dwukolorowa mieszanka złocistożółtego i orzechowego trawertynu w ciepłych barwach ziemi.",
+      "Sarı + Noce + Light Mix": "Trójkolorowe połączenie jasnokremowego, złocistego i orzechowego trawertynu o bogatym rytmie barwnym."
+    },
+    "yuzey": {
+      "Eskitme": "Kamień jest bębnowany, dzięki czemu jego krawędzie ulegają zaokrągleniu, a powierzchnia zyskuje miękką, postarzaną (antyczną) fakturę. Rozprasza światło bez połysku; doskonale sprawdza się na zewnątrz, wokół basenów, w ogrodach oraz w rustykalnych wnętrzach.",
+      "Honlu": "Powierzchnia szlifowana na gładko do uzyskania jedwabistego matu, bez polerowania. Ze względu na nowoczesny wygląd bez refleksów świetlnych jest chętnie wybierana na posadzki wewnętrzne.",
+      "Cilalı": "Powierzchnia polerowana na lustrzany połysk, wydobywająca pełnię głębi koloru oraz kontrast użylenia. Zapewnia elegancki efekt na ścianach i podłogach we wnętrzach.",
+      "Cilasız": "Niepolerowana po cięciu powierzchnia, zachowująca naturalną matową fakturę kamienia.",
+      "Dolgulu honlu": "Naturalne pory trawertynu są zamykane masą szpachlową, a następnie powierzchnia jest szlifowana (honowana) na gładki mat. Brak otwartych porów zapobiega gromadzeniu się zabrudzeń i ułatwia utrzymanie czystości.",
+      "Dolgulu eskitme": "Trawertyn o wypełnionych porach poddawany bębnowaniu w celu zaokrąglenia krawędzi i nadania mu antycznego charakteru. Łączy ciepło kamienia postarzanego z bardziej zwartą powierzchnią.",
+      "Dolgulu cilalı": "Pory trawertynu są wypełniane, a powierzchnia polerowana na wysoki połysk — daje to gładką, lśniącą i łatwą w czyszczeniu okładzinę.",
+      "Patlatma": "Kamień jest mechanicznie łupany, co pozwala uzyskać wypukłą fakturę przypominającą naturalną skałę. Gra światła i cienia nadaje głębię obudowom kominków, elewacjom, elementom ogrodowym oraz ścianom akcentowym."
+    },
+    "form": {
+      "Tek parça": "Kwadratowe i prostokątne płytki kamienne. Układane prosto, na mijankę, z przesunięciem ⅓ lub w jodełkę na podłogach i ścianach.",
+      "Mozaik": "Drobne elementy kamienne są montowane na siatce o wymiarach ok. 30×30 cm. Plastry zazębiają się ze sobą, zapewniając szybki i równy montaż na posadzkach prysznicowych, nad blatem kuchennym oraz na powierzchniach zakrzywionych.",
+      "Altıgen": "Kamień naturalny cięty w kształt plastra miodu (heksagonu). Łączy klasyczną strukturę trawertynu ze współczesną geometryczną formą.",
+      "Mini set": "Zestaw Versailles (wzór francuski) składający się z kwadratowych i prostokątnych płytek o różnych formatach, które zazębiają się w jednym module, przełamując widoczną powtarzalność.",
+      "Panel": "Panel okładzinowy złożony ze stopniowo ułożonych pasków kamienia łupanego. Końcówki w kształcie litery Z umożliwiają łączenie paneli, tworząc ciągłą fakturę skały na ścianach wewnętrznych i zewnętrznych."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "mozaika-trawertynowa",
+        "ad": "Mozaika trawertynowa"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mozaika-marmurowa",
+        "ad": "Mozaika marmurowa"
+      },
+      "Traverten|Tek parça": {
+        "slug": "plytki-trawertynowe",
+        "ad": "Płytki trawertynowe"
+      },
+      "Mermer|Tek parça": {
+        "slug": "plytki-marmurowe",
+        "ad": "Płytki marmurowe"
+      },
+      "Traverten|Mini set": {
+        "slug": "trawertyn-wzor-versailles",
+        "ad": "Trawertyn – wzór Versailles"
+      },
+      "Traverten|Altıgen": {
+        "slug": "heksagon-trawertynowy",
+        "ad": "Heksagon trawertynowy"
+      },
+      "Traverten|Panel": {
+        "slug": "panele-lupane-z-trawertynu",
+        "ad": "Panele łupane z trawertynu"
+      }
+    },
+    "sss": [
+      [
+        "Gdzie znajduje się firma Karabel Doğal Taş i co produkuje?",
+        "Karabel Doğal Taş jest producentem marmuru i trawertynu działającym od 2014 roku w Zorganizowanej Strefie Przemysłowej Denizli (Honaz, Denizli, Turcja). Produkuje z trawertynu i marmuru mozaiki, płytki, zestawy Versailles (mini set), heksagony oraz łupane panele ścienne, a także wykonuje cięcie na wymiar."
+      ],
+      [
+        "Czym różni się trawertyn od marmuru?",
+        "Trawertyn to naturalnie porowaty kamień powstający w wyniku wytrącania się węglanu wapnia z wód źródlanych; słynie z ciepłych odcieni kremu, beżu, szarości i brązu. Marmur powstaje z przeobrażenia wapienia pod wpływem wysokiej temperatury i ciśnienia — ma gęstszą strukturę oraz wyraźne użylenie. Denizli to najbardziej znany region trawertynowy w Turcji."
+      ],
+      [
+        "Czym różnią się powierzchnie szlifowane (honowane), bębnowane (postarzane) i polerowane?",
+        "Powierzchnia szlifowana (honowana) jest gładka i matowa, bez połysku. W wykończeniu bębnowanym (postarzanym) kamienie są obtaczane w bębnie, dzięki czemu ich krawędzie się zaokrąglają, a powierzchnia nabiera antycznej faktury. Powierzchnia polerowana ma lustrzany połysk, który najpełniej wydobywa użylenie i barwę kamienia."
+      ],
+      [
+        "Co to jest trawertyn szpachlowany (wypełniany)?",
+        "Trawertyn szpachlowany ma naturalne pory zamknięte specjalną zaprawą wypełniającą. Taka powierzchnia jest bardziej jednolita i zwarta, nie gromadzi brudu i jest łatwa w czyszczeniu. Trawertyn nieszpachlowany zachowuje swoją naturalną, otwartą strukturę porowatą."
+      ],
+      [
+        "Ile plastrów mozaiki potrzeba na 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Jaka jest różnica między klasą 1, klasą 2 a klasą Export?",
+        "Klasy gatunkowe kamienia naturalnego określają rygor selekcji pod względem powtarzalności odcienia, wielkości porów oraz niedoskonałości powierzchni. Export to klasa o najbardziej rygorystycznej selekcji. Najlepszą podstawą wyboru do konkretnego projektu jest ocena rzeczywistej próbki."
+      ],
+      [
+        "Czy wykonujecie cięcie na wymiar?",
+        "Tak. Oprócz standardowych formatów oferujemy pasy o zmiennej długości oraz cięcie na wymiar zgodnie ze specyfikacją projektu — przykładowo trawertyn Silver o szerokości 8 cm produkujemy na zamówioną długość."
+      ],
+      [
+        "Czy eksportujecie swoje produkty?",
+        "Tak, Karabel Doğal Taş obsługuje zarówno rynek turecki, jak i odbiorców międzynarodowych. W sprawie wyceny, próbek i transportu prosimy o kontakt przez WhatsApp ({telefon}) lub e-mail ({eposta})."
+      ],
+      [
+        "Czy kolory kamienia na stronie są rzeczywiste?",
+        "Zdjęcia przedstawiają rzeczywiste próbki — nie zastosowano filtrów korygujących barwę, usunięto jedynie tło. Każdy element z kamienia naturalnego nieco się różni, a ekrany mogą inaczej odwzorowywać kolory, dlatego przed podjęciem ostatecznej decyzji zalecamy obejrzenie próbki."
+      ]
+    ]
+  }
+}

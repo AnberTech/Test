@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Norsk",
+    "kisa": "NO",
+    "yerel": "nb-NO",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "no"
+  },
+  "yol": {
+    "koleksiyon": "kolleksjon",
+    "urun": "produkt",
+    "tas": "stein",
+    "yuzey": "overflate",
+    "sss": "sporsmal",
+    "hakkimizda": "om-oss",
+    "iletisim": "kontakt"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kolleksjon",
+    "nav.hakkimizda": "Om oss",
+    "nav.iletisim": "Kontakt",
+    "nav.teklif": "Be om tilbud",
+    "nav.menu": "Meny",
+    "marka.alt": "Marmor · Naturstein",
+    "giris.ust": "Siden 2014 · Denizli",
+    "giris.koleksiyon": "Utforsk steinene",
+    "giris.urun": "produkter",
+    "kol.ust": "Kolleksjon",
+    "kol.baslik": "Tekstur på nært hold. <em>Karakter i helheten.</em>",
+    "kol.metin": "Bildene du ser viser ekte steinprøver. Farge og årespill varierer naturlig fra stykke til stykke.",
+    "kol.tumu": "Alle",
+    "kol.ara": "Søk etter steinnavn, farge eller mål",
+    "kol.form": "Format",
+    "kol.yuzey": "Overflate",
+    "kol.renk": "Farge",
+    "kol.temizle": "Nullstill filtre",
+    "kol.sonuc": "{n} produkter",
+    "kol.bos": "Ingen produkter samsvarer med disse filtrene. Prøv å fjerne noen filtre.",
+    "urun.form": "Format",
+    "urun.parca": "Brikkemål",
+    "urun.birim": "Arkmål",
+    "urun.yuzey": "Overflate",
+    "urun.sinif": "Sortering",
+    "urun.ozellik": "Tilleggsinformasjon",
+    "urun.grup": "Steintype",
+    "urun.teklif": "Be om tilbud på WhatsApp",
+    "urun.teyit": "Noen produktopplysninger er ennå ikke bekreftet. Avklar gjeldende mål og spesifikasjoner med oss før bestilling.",
+    "urun.kapat": "Lukk",
+    "urun.olcuyeGore": "Lengde angis ved bestilling",
+    "hak.ust": "Om oss",
+    "hak.baslik": "Produksjon i Denizli, <em>siden 2014.</em>",
+    "hak.metin1": "Karabel Doğal Taş ble grunnlagt i 2014 i Denizli industrisone i Honaz i Tyrkia. Vi produserer mosaikk, fliser, Versailles- og minisett, sekskantfliser og steinpaneler med kløvet overflate i marmor og travertin.",
+    "hak.metin2": "Vi leverer til innkjøpere i Tyrkia og internasjonalt. Ta gjerne kontakt om produktene i kolleksjonen eller tilkapping etter egne mål.",
+    "hak.kurulus": "Grunnlagt",
+    "hak.uretim": "Produksjonssted",
+    "hak.uretimDeger": "Denizli OSB, Tyrkia",
+    "hak.olcu": "Tilkapping",
+    "hak.olcuDeger": "Spesialmål",
+    "hak.pazar": "Salg",
+    "hak.pazarDeger": "Tyrkia og utlandet",
+    "ilt.ust": "Kontakt",
+    "ilt.baslik": "La oss planlegge <em>ditt neste prosjekt.</em>",
+    "ilt.metin": "Kontakt oss for priser, vareprøver eller tilkapping på spesialmål.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-post",
+    "ilt.adres": "Adresse",
+    "ilt.harita": "Vis på kart",
+    "ilt.form.ad": "Ditt navn",
+    "ilt.form.konu": "Produkt eller prosjekt",
+    "ilt.form.mesaj": "Fortell oss hva du trenger",
+    "ilt.form.gonder": "Fortsett på WhatsApp",
+    "ilt.form.eposta": "Åpne i e-postprogram",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Bildene viser ekte vareprøver. Naturlige variasjoner i farge og årespill vil forekomme.",
+    "wa.urun": "Hei, jeg ønsker et pristilbud på {urun}.",
+    "wa.genel": "Hei, jeg vil gjerne ha mer informasjon om marmor- og travertinproduktene deres.",
+    "wa.form": "Hei, jeg heter {ad}.\nGjelder: {konu}\n{mesaj}",
+    "nav.atla": "Hopp til innhold",
+    "urun.kenar": "Sidelengde: {n} cm",
+    "yardim.numune": "Be om vareprøve",
+    "yardim.sinif": "Spør om sorteringsforskjeller",
+    "nav.sss": "Ofte stilte spørsmål",
+    "nav.ana": "Forside",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Travertin og marmor fra Denizli: mosaikk, fliser, Versailles, kløvde steinpaneler",
+    "sayfa.anaAciklama": "Produsent av marmor og travertin i Denizli i Tyrkia siden 2014: travertinmosaikk, fliser, Versailles-sett, sekskantfliser og kløvde steinpaneler. Bilder av ekte vareprøver, mål og m²-beregninger.",
+    "kol.hepsi": "Alle produkter ({n})",
+    "rehber.ust": "Overflateguide",
+    "sss.baslik": "Ofte stilte spørsmål",
+    "sss.hepsi": "Alle spørsmål →",
+    "sss.altBaslik": "Om marmor, travertin og bestilling",
+    "urun.birimLevha": "ark",
+    "urun.birimTas": "fliser",
+    "urun.m2Cumle": "Ca. {n} {birim} per m².",
+    "urun.gorunum": "Bilde",
+    "urun.m2": "Per m²",
+    "urun.teknikIste": "Be om tekniske data",
+    "urun.hakkinda": "Om {ad}",
+    "urun.m2Uzun": "Det går med ca. {n} {birim} av dette produktet per m² (med 2 mm fuger). Beregn ca. {fire} {birim} inkludert 10 % svinn; endelig mengde bekreftes ved tilbud.",
+    "urun.kardes": "{ad}: andre mål og overflater",
+    "wa.numune": "Hei, jeg ønsker å bestille en vareprøve av {urun}.",
+    "wa.teknik": "Hei, kan dere sende teknisk informasjon (tykkelse, toleranse, pakking) for {urun}?",
+    "wa.sinif": "Hei, jeg vil gjerne vite forskjellen mellom sorteringene (1. sortering / 2. sortering / Export) for {urun}.",
+    "wa.kategori": "Hei, jeg ønsker et pristilbud på produktene i kategorien {kategori}.",
+    "kat.baslikEk": "Kategorier",
+    "kat.urunSayisi": "Produkter",
+    "kat.olculer": "Mål",
+    "kat.yuzeyler": "Overflater",
+    "kat.taslar": "Steintyper",
+    "kat.ortalama": "gjennomsnitt",
+    "kat.ozet": "Karabel Doğal Taş produserer {ad} i Denizli i Tyrkia: {n} produkter, mål {olculer}; overflater: {yuzeyler}. Alle bilder viser ekte vareprøver.",
+    "yuzeyS.baslik": "{ad} overflate",
+    "sayfa.kolBaslik": "Kolleksjon av marmor og travertin",
+    "sayfa.kolAciklama": "{n} marmor- og travertinprodukter: mosaikk, fliser, Versailles-sett, sekskantfliser og kløvde steinpaneler. Bilder av ekte vareprøver, mål og forbruk per m².",
+    "hak.uretimimiz": "Våre produkter",
+    "sayfa.yok": "Siden du leter etter ble ikke funnet.",
+    "giris.baslikSade": "Naturstein.<br>Utsøkt håndverk.",
+    "giris.metinSade": "Vi bearbeider den særegne strukturen i marmor og travertin med omhu til mosaikk, fliser og veggkledning. Med egen produksjon i Denizli og tilkapping etter mål for prosjektet ditt bringer vi naturstein inn i rommene dine.",
+    "urun.ustten": "Ovenfra (ekte farge)",
+    "urun.uygulamada": "I bruk",
+    "urun.temsili": "Illustrasjonsbilder: generert med KI ut fra produktets ekte prøvefoto. Mønster, fargetone og størrelse kan avvike ved faktisk montering.",
+    "urun.temsiliKisa": "illustrasjon",
+    "urun.buyut": "forstørr",
+    "sahne.banyo": "Baderomsvegg",
+    "sahne.mutfak": "Kjøkkenvegg over benk",
+    "sahne.zemin": "Gulv",
+    "sahne.duvar": "Vegg",
+    "sahne.teras": "Terrasse",
+    "urun.sergi": "Utstilling",
+    "sahne.havuz-kenari": "Bassengkant",
+    "sahne.havuz-su-hatti": "Vannlinje i basseng",
+    "sahne.bahce-yolu": "Hagesti",
+    "sahne.avlu": "Gårdsrom i middelhavsstil",
+    "sahne.dis-cephe": "Husfasade",
+    "sahne.bahce-duvari": "Hagemur",
+    "sahne.giris-merdiveni": "Inngangstrinn",
+    "sahne.dis-mutfak": "Utekjøkken",
+    "sahne.kis-bahcesi": "Vinterhage",
+    "sahne.dus": "Dusjvegg",
+    "sahne.banyo-zemini": "Baderomsgulv",
+    "sahne.lavabo-arkasi": "Vegg bak servant",
+    "sahne.kuvet-nisi": "Badekarnisje",
+    "sahne.hamam": "Hamam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Innendørsbasseng",
+    "sahne.mutfak-tezgah": "Kjøkkenvegg over benk",
+    "sahne.kir-mutfagi": "Landlig kjøkken",
+    "sahne.mutfak-adasi": "Kjøkkenøy",
+    "sahne.kafe": "Kafédisk",
+    "sahne.somine": "Peisomramming",
+    "sahne.vurgu-duvari": "Fondvegg i stue",
+    "sahne.salon-zemini": "Stuegulv",
+    "sahne.antre": "Entré",
+    "sahne.merdiven": "Trappevegg",
+    "sahne.yatak-basucu": "Vegg bak sengegavlen",
+    "sahne.tv-duvari": "TV-vegg",
+    "sahne.yemek-odasi": "Spisestue",
+    "sahne.otel-lobisi": "Hotellobby",
+    "sahne.butik": "Butikklokale",
+    "sahne.restoran": "Restaurantvegg",
+    "sahne.sarap-mahzeni": "Vinkjeller",
+    "sahne.ofis-resepsiyon": "Kontorresepsjon",
+    "urun.kalinlik": "Tykkelse",
+    "urun.kalinlikPanel": "2 cm (1, 2 eller 3 cm på forespørsel)",
+    "sss.mozaikM2": "Med mosaikkark på ca. 30×30 cm går det med gjennomsnittlig {n} ark per m² (med 2 mm fuger, ekskl. svinn). Beregn ca. {fire} ark med 10 % svinn. På hver produktside vises antallet beregnet ut fra produktets eget arkmål."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Marmor",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Flis",
+      "Mozaik": "Mosaikk",
+      "Altıgen": "Sekskant",
+      "Mini set": "Versailles-minisett",
+      "Panel": "Kløvd steinpanel"
+    },
+    "yuzey": {
+      "Eskitme": "Tromlet",
+      "Dolgulu honlu": "Fylt og slipt",
+      "Dolgulu eskitme": "Fylt og tromlet",
+      "Dolgulu cilalı": "Fylt og polert",
+      "Cilalı": "Polert",
+      "Cilasız": "Upolert",
+      "Honlu": "Slipt",
+      "Patlatma": "Kløvet"
+    },
+    "ek": {
+      "İkili karışım": "Tofarget blanding",
+      "Üçlü karışım": "Trefarget blanding",
+      "Koyu": "Mørk",
+      "Açık": "Lys",
+      "Fileli": "På nett",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Muğla Hvit",
+      "Toros Siyahı": "Toros Svart",
+      "Eymer Siyah": "Eymer Svart",
+      "Sarı": "Gul",
+      "Pembe": "Rosa",
+      "Bej": "Beige",
+      "Klasik": "Klassisk",
+      "Damarlı Noce": "Året Noce"
+    },
+    "ton": {
+      "beyaz": "Hvit",
+      "krem": "Krem og beige",
+      "sari": "Gul",
+      "kahve": "Brun",
+      "gri": "Grå",
+      "siyah": "Svart",
+      "pembe": "Rosa",
+      "karisik": "Blandede toner"
+    },
+    "sinif": {
+      "1": "1. sortering",
+      "2": "2. sortering",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Beige marmor",
+      "Blue Stone|Mermer": "Blue Stone marmor",
+      "Muğla Beyazı|Mermer": "Muğla hvit marmor",
+      "Pembe|Mermer": "Rosa marmor",
+      "Toros Siyahı|Mermer": "Toros svart marmor",
+      "Damarlı Noce|Traverten": "Året Noce travertin",
+      "Klasik|Traverten": "Klassisk travertin",
+      "Light Mix|Traverten": "Light Mix travertin",
+      "Mix|Traverten": "Mix travertin",
+      "Noce|Traverten": "Noce travertin",
+      "Pembe|Traverten": "Rosa travertin",
+      "Sarı|Traverten": "Gul travertin",
+      "Silver|Traverten": "Silver travertin",
+      "Walnut|Traverten": "Walnut travertin",
+      "Emperador|Mermer": "Emperador marmor",
+      "Eymer Siyah|Traverten": "Eymer svart travertin",
+      "Ivory|Traverten": "Ivory travertin",
+      "Light|Traverten": "Light travertin",
+      "Light + Noce Mix|Traverten": "Light + Noce Mix travertin",
+      "Nebula|Traverten": "Nebula travertin",
+      "Onix Silver|Traverten": "Onix Silver travertin",
+      "Sarı + Noce + Light Mix|Traverten": "Gul + Noce + Light Mix travertin",
+      "Sarı + Noce Mix|Traverten": "Gul + Noce Mix travertin",
+      "Scabas|Traverten": "Scabas travertin"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş er en produsent av marmor og travertin, etablert i 2014 i Denizli industrisone (Honaz i Denizli i Tyrkia). Bedriften produserer mosaikk, fliser, Versailles-mønster (minisett), sekskantfliser og veggpaneler med kløvet overflate i travertin og marmor, leverer tilkapping på spesialmål og selger i Tyrkia og internasjonalt."
+    },
+    "tas": {
+      "Light Mix": "En lys og luftig travertin der lyse krem- og elfenbenstoner glir mykt over i hverandre og passer inn i ethvert arkitektonisk uttrykk.",
+      "Mix": "En levende travertin med naturlig fargespill fra lys krem til varm beige og myke karamelltoner.",
+      "Light": "Et rolig utvalg av travertin som viser sin porøse tekstur i de lyseste nyansene av krem og lys beige.",
+      "Silver": "En grå travertin der sølvgrå, askefargede og varme steintoner flettes sammen — svært velegnet til moderne og industrielle miljøer.",
+      "Onix Silver": "En karakterfull grå travertin med lagvise, dype årer over en sølvgrå bunn.",
+      "Noce": "Valnøtt- og varme jordbrune toner som gir rommet en lun og klassisk middelhavsatmosfære.",
+      "Damarlı Noce": "En rytmisk travertin der varme brune og valnøttfargede toner danner tydelige, parallelle årelag.",
+      "Walnut": "En varm travertin balansert mellom kaffe latte og valnøttskall, med myke fargeoverganger.",
+      "Scabas": "En travertin med tydelig rustikk preg der krem, honning og brunt møtes i markante mønstre.",
+      "Sarı": "En gyllen og honningvarm travertin som gir liv og glød til terrasser, hager og uterom.",
+      "Klasik": "En tidløs stein med den varme beige- og kremtonen og naturlige porøse strukturen til klassisk Denizli-travertin.",
+      "Ivory": "En travertin i offwhite og lys elfenbensfarge — den lyseste og mest nedtonede i kolleksjonen.",
+      "Nebula": "En rolig travertin med skyaktige, myke toneoverganger på en kremgrå bunn.",
+      "Pembe|Traverten": "En travertin i lakserosa og varme jordrosa toner som skaper en særegen og myk stemning.",
+      "Eymer Siyah": "En kontrastrik stein som forener mørkegrå og antrasittfargede toner med travertinens porøse struktur.",
+      "Muğla Beyazı": "En klassisk og lys hvit marmor kjent for røykgrå slør og fine årer på hvit bunn.",
+      "Bej": "En krem- og beigefarget marmor i lyse og mørke sorteringer som gir en jevn og rolig flate.",
+      "Blue Stone": "En sval og moderne marmor der blågrå og skiferaktige toner krysses av lyse årer.",
+      "Emperador": "En klassisk marmor med et fint nettverk av lyse årer på brun bunn som gir rik dybde.",
+      "Pembe|Mermer": "En elegant rosa marmor med hvite årer over en gammelrosa bunn.",
+      "Toros Siyahı": "En marmor der skarpe hvite årer står i sterk kontrast mot en mørk, antrasittsvart bunn.",
+      "Light + Noce Mix": "En tofarget blanding som kombinerer lys kremfarget Light og varmebrun Noce-travertin i balansert kontrast på samme brett.",
+      "Sarı + Noce Mix": "En tofarget blanding av gyllen og valnøttbrun travertin i varme jordtoner.",
+      "Sarı + Noce + Light Mix": "En trefarget kombinasjon av lys krem, gyllengul og valnøttbrun travertin med et rikt fargespill."
+    },
+    "yuzey": {
+      "Eskitme": "Steinene tromles slik at kantene avrundes og overflaten får et mykt, antikt preg. Den sprer lyset uten gjenskinn og gir et naturlig, lunt uttrykk ute, rundt basseng, i hagen og i rustikke interiører.",
+      "Honlu": "Overflaten slipes til en glatt, silkematt finish uten polering. Det refleksfrie, moderne uttrykket gjør den til et populært valg på innendørs gulv.",
+      "Cilalı": "Overflaten poleres til speilglans slik at årespill og fargekontraster trer frem på sitt mest levende. Gir et eksklusivt preg på vegger og gulv innendørs.",
+      "Cilasız": "Upolert etter saging, slik at steinens naturlige matte struktur bevares.",
+      "Dolgulu honlu": "Travertinens naturlige porer fylles med sparkelmasse før overflaten slipes jevn og silkematt. Siden porene er lukket, samler det seg ikke smuss, og steinen er enkel å holde ren.",
+      "Dolgulu eskitme": "Travertin med fylte porer som deretter tromles for å få avrundede kanter og et antikt uttrykk — varmen fra tromlet stein kombinert med en mer lukket overflate.",
+      "Dolgulu cilalı": "Travertinens porer fylles og overflaten høyglanspoleres, noe som gir en jevn, blank og lettstelt flate.",
+      "Patlatma": "Steinen kløves mekanisk for å få frem en rå, relieffpreget bruddoverflate. Spillet mellom lys og skygge gir dybde til peiser, fasader, hagemurer og fondvegger."
+    },
+    "form": {
+      "Tek parça": "Kvadratiske og rektangulære fliser. Kan legges rett, i forband, med ⅓ forskyvning eller i fiskebensmønster på gulv og vegg.",
+      "Mozaik": "Små steinbiter montert på nett i ark på ca. 30×30 cm. Arkene griper inn i hverandre og gir rask og jevn montering på dusjgulv, over kjøkkenbenk og på buede flater.",
+      "Altıgen": "Naturstein skåret i et sekskantet bikakemønster — klassisk travertinstruktur kombinert med et moderne geometrisk formspråk.",
+      "Mini set": "Versailles-mønster (fransk mønster) der kvadratiske og rektangulære fliser i ulike mål settes sammen i en fast modul, noe som bryter opp gjentakelser og gir en levende flate.",
+      "Panel": "Veggpaneler av kløvde steinstaver satt sammen i trinn. Z-formede ender gjør at panelene griper inn i hverandre og gir en sammenhengende steinstruktur på vegger inne og ute."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertin-mosaikk",
+        "ad": "Travertinmosaikk"
+      },
+      "Mermer|Mozaik": {
+        "slug": "marmor-mosaikk",
+        "ad": "Marmormosaikk"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertin-fliser",
+        "ad": "Travertinfliser"
+      },
+      "Mermer|Tek parça": {
+        "slug": "marmor-fliser",
+        "ad": "Marmorfliser"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-versailles-monster",
+        "ad": "Travertin i Versailles-mønster"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-sekskant",
+        "ad": "Sekskantet travertin"
+      },
+      "Traverten|Panel": {
+        "slug": "travertin-steinpanel",
+        "ad": "Kløvde steinpaneler i travertin"
+      }
+    },
+    "sss": [
+      [
+        "Hvor holder Karabel Doğal Taş til, og hva produserer dere?",
+        "Karabel Doğal Taş er en produsent av marmor og travertin som har vært i drift i Denizli industrisone (Honaz, Denizli i Tyrkia) siden 2014. Vi produserer mosaikk, fliser, Versailles-mønster (minisett), sekskantfliser og veggpaneler med kløvet overflate i travertin og marmor, samt tilkapping på spesialmål."
+      ],
+      [
+        "Hva er forskjellen mellom travertin og marmor?",
+        "Travertin er en naturlig porøs stein dannet ved utfelling av kalsiumkarbonat fra kildevann, kjent for lune krem-, beige-, grå- og bruntoner. Marmor dannes når kalkstein omdannes under varme og trykk; den har en tettere struktur og tydeligere årespill. Denizli er Tyrkias mest kjente område for travertin."
+      ],
+      [
+        "Hva er forskjellen mellom slipt, tromlet og polert overflate?",
+        "En slipt overflate er mattslipt til en glatt og jevn finish uten glans. Ved tromlet overflate roteres steinene i en trommel slik at kantene rundes av og flaten får et antikt preg. En polert overflate er blankpolert så årespill og farger kommer tydeligst frem."
+      ],
+      [
+        "Hva er fylt (sparklet) travertin?",
+        "Det betyr at travertinens naturlige porer lukkes med en tilpasset sparkelmasse. En fylt overflate fremstår jevnere og mer lukket, samler ikke smuss og er lett å rengjøre. Ufylt travertin beholder sitt naturlige, åpne porebilde."
+      ],
+      [
+        "Hvor mange mosaikkark trengs per kvadratmeter?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Hva er forskjellen mellom 1. sortering, 2. sortering og Export?",
+        "For naturstein angir sorteringen hvor streng utvelgelsen er — vurdert etter fargejevnhet, porer og overflateavvik. Export er den mest selektive sorteringen. Det beste grunnlaget for et prosjekt får du ved å se en vareprøve."
+      ],
+      [
+        "Leverer dere på spesialmål?",
+        "Ja. I tillegg til standardformater kapper vi i fallende lengder og prosjektspesifikke mål. For eksempel kan 8 cm bred Silver-travertin produseres i ønsket lengde."
+      ],
+      [
+        "Selger dere til utlandet?",
+        "Ja, Karabel Doğal Taş leverer både til det tyrkiske markedet og til kunder internasjonalt. Ta kontakt via WhatsApp ({telefon}) eller {eposta} for priser, vareprøver og frakt."
+      ],
+      [
+        "Er steinfargene på nettsiden ekte?",
+        "Bildene er fotografier av ekte vareprøver; det er ikke brukt fargefiltre, kun bakgrunnen er fjernet. Siden hver naturstein er unik og skjermer gjengir farger ulikt, anbefaler vi å se en vareprøve før endelig valg."
+      ]
+    ]
+  }
+}

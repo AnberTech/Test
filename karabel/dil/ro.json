@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Română",
+    "kisa": "RO",
+    "yerel": "ro-RO",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "ro"
+  },
+  "yol": {
+    "koleksiyon": "colectie",
+    "urun": "produs",
+    "tas": "piatra",
+    "yuzey": "finisaj",
+    "sss": "intrebari-frecvente",
+    "hakkimizda": "despre-noi",
+    "iletisim": "contact"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Colecție",
+    "nav.hakkimizda": "Despre noi",
+    "nav.iletisim": "Contact",
+    "nav.teklif": "Cere o ofertă",
+    "nav.menu": "Meniu",
+    "marka.alt": "Marmură · Piatră naturală",
+    "giris.ust": "Din 2014 · Denizli",
+    "giris.koleksiyon": "Descoperă pietrele",
+    "giris.urun": "produse",
+    "kol.ust": "Colecție",
+    "kol.baslik": "Textură în detaliu. <em>Caracter în ansamblu.</em>",
+    "kol.metin": "Imaginile prezentate aparțin unor mostre reale. Culoarea și distribuția venaturilor pot varia natural de la o placă la alta.",
+    "kol.tumu": "Toate",
+    "kol.ara": "Caută după piatră, culoare sau dimensiune",
+    "kol.form": "Format produs",
+    "kol.yuzey": "Finisaj",
+    "kol.renk": "Culoare",
+    "kol.temizle": "Resetează filtrele",
+    "kol.sonuc": "{n} produse",
+    "kol.bos": "Niciun produs nu corespunde acestor filtre. Încearcă să elimini câteva filtre.",
+    "urun.form": "Format produs",
+    "urun.parca": "Dimensiunea piesei",
+    "urun.birim": "Dimensiunea plasei",
+    "urun.yuzey": "Finisaj",
+    "urun.sinif": "Clasă de calitate",
+    "urun.ozellik": "Detaliu suplimentar",
+    "urun.grup": "Tip de piatră",
+    "urun.teklif": "Cere o ofertă pe WhatsApp",
+    "urun.teyit": "Unele informații despre acest produs sunt în curs de confirmare. Înainte de a comanda, vă rugăm să ne solicitați confirmarea dimensiunilor și specificațiilor actuale.",
+    "urun.kapat": "Închide",
+    "urun.olcuyeGore": "Lungime la comandă",
+    "hak.ust": "Despre noi",
+    "hak.baslik": "Producție în Denizli, <em>din 2014.</em>",
+    "hak.metin1": "Karabel Doğal Taş a fost fondată în 2014 în Zona Industrială Organizată din Denizli, în Honaz, Turcia. Producem marmură și travertin sub formă de mozaic, plăci pentru placări, seturi French Pattern (Versailles) și miniseturi, plăci hexagonale și panouri din piatră scapitată.",
+    "hak.metin2": "Colaborăm cu clienți din Turcia și de pe piețele internaționale. Ne puteți contacta pentru produsele din colecție sau pentru cerințele dumneavoastră de debitare la dimensiuni speciale.",
+    "hak.kurulus": "Înființare",
+    "hak.uretim": "Locul producției",
+    "hak.uretimDeger": "Zona Industrială Organizată Denizli",
+    "hak.olcu": "Debitare",
+    "hak.olcuDeger": "La comandă",
+    "hak.pazar": "Vânzări",
+    "hak.pazarDeger": "În Turcia și în străinătate",
+    "ilt.ust": "Contact",
+    "ilt.baslik": "Urmează <em>proiectul dumneavoastră.</em>",
+    "ilt.metin": "Scrieți-ne pentru prețuri, solicitări de mostre sau debitare la dimensiuni speciale.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-mail",
+    "ilt.adres": "Adresă",
+    "ilt.harita": "Vezi pe hartă",
+    "ilt.form.ad": "Numele dumneavoastră",
+    "ilt.form.konu": "Produsul sau proiectul de interes",
+    "ilt.form.mesaj": "Descrieți cerințele proiectului",
+    "ilt.form.gonder": "Continuă pe WhatsApp",
+    "ilt.form.eposta": "Deschide în aplicația de e-mail",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Imaginile prezintă mostre reale. Fiind piatră naturală, pot apărea variații de culoare și venatură.",
+    "wa.urun": "Bună ziua, aș dori o ofertă de preț pentru {urun}.",
+    "wa.genel": "Bună ziua, aș dori informații despre produsele dumneavoastră din marmură și travertin.",
+    "wa.form": "Bună ziua, mă numesc {ad}.\nSubiect: {konu}\n{mesaj}",
+    "nav.atla": "Sari la conținut",
+    "urun.kenar": "Lungimea laturii: {n} cm",
+    "yardim.numune": "Solicită o mostră",
+    "yardim.sinif": "Întreabă despre diferențele dintre clasele de calitate",
+    "nav.sss": "Întrebări frecvente",
+    "nav.ana": "Acasă",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — travertin și marmură din Denizli: mozaic, plăci, seturi Versailles, panouri scapitate",
+    "sayfa.anaAciklama": "Producător de marmură și travertin în Denizli, Turcia, din 2014: mozaic din travertin, plăci, seturi French Pattern (Versailles), plăci hexagonale și panouri din piatră scapitată. Fotografii reale ale mostrelor, dimensiuni și necesar pe m².",
+    "kol.hepsi": "Toate produsele ({n})",
+    "rehber.ust": "Ghid de finisaje",
+    "sss.baslik": "Întrebări frecvente",
+    "sss.hepsi": "Toate întrebările →",
+    "sss.altBaslik": "Despre marmură, travertin și comenzi",
+    "urun.birimLevha": "plase",
+    "urun.birimTas": "plăci",
+    "urun.m2Cumle": "Aproximativ {n} {birim} pentru 1 m².",
+    "urun.gorunum": "Imagine",
+    "urun.m2": "pe m²",
+    "urun.teknikIste": "Cere detalii tehnice",
+    "urun.hakkinda": "Despre {ad}",
+    "urun.m2Uzun": "Pentru 1 m² din acest produs sunt necesare aproximativ {n} {birim} (cu rost de 2 mm). Luați în calcul aproximativ {fire} {birim} incluzând 10% pierderi la montaj; cantitatea exactă se confirmă la ofertare.",
+    "urun.kardes": "{ad}: alte dimensiuni și finisaje",
+    "wa.numune": "Bună ziua, aș dori să solicit o mostră pentru {urun}.",
+    "wa.teknik": "Bună ziua, vă rog să îmi trimiteți detalii tehnice (grosime, toleranțe, ambalare) pentru {urun}.",
+    "wa.sinif": "Bună ziua, aș dori să aflu diferența dintre clasele de calitate (Clasa 1 / Clasa 2 / Export) pentru {urun}.",
+    "wa.kategori": "Bună ziua, aș dori o ofertă de preț pentru produsele din categoria {kategori}.",
+    "kat.baslikEk": "Categorii",
+    "kat.urunSayisi": "Produse",
+    "kat.olculer": "Dimensiuni",
+    "kat.yuzeyler": "Finisaje",
+    "kat.taslar": "Pietre",
+    "kat.ortalama": "în medie",
+    "kat.ozet": "Karabel Doğal Taş produce {ad} în Denizli: {n} produse, dimensiuni {olculer}; finisaje: {yuzeyler}. Toate imaginile reprezintă mostre reale.",
+    "yuzeyS.baslik": "Finisaj {ad}",
+    "sayfa.kolBaslik": "Colecția de marmură și travertin",
+    "sayfa.kolAciklama": "{n} produse din marmură și travertin: mozaicuri, plăci, seturi Versailles, plăci hexagonale și panouri scapitate. Fotografii cu mostre reale, dimensiuni și necesar pe m².",
+    "hak.uretimimiz": "Ce producem",
+    "sayfa.yok": "Pagina pe care o căutați nu a fost găsită.",
+    "giris.baslikSade": "Piatră naturală.<br>Măiestrie în prelucrare.",
+    "giris.metinSade": "Prelucrăm cu grijă textura autentică a marmurei și a travertinului, transformând-o în mozaicuri, plăci și placări murale. Prin producția noastră din Denizli și opțiunile de debitare la comandă pentru proiectul dumneavoastră, aducem piatra naturală în spațiile pe care le amenajați.",
+    "urun.ustten": "Vedere de sus (culoare reală)",
+    "urun.uygulamada": "În amenajare",
+    "urun.temsili": "Imagini de prezentare generate cu inteligență artificială pornind de la fotografia mostrei acestui produs. În montajul real, modelul, nuanța și dimensiunile pot diferi.",
+    "urun.temsiliKisa": "orientativ",
+    "urun.buyut": "mărește",
+    "sahne.banyo": "Perete de baie",
+    "sahne.mutfak": "Contrablat de bucătărie",
+    "sahne.zemin": "Pardoseală",
+    "sahne.duvar": "Perete",
+    "sahne.teras": "Terasă",
+    "urun.sergi": "Panou de prezentare",
+    "sahne.havuz-kenari": "Margine piscină",
+    "sahne.havuz-su-hatti": "Linia apei la piscină",
+    "sahne.bahce-yolu": "Alee de grădină",
+    "sahne.avlu": "Curte interioară mediteraneană",
+    "sahne.dis-cephe": "Fațada casei",
+    "sahne.bahce-duvari": "Zid de grădină",
+    "sahne.giris-merdiveni": "Trepte de intrare",
+    "sahne.dis-mutfak": "Bucătărie de vară",
+    "sahne.kis-bahcesi": "Grădină de iarnă",
+    "sahne.dus": "Perete de duș",
+    "sahne.banyo-zemini": "Pardoseală de baie",
+    "sahne.lavabo-arkasi": "Perete în spatele lavoarului",
+    "sahne.kuvet-nisi": "Nișă pentru cadă",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Piscină interioară",
+    "sahne.mutfak-tezgah": "Contrablat de bucătărie",
+    "sahne.kir-mutfagi": "Bucătărie rustică",
+    "sahne.mutfak-adasi": "Insulă de bucătărie",
+    "sahne.kafe": "Tejghea de cafenea",
+    "sahne.somine": "Placare de șemineu",
+    "sahne.vurgu-duvari": "Perete de accent în living",
+    "sahne.salon-zemini": "Pardoseală de living",
+    "sahne.antre": "Hol de intrare",
+    "sahne.merdiven": "Perete de scară",
+    "sahne.yatak-basucu": "Perete pentru tăblia patului",
+    "sahne.tv-duvari": "Perete TV",
+    "sahne.yemek-odasi": "Sufragerie",
+    "sahne.otel-lobisi": "Hol de hotel",
+    "sahne.butik": "Magazin boutique",
+    "sahne.restoran": "Perete restaurant",
+    "sahne.sarap-mahzeni": "Cramă",
+    "sahne.ofis-resepsiyon": "Recepție de birouri",
+    "urun.kalinlik": "Grosime",
+    "urun.kalinlikPanel": "2 cm (1, 2 sau 3 cm la cerere)",
+    "sss.mozaikM2": "Pentru 1 m², cu plase de mozaic de aproximativ 30×30 cm, sunt necesare în medie {n} plase (cu rost de 2 mm, fără pierderi). Luați în calcul aproximativ {fire} plase, incluzând 10% pierderi la montaj. Pe pagina fiecărui produs este afișată valoarea calculată în funcție de dimensiunea plasei produsului respectiv."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Marmură",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Placă",
+      "Mozaik": "Mozaic",
+      "Altıgen": "Hexagon",
+      "Mini set": "Set mini Versailles",
+      "Panel": "Panou scapitat"
+    },
+    "yuzey": {
+      "Eskitme": "Antichizat",
+      "Dolgulu honlu": "Chituit și șlefuit",
+      "Dolgulu eskitme": "Chituit și antichizat",
+      "Dolgulu cilalı": "Chituit și lustruit",
+      "Cilalı": "Lustruit",
+      "Cilasız": "Nelustruit",
+      "Honlu": "Șlefuit",
+      "Patlatma": "Scapitat"
+    },
+    "ek": {
+      "İkili karışım": "Mix bicolor",
+      "Üçlü karışım": "Mix tricolor",
+      "Koyu": "Închis",
+      "Açık": "Deschis",
+      "Fileli": "Pe plasă",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Alb Muğla",
+      "Toros Siyahı": "Negru Toros",
+      "Eymer Siyah": "Negru Eymer",
+      "Sarı": "Galben",
+      "Pembe": "Roz",
+      "Bej": "Bej",
+      "Klasik": "Clasic",
+      "Damarlı Noce": "Noce Venat"
+    },
+    "ton": {
+      "beyaz": "Alb",
+      "krem": "Crem și bej",
+      "sari": "Galben",
+      "kahve": "Maro",
+      "gri": "Gri",
+      "siyah": "Negru",
+      "pembe": "Roz",
+      "karisik": "Tonuri mixte"
+    },
+    "sinif": {
+      "1": "Clasa 1",
+      "2": "Clasa 2",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Marmură Bej",
+      "Blue Stone|Mermer": "Marmură Blue Stone",
+      "Muğla Beyazı|Mermer": "Marmură Albă Muğla",
+      "Pembe|Mermer": "Marmură Roz",
+      "Toros Siyahı|Mermer": "Marmură Neagră Toros",
+      "Damarlı Noce|Traverten": "Travertin Noce Venat",
+      "Klasik|Traverten": "Travertin Clasic",
+      "Light Mix|Traverten": "Travertin Light Mix",
+      "Mix|Traverten": "Travertin Mix",
+      "Noce|Traverten": "Travertin Noce",
+      "Pembe|Traverten": "Travertin Roz",
+      "Sarı|Traverten": "Travertin Galben",
+      "Silver|Traverten": "Travertin Silver",
+      "Walnut|Traverten": "Travertin Walnut",
+      "Emperador|Mermer": "Marmură Emperador",
+      "Eymer Siyah|Traverten": "Travertin Negru Eymer",
+      "Ivory|Traverten": "Travertin Ivory",
+      "Light|Traverten": "Travertin Light",
+      "Light + Noce Mix|Traverten": "Travertin Light + Noce Mix",
+      "Nebula|Traverten": "Travertin Nebula",
+      "Onix Silver|Traverten": "Travertin Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Travertin Galben + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Travertin Galben + Noce Mix",
+      "Scabas|Traverten": "Travertin Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş este un producător de marmură și travertin înființat în 2014 în Zona Industrială Organizată din Denizli (Honaz, Turcia). Produce mozaicuri și plăci din travertin și marmură, seturi Versailles (miniset), plăci hexagonale și panouri de perete din piatră scapitată; execută debitări la comandă și vinde atât pe piața din Turcia, cât și la export."
+    },
+    "tas": {
+      "Light Mix": "Un travertin luminos, în care nuanțele de crem deschis și fildeș se îmbină prin treceri fine, ușor de integrat în orice stil arhitectural.",
+      "Mix": "Un travertin expresiv, cu variații naturale de culoare ce trec de la crem deschis la bej cald și accente discrete de caramel.",
+      "Light": "O selecție discretă de travertin, cu textura poroasă pusă în valoare de tonuri foarte luminoase de crem și bej deschis.",
+      "Silver": "Un travertin gri în care se întrepătrund tonuri de argintiu, cenușiu și piatră caldă, ideal pentru spații moderne și industriale.",
+      "Onix Silver": "Un travertin gri cu personalitate, marcat de venaturi stratificate și profunde pe un fond gri-argintiu.",
+      "Noce": "Travertin în tonuri de nuc și maro-pământiu cald, care conferă încăperii o atmosferă mediteraneană primitoare și echilibrată.",
+      "Damarlı Noce": "Un travertin cu textură ritmică, animat de benzi și venaturi paralele bine conturate în nuanțe calde de maro și nuc.",
+      "Walnut": "Un travertin cald, cu tranziții fine și echilibrate între nuanța cafelei cu lapte și cea a cojii de nucă.",
+      "Scabas": "Un travertin cu un caracter rustic pronunțat, în care tonurile de crem, miere și maro se întâlnesc în desene puternice.",
+      "Sarı": "Un travertin în nuanțe de galben-auriu și miere caldă, care aduce vitalitate în special teraselor, grădinilor și amenajărilor exterioare.",
+      "Klasik": "O piatră simplă și naturală, care reflectă nuanța caldă bej-crem și structura poroasă a travertinului tradițional de Denizli.",
+      "Ivory": "În tonuri de alb spart și fildeș deschis, este cel mai luminos și mai sobru travertin din colecție.",
+      "Nebula": "Un travertin cu textură liniștită, străbătut de treceri cromatice difuze, asemenea norilor, pe un fond crem-gri.",
+      "Pembe|Traverten": "Un travertin în tonuri de somon și roz-pământiu, care creează o atmosferă aparte, caldă și delicată.",
+      "Eymer Siyah": "O piatră cu contrast puternic, care îmbină tonurile de gri închis și antracit cu textura poroasă specifică travertinului.",
+      "Muğla Beyazı": "O marmură albă clasică și luminoasă, recunoscută după umbrele sale gri-fumurii și venaturile fine pe fond alb.",
+      "Bej": "O marmură crem-bej disponibilă în selecții deschise și închise, care formează o suprafață omogenă și liniștită.",
+      "Blue Stone": "O marmură cu aer modern și rece, în care tonurile de gri-albăstrui și ardezie sunt întretăiate de venaturi deschise.",
+      "Emperador": "O marmură clasică, cu profunzime vizuală, evidențiată de o rețea fină de venaturi deschise pe un fond maro intens.",
+      "Pembe|Mermer": "O marmură roz elegantă, străbătută de venaturi albe pe un fond în nuanța trandafirului prăfuit.",
+      "Toros Siyahı": "O marmură ce creează un contrast puternic prin venaturi albe bine definite pe un fond negru-antracit închis.",
+      "Light + Noce Mix": "Un amestec bicolor în care travertinul crem deschis Light și cel maro cald Noce se întâlnesc pe aceeași plasă într-un contrast echilibrat.",
+      "Sarı + Noce Mix": "Un amestec bicolor de travertin galben-auriu și maro-nuc, armonizat în nuanțe calde, pământii.",
+      "Sarı + Noce + Light Mix": "O combinație tricoloră de travertin crem deschis, galben-auriu și maro-nuc, cu un ritm cromatic bogat."
+    },
+    "yuzey": {
+      "Eskitme": "Pietrele sunt antichizate prin tamburare, pentru rotunjirea muchiilor și obținerea unei texturi plăcute, cu aspect vechi. Suprafața difuzează lumina fără reflexii și oferă un aspect natural și cald la exterior, în jurul piscinelor, în grădini și în interioare rustice.",
+      "Honlu": "Suprafața este șlefuită până devine netedă, mată și mătăsoasă la atingere, fără a fi lustruită. Datorită aspectului contemporan și fără reflexii, este frecvent aleasă pentru pardoselile interioare.",
+      "Cilalı": "Suprafața este lustruită până la un luciu de oglindă, punând în valoare venaturile și contrastul cromatic în toată intensitatea lor. Oferă un rezultat elegant pe pereții și pardoselile interioare.",
+      "Cilasız": "Suprafață lăsată nelustruită după debitare, care păstrează textura mată naturală a pietrei.",
+      "Dolgulu honlu": "Porii naturali ai travertinului sunt umpluți cu chit special, apoi suprafața este șlefuită până devine netedă și mată. Pentru că murdăria nu pătrunde în pori, suprafața este ușor de curățat.",
+      "Dolgulu eskitme": "Travertin cu porii chituiți, prelucrat ulterior în tambur pentru a obține muchii rotunjite și un aspect antichizat. Îmbină căldura finisajului antichizat cu o suprafață mai compactă.",
+      "Dolgulu cilalı": "Porii travertinului sunt chituiți, iar suprafața este lustruită intens; se obține o suprafață netedă, lucioasă și ușor de șters.",
+      "Patlatma": "Piatra este despicată mecanic pentru a obține o textură în relief ce amintește de roca brută. Prin jocul de lumini și umbre, creează profunzime pe șeminee, fațade, ziduri de grădină și pereți de accent."
+    },
+    "form": {
+      "Tek parça": "Plăci pătrate și dreptunghiulare. Se montează pe pardoseli și pereți în rânduri drepte, cu rosturi decalate, cu decalaj de ⅓ sau în model herringbone (spic).",
+      "Mozaik": "Mozaicul este realizat prin montarea elementelor mici pe plase de aproximativ 30×30 cm. Plasele se îmbină între ele, asigurând un montaj rapid și uniform pe pardoseli de duș, contrablaturi de bucătărie și suprafețe curbe.",
+      "Altıgen": "Piatră naturală debitată în geometrie de fagure. Îmbină textura clasică a travertinului cu o expresie geometrică contemporană.",
+      "Mini set": "Modelul Versailles (French Pattern), în care plăci pătrate și dreptunghiulare de dimensiuni diferite se îmbină într-un modul. Creează o suprafață dinamică ce elimină senzația de repetiție.",
+      "Panel": "Panou pentru placarea pereților, format din fâșii de piatră scapitată dispuse în trepte. Datorită capetelor în formă de Z, panourile se îmbină între ele și oferă o textură continuă de rocă pe pereții interiori și exteriori."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "mozaic-travertin",
+        "ad": "Mozaic din travertin"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mozaic-marmura",
+        "ad": "Mozaic din marmură"
+      },
+      "Traverten|Tek parça": {
+        "slug": "placi-travertin",
+        "ad": "Plăci din travertin"
+      },
+      "Mermer|Tek parça": {
+        "slug": "placi-marmura",
+        "ad": "Plăci din marmură"
+      },
+      "Traverten|Mini set": {
+        "slug": "set-versailles-travertin",
+        "ad": "Set Versailles din travertin"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-hexagonal",
+        "ad": "Travertin hexagonal"
+      },
+      "Traverten|Panel": {
+        "slug": "panou-scapitat-travertin",
+        "ad": "Panouri scapitate din travertin"
+      }
+    },
+    "sss": [
+      [
+        "Unde se află Karabel Doğal Taş și ce produce?",
+        "Karabel Doğal Taş este un producător de marmură și travertin activ din 2014 în Zona Industrială Organizată din Denizli (Honaz, Denizli, Turcia). Produce mozaicuri și plăci din travertin și marmură, seturi Versailles (miniset), plăci hexagonale și panouri de perete din piatră scapitată, oferind și debitare la comandă."
+      ],
+      [
+        "Care este diferența dintre travertin și marmură?",
+        "Travertinul este o piatră cu structură natural poroasă, formată prin depunerea carbonatului de calciu din izvoare minerale, recunoscută pentru tonurile sale calde de crem, bej, gri și maro. Marmura se formează prin metamorfozarea calcarului sub acțiunea temperaturii și a presiunii; are o structură mai densă și venaturi pronunțate. Denizli este cea mai cunoscută regiune din Turcia pentru travertin."
+      ],
+      [
+        "Care este diferența dintre finisajul șlefuit, cel antichizat și cel lustruit?",
+        "Finisajul șlefuit este neted și mat, fără luciu. În cazul finisajului antichizat, pietrele sunt rotite în tambur, astfel încât muchiile se rotunjesc, iar suprafața capătă o textură cu aspect vechi. Suprafața lustruită este prelucrată până la un luciu de oglindă, care evidențiază intens venaturile."
+      ],
+      [
+        "Ce înseamnă travertin chituit?",
+        "Reprezintă închiderea porilor naturali ai travertinului cu un material de umplere (chit). Suprafața chituită are un aspect mai compact și mai uniform, nu reține murdăria și este ușor de curățat. Travertinul nechituit își păstrează textura poroasă naturală."
+      ],
+      [
+        "De câte plase de mozaic este nevoie pentru 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Care este diferența dintre Clasa 1, Clasa 2 și calitatea Export?",
+        "În cazul pietrei naturale, clasele indică rigoarea selecției: sortarea se face după uniformitatea culorii, dimensiunea porilor și imperfecțiunile de suprafață. Export reprezintă clasa cu cea mai riguroasă selecție. Cea mai bună decizie pentru un proiect se ia pe baza unei mostre."
+      ],
+      [
+        "Realizați debitări la dimensiuni speciale?",
+        "Da. Pe lângă dimensiunile standard, executăm debitări la lungimi libere și la cote speciale pentru proiect. De exemplu, travertinul Silver cu lățimea de 8 cm se produce la lungimea solicitată."
+      ],
+      [
+        "Livrați și în afara Turciei?",
+        "Da, Karabel Doğal Taş vinde atât pe piața din Turcia, cât și clienților internaționali. Pentru prețuri, mostre și transport, ne puteți contacta pe WhatsApp ({telefon}) sau la adresa {eposta}."
+      ],
+      [
+        "Culorile pietrelor de pe site sunt reale?",
+        "Imaginile sunt fotografii ale unor mostre reale; nu au fost aplicate filtre de corecție a culorii, fiind curățat doar fundalul. În cazul pietrei naturale, fiecare bucată este ușor diferită, iar ecranele pot reda nuanțele diferit; pentru o decizie sigură, vă recomandăm să vedeți o mostră."
+      ]
+    ]
+  }
+}

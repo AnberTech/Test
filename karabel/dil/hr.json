@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Hrvatski",
+    "kisa": "HR",
+    "yerel": "hr-HR",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "hr"
+  },
+  "yol": {
+    "koleksiyon": "kolekcija",
+    "urun": "proizvod",
+    "tas": "kamen",
+    "yuzey": "obrada",
+    "sss": "cesta-pitanja",
+    "hakkimizda": "o-nama",
+    "iletisim": "kontakt"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kolekcija",
+    "nav.hakkimizda": "O nama",
+    "nav.iletisim": "Kontakt",
+    "nav.teklif": "Zatražite ponudu",
+    "nav.menu": "Izbornik",
+    "marka.alt": "Mramor · Prirodni kamen",
+    "giris.ust": "Od 2014. · Denizli",
+    "giris.koleksiyon": "Otkrijte vrste kamena",
+    "giris.urun": "proizvoda",
+    "kol.ust": "Kolekcija",
+    "kol.baslik": "Tekstura izbliza. <em>Karakter u prostoru.</em>",
+    "kol.metin": "Sve fotografije prikazuju stvarne uzorke. Boja i raspored žila prirodno se razlikuju od komada do komada.",
+    "kol.tumu": "Sve",
+    "kol.ara": "Pretražite po vrsti kamena, boji ili dimenziji",
+    "kol.form": "Format proizvoda",
+    "kol.yuzey": "Obrada površine",
+    "kol.renk": "Boja",
+    "kol.temizle": "Očisti filtre",
+    "kol.sonuc": "{n} proizvoda",
+    "kol.bos": "Nema proizvoda koji odgovaraju odabranim filtrima. Pokušajte ukloniti neke filtre.",
+    "urun.form": "Format proizvoda",
+    "urun.parca": "Dimenzije elementa",
+    "urun.birim": "Dimenzije mreže",
+    "urun.yuzey": "Obrada površine",
+    "urun.sinif": "Klasa kamena",
+    "urun.ozellik": "Dodatno svojstvo",
+    "urun.grup": "Vrsta kamena",
+    "urun.teklif": "Zatražite ponudu putem WhatsAppa",
+    "urun.teyit": "Pojedini podaci o ovom proizvodu čekaju potvrdu. Molimo da prije narudžbe s nama provjerite aktualne dimenzije i specifikacije.",
+    "urun.kapat": "Zatvori",
+    "urun.olcuyeGore": "Duljina prema narudžbi",
+    "hak.ust": "O nama",
+    "hak.baslik": "Proizvodnja u Denizliju, <em>od 2014. godine.</em>",
+    "hak.metin1": "Tvrtka Karabel Doğal Taş osnovana je 2014. godine u Organiziranoj industrijskoj zoni Denizli, u mjestu Honaz (Turska). Proizvodimo mozaike, kamene pločice, Versailles setove i mini setove, heksagone te cijepane zidne panele od mramora i travertina.",
+    "hak.metin2": "Surađujemo s kupcima u Turskoj i inozemstvu. Obratite nam se za proizvode iz naše kolekcije ili za rezanje kamena po mjeri.",
+    "hak.kurulus": "Osnovano",
+    "hak.uretim": "Mjesto proizvodnje",
+    "hak.uretimDeger": "Organizirana industrijska zona Denizli, Turska",
+    "hak.olcu": "Rezanje",
+    "hak.olcuDeger": "Po mjeri",
+    "hak.pazar": "Prodaja",
+    "hak.pazarDeger": "Turska i inozemstvo",
+    "ilt.ust": "Kontakt",
+    "ilt.baslik": "Sljedeći je <em>vaš projekt.</em>",
+    "ilt.metin": "Javite nam se za cijene, narudžbu uzoraka ili rezanje po mjeri.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-pošta",
+    "ilt.adres": "Adresa",
+    "ilt.harita": "Prikaži na karti",
+    "ilt.form.ad": "Vaše ime",
+    "ilt.form.konu": "Proizvod ili projekt koji vas zanima",
+    "ilt.form.mesaj": "Opišite svoje potrebe",
+    "ilt.form.gonder": "Nastavi na WhatsAppu",
+    "ilt.form.eposta": "Otvori u aplikaciji e-pošte",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Fotografije prikazuju stvarne uzorke. Kod prirodnog kamena moguća su odstupanja u boji i rasporedu žila.",
+    "wa.urun": "Pozdrav, molim ponudu za proizvod {urun}.",
+    "wa.genel": "Pozdrav, zanimaju me informacije o vašim proizvodima od mramora i travertina.",
+    "wa.form": "Pozdrav, zovem se {ad}.\nPredmet: {konu}\n{mesaj}",
+    "nav.atla": "Prijeđi na sadržaj",
+    "urun.kenar": "Duljina stranice: {n} cm",
+    "yardim.numune": "Zatražite uzorak",
+    "yardim.sinif": "Pitajte o razlikama između klasa",
+    "nav.sss": "Česta pitanja",
+    "nav.ana": "Naslovnica",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — travertin i mramor iz Denizlija: mozaici, pločice, Versailles setovi, cijepani paneli",
+    "sayfa.anaAciklama": "Proizvodnja mramora i travertina u Denizliju od 2014.: mozaici od travertina, pločice, Versailles setovi, heksagoni i cijepani zidni paneli. Fotografije stvarnih uzoraka, dimenzije i izračuni po m².",
+    "kol.hepsi": "Svi proizvodi ({n})",
+    "rehber.ust": "Vodič kroz obrade površine",
+    "sss.baslik": "Često postavljana pitanja",
+    "sss.hepsi": "Sva pitanja →",
+    "sss.altBaslik": "O mramoru, travertinu i naručivanju",
+    "urun.birimLevha": "mreža",
+    "urun.birimTas": "pločica",
+    "urun.m2Cumle": "Približno {n} {birim} za 1 m².",
+    "urun.gorunum": "Prikaz",
+    "urun.m2": "Po m²",
+    "urun.teknikIste": "Zatražite tehničke podatke",
+    "urun.hakkinda": "O kamenu {ad}",
+    "urun.m2Uzun": "Za 1 m² ovog proizvoda potrebno je približno {n} {birim} (uz fugu od 2 mm). Uz 10 % rezerve za otpad računajte na približno {fire} {birim}; konačna količina potvrđuje se pri izradi ponude.",
+    "urun.kardes": "{ad}: ostale dimenzije i obrade površine",
+    "wa.numune": "Pozdrav, molim vas uzorak proizvoda {urun}.",
+    "wa.teknik": "Pozdrav, molim vas tehničke podatke (debljina, tolerancije, pakiranje) za {urun}.",
+    "wa.sinif": "Pozdrav, zanima me razlika između klasa (1. klasa / 2. klasa / Export) za {urun}.",
+    "wa.kategori": "Pozdrav, molim ponudu za vaše proizvode iz kategorije {kategori}.",
+    "kat.baslikEk": "Kategorije",
+    "kat.urunSayisi": "Proizvodi",
+    "kat.olculer": "Dimenzije",
+    "kat.yuzeyler": "Obrade površine",
+    "kat.taslar": "Vrste kamena",
+    "kat.ortalama": "prosječno",
+    "kat.ozet": "Karabel Doğal Taş u Denizliju proizvodi {ad}: {n} proizvoda, dimenzije {olculer}; obrade površine: {yuzeyler}. Sve fotografije prikazuju stvarne uzorke.",
+    "yuzeyS.baslik": "Obrada površine: {ad}",
+    "sayfa.kolBaslik": "Kolekcija mramora i travertina",
+    "sayfa.kolAciklama": "{n} proizvoda od mramora i travertina: mozaici, pločice, Versailles setovi, heksagoni i cijepani paneli. Fotografije stvarnih uzoraka, dimenzije i izračun po m².",
+    "hak.uretimimiz": "Naš proizvodni program",
+    "sayfa.yok": "Stranica koju tražite nije pronađena.",
+    "giris.baslikSade": "Prirodni kamen.<br>Precizna obrada.",
+    "giris.metinSade": "Pažljivo obrađujemo mramor i travertin, ističući njihovu prepoznatljivu teksturu, te ih pretvaramo u mozaike, pločice i zidne obloge. Vlastitom proizvodnjom u Denizliju i rezanjem po mjeri za vaš projekt unosimo prirodni kamen u vaše prostore.",
+    "urun.ustten": "Pogled odozgo (stvarna boja)",
+    "urun.uygulamada": "U prostoru",
+    "urun.temsili": "Ilustrativni prikazi u prostoru: generirani umjetnom inteligencijom na temelju fotografije stvarnog uzorka ovog proizvoda. U stvarnoj ugradnji uzorak, ton i dimenzije mogu odstupati.",
+    "urun.temsiliKisa": "ilustrativni prikaz",
+    "urun.buyut": "uvećaj",
+    "sahne.banyo": "Zid kupaonice",
+    "sahne.mutfak": "Zid iznad kuhinjske radne ploče",
+    "sahne.zemin": "Pod",
+    "sahne.duvar": "Zid",
+    "sahne.teras": "Terasa",
+    "urun.sergi": "Izložbeni prikaz",
+    "sahne.havuz-kenari": "Sunčalište uz bazen",
+    "sahne.havuz-su-hatti": "Vodena linija bazena",
+    "sahne.bahce-yolu": "Vrtna staza",
+    "sahne.avlu": "Mediteransko dvorište",
+    "sahne.dis-cephe": "Pročelje kuće",
+    "sahne.bahce-duvari": "Vrtni zid",
+    "sahne.giris-merdiveni": "Ulazne stepenice",
+    "sahne.dis-mutfak": "Ljetna kuhinja",
+    "sahne.kis-bahcesi": "Zimski vrt",
+    "sahne.dus": "Zid tuš-kabine",
+    "sahne.banyo-zemini": "Pod kupaonice",
+    "sahne.lavabo-arkasi": "Zid iza umivaonika",
+    "sahne.kuvet-nisi": "Niša za kadu",
+    "sahne.hamam": "Hamam",
+    "sahne.spa": "Spa zona",
+    "sahne.kapali-havuz": "Unutarnji bazen",
+    "sahne.mutfak-tezgah": "Zid iznad kuhinjske radne ploče",
+    "sahne.kir-mutfagi": "Rustikalna kuhinja",
+    "sahne.mutfak-adasi": "Kuhinjski otok",
+    "sahne.kafe": "Šank u kafiću",
+    "sahne.somine": "Obloga kamina",
+    "sahne.vurgu-duvari": "Naglašeni zid u dnevnom boravku",
+    "sahne.salon-zemini": "Pod dnevnog boravka",
+    "sahne.antre": "Predsoblje",
+    "sahne.merdiven": "Zid uz stubište",
+    "sahne.yatak-basucu": "Zid iza uzglavlja kreveta",
+    "sahne.tv-duvari": "TV zid",
+    "sahne.yemek-odasi": "Blagovaonica",
+    "sahne.otel-lobisi": "Predvorje hotela",
+    "sahne.butik": "Butik trgovina",
+    "sahne.restoran": "Zid restorana",
+    "sahne.sarap-mahzeni": "Vinski podrum",
+    "sahne.ofis-resepsiyon": "Uredska recepcija",
+    "urun.kalinlik": "Debljina",
+    "urun.kalinlikPanel": "2 cm (po narudžbi 1, 2 ili 3 cm)",
+    "sss.mozaikM2": "Za mozaike na mreži dimenzija oko 30×30 cm potrebno je prosječno {n} mreža po m² (uz fugu od 2 mm, bez uračunatog otpada). Uz 10 % rezerve za otpad računajte na približno {fire} mreža. Na stranici svakog proizvoda navedena je vrijednost izračunata prema dimenzijama njegove mreže."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Mramor",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Pločica",
+      "Mozaik": "Mozaik",
+      "Altıgen": "Heksagon",
+      "Mini set": "Mini Versailles set",
+      "Panel": "Cijepani panel"
+    },
+    "yuzey": {
+      "Eskitme": "Antik obrada",
+      "Dolgulu honlu": "Zapunjen i honiran",
+      "Dolgulu eskitme": "Zapunjen i obrađen u bubnju",
+      "Dolgulu cilalı": "Zapunjen i poliran",
+      "Cilalı": "Poliran",
+      "Cilasız": "Nepoliran",
+      "Honlu": "Honiran (mat)",
+      "Patlatma": "Cijepan"
+    },
+    "ek": {
+      "İkili karışım": "Dvobojna mješavina",
+      "Üçlü karışım": "Trobojna mješavina",
+      "Koyu": "Tamni",
+      "Açık": "Svijetli",
+      "Fileli": "Na mreži",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Bijeli Muğla",
+      "Toros Siyahı": "Crni Toros",
+      "Eymer Siyah": "Crni Eymer",
+      "Sarı": "Žuti",
+      "Pembe": "Ružičasti",
+      "Bej": "Bež",
+      "Klasik": "Klasični",
+      "Damarlı Noce": "Noce s izraženim žilama"
+    },
+    "ton": {
+      "beyaz": "Bijela",
+      "krem": "Krem i bež",
+      "sari": "Žuta",
+      "kahve": "Smeđa",
+      "gri": "Siva",
+      "siyah": "Crna",
+      "pembe": "Ružičasta",
+      "karisik": "Miješani tonovi"
+    },
+    "sinif": {
+      "1": "1. klasa",
+      "2": "2. klasa",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Bež mramor",
+      "Blue Stone|Mermer": "Mramor Blue Stone",
+      "Muğla Beyazı|Mermer": "Bijeli mramor Muğla",
+      "Pembe|Mermer": "Ružičasti mramor",
+      "Toros Siyahı|Mermer": "Crni mramor Toros",
+      "Damarlı Noce|Traverten": "Travertin Noce s izraženim žilama",
+      "Klasik|Traverten": "Klasični travertin",
+      "Light Mix|Traverten": "Travertin Light Mix",
+      "Mix|Traverten": "Travertin Mix",
+      "Noce|Traverten": "Travertin Noce",
+      "Pembe|Traverten": "Ružičasti travertin",
+      "Sarı|Traverten": "Žuti travertin",
+      "Silver|Traverten": "Travertin Silver",
+      "Walnut|Traverten": "Travertin Walnut",
+      "Emperador|Mermer": "Mramor Emperador",
+      "Eymer Siyah|Traverten": "Crni travertin Eymer",
+      "Ivory|Traverten": "Travertin Ivory",
+      "Light|Traverten": "Travertin Light",
+      "Light + Noce Mix|Traverten": "Travertin Light + Noce Mix",
+      "Nebula|Traverten": "Travertin Nebula",
+      "Onix Silver|Traverten": "Travertin Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Travertin Žuti + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Travertin Žuti + Noce Mix",
+      "Scabas|Traverten": "Travertin Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş proizvođač je mramora i travertina osnovan 2014. godine u Organiziranoj industrijskoj zoni Denizli (Honaz, Turska). Od travertina i mramora proizvodi mozaike, pločice, Versailles uzorke (mini set), heksagone i cijepane zidne panele, reže kamen po mjeri te prodaje na domaćem i međunarodnom tržištu."
+    },
+    "tas": {
+      "Light Mix": "Svijetao travertin u kojem se nježni krem i tonovi bjelokosti blago prelijevaju — prozračan kamen koji se lako uklapa u svaki arhitektonski stil.",
+      "Mix": "Živopisan travertin s prirodnim prijelazima od svijetlih krem tonova preko toplih bež do blagih karamelnih nijansi.",
+      "Light": "Smirena selekcija travertina koja svoju poroznu strukturu ističe u najsvjetlijim krem i svijetlobež tonovima.",
+      "Silver": "Sivi travertin u kojem se isprepliću srebrnosivi, pepeljasti i topli kameni tonovi — izvrstan za moderne i industrijske interijere.",
+      "Onix Silver": "Prepoznatljiv sivi travertin sa slojevitim žilama koje stvaraju dojam dubine na srebrnosivoj podlozi.",
+      "Noce": "Tonovi oraha i tople zemljane smeđe boje koji prostoru daju profinjen, topao mediteranski ugođaj.",
+      "Damarlı Noce": "Travertin ritmične teksture oživljen izraženim, paralelnim slojevima žila u toplim smeđim i orahovim tonovima.",
+      "Walnut": "Topao travertin uravnoteženih, mekih prijelaza između boje bijele kave i ljuske oraha.",
+      "Scabas": "Travertin izraženog rustikalnog karaktera u kojem se krem, medeni i smeđi tonovi spajaju u snažnim uzorcima.",
+      "Sarı": "Travertin zlatnožutih i toplih medenih tonova koji unosi vedrinu i toplinu na terase, u vrtove i vanjske prostore.",
+      "Klasik": "Jednostavan, bezvremenski kamen koji odražava toplu bež-krem nijansu i prirodno poroznu strukturu klasičnog travertina iz Denizlija.",
+      "Ivory": "U nijansama lomljene bijele i svijetle bjelokosti — najsvjetliji i najdiskretniji travertin u kolekciji.",
+      "Nebula": "Smiren travertin s mekim, oblakastim prijelazima tonova na krem-sivoj podlozi.",
+      "Pembe|Traverten": "Travertin u tonovima lososa i zemljane ružičaste boje koji stvara neobičan, nježan ugođaj.",
+      "Eymer Siyah": "Kamen snažnog kontrasta koji spaja tamnosive i antracitne tonove s poroznom teksturom travertina.",
+      "Muğla Beyazı": "Prozračan, klasični bijeli mramor prepoznatljiv po dimnosivim oblacima i tankim žilama na bijeloj podlozi.",
+      "Bej": "Krem-bež mramor u svijetloj i tamnoj selekciji koji tvori ujednačenu, mirnu plohu.",
+      "Blue Stone": "Mramor hladnog, suvremenog karaktera u kojem se plavo-sivi tonovi i boja škriljevca presijecaju sa svijetlim žilama.",
+      "Emperador": "Mramor s tankim, svijetlim mrežastim žilama na smeđoj podlozi koji prostoru daje klasičnu, bogatu dubinu.",
+      "Pembe|Mermer": "Elegantan ružičasti mramor s bijelim žilama na podlozi boje suhe ruže.",
+      "Toros Siyahı": "Mramor u kojem oštre bijele žile na tamnoj antracitno-crnoj podlozi stvaraju snažan kontrast.",
+      "Light + Noce Mix": "Dvobojna kombinacija u kojoj se svijetli krem travertin Light i topli smeđi Noce spajaju u uravnoteženom kontrastu na istoj mreži.",
+      "Sarı + Noce Mix": "Dvobojna mješavina zlatnožutog i orahovo smeđeg travertina u toplim zemljanim tonovima.",
+      "Sarı + Noce + Light Mix": "Trobojna kombinacija svijetlog krem, zlatnožutog i orahovo smeđeg travertina s bogatim ritmom boja."
+    },
+    "yuzey": {
+      "Eskitme": "Kamen se obrađuje u bubnju kako bi se rubovi zaoblili, a površina dobila meku teksturu starinskog izgleda (antik obrada). Raspršuje svjetlost bez odsjaja te daje prirodan i topao izgled vanjskim prostorima, sunčalištima uz bazene, vrtovima i rustikalnim interijerima.",
+      "Honlu": "Površina se brusi dok ne postane glatka i svilenkasto mat, bez poliranja. Zbog modernog izgleda bez odsjaja čest je odabir za unutarnje podove.",
+      "Cilalı": "Površina se polira do zrcalnog sjaja koji na najživlji način ističe žile i kontrast boja. Daje profinjen izgled unutarnjim zidovima i podovima.",
+      "Cilasız": "Površina koja nakon rezanja ostaje nepolirana te zadržava prirodnu mat teksturu kamena.",
+      "Dolgulu honlu": "Prirodne pore travertina zatvaraju se masom za zapunjavanje, a zatim se površina honira dok ne postane mat i glatka. Budući da se u porama ne zadržava nečistoća, iznimno se lako održava.",
+      "Dolgulu eskitme": "Travertin sa zapunjenim porama koji se potom obrađuje u bubnju kako bi dobio zaobljene rubove i patiniran izgled. Spaja toplinu antik obrade sa zatvorenijom površinom.",
+      "Dolgulu cilalı": "Pore travertina se zapunjavaju, a površina polira do visokog sjaja — rezultat je glatka, sjajna površina koja se lako briše i održava.",
+      "Patlatma": "Kamen se mehanički cijepa čime se dobiva reljefna tekstura nalik prirodnoj stijeni. Igra svjetla i sjene daje dubinu kaminima, fasadama, vrtnim i naglašenim zidovima."
+    },
+    "form": {
+      "Tek parça": "Kvadratne i pravokutne kamene pločice. Polažu se ravno (fuga na fugu), s pomakom na polovicu ili trećinu duljine te u riblju kost na podovima i zidovima.",
+      "Mozaik": "Izrađuje se slaganjem manjih kamenih elemenata na mreže dimenzija približno 30×30 cm. Mreže se međusobno uklapaju te omogućuju brzo i precizno polaganje na podovima tuš-kabina, zidovima iznad radnih ploča i zaobljenim površinama.",
+      "Altıgen": "Prirodni kamen rezan u obliku heksagona, odnosno saća. Spaja klasičnu teksturu travertina sa suvremenim geometrijskim izričajem.",
+      "Mini set": "Versailles (francuski) vez u kojem se kvadratni i pravokutni elementi različitih dimenzija spajaju u jedan modul. Razbija dojam ponavljanja i stvara dinamičnu površinu.",
+      "Panel": "Zidni obložni paneli od cijepanih kamenih traka složenih u razinama. Zahvaljujući Z-spojevima na krajevima, paneli ulaze jedan u drugi i stvaraju neprekinutu teksturu stijene na unutarnjim i vanjskim zidovima."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "mozaik-od-travertina",
+        "ad": "Mozaik od travertina"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mramorni-mozaik",
+        "ad": "Mramorni mozaik"
+      },
+      "Traverten|Tek parça": {
+        "slug": "plocice-od-travertina",
+        "ad": "Pločice od travertina"
+      },
+      "Mermer|Tek parça": {
+        "slug": "mramorne-plocice",
+        "ad": "Mramorne pločice"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-versailles-set",
+        "ad": "Versailles set od travertina"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-heksagon",
+        "ad": "Heksagon od travertina"
+      },
+      "Traverten|Panel": {
+        "slug": "cijepani-paneli-od-travertina",
+        "ad": "Cijepani paneli od travertina"
+      }
+    },
+    "sss": [
+      [
+        "Gdje se nalazi Karabel Doğal Taş i što proizvodi?",
+        "Karabel Doğal Taş proizvođač je mramora i travertina koji od 2014. godine posluje u Organiziranoj industrijskoj zoni Denizli (Honaz, Denizli, Turska). Od travertina i mramora proizvodi mozaike, kamene pločice, Versailles uzorke (mini set), heksagone i cijepane zidne panele te reže kamen po mjeri."
+      ],
+      [
+        "Koja je razlika između travertina i mramora?",
+        "Travertin je prirodno porozan kamen nastao taloženjem kalcijeva karbonata iz mineralnih izvora, poznat po toplim krem, bež, sivim i smeđim tonovima. Mramor nastaje metamorfozom vapnenca pod utjecajem topline i tlaka; gušće je strukture i ima izražene žile. Denizli je turska regija najpoznatija po travertinu."
+      ],
+      [
+        "Koja je razlika između honiranja, antik obrade i poliranja?",
+        "Honirana površina brusi se dok ne postane glatka i mat, bez poliranja. Kod antik obrade kamen se obrađuje u bubnju, čime se zaobljuju rubovi, a površina dobiva starinsku teksturu. Polirana površina obrađuje se do zrcalnog sjaja koji najizraženije ističe žile kamena."
+      ],
+      [
+        "Što je zapunjeni travertin?",
+        "Kod zapunjenog travertina prirodne se pore zatvaraju posebnom masom za zapunjavanje. Takva površina izgleda zatvorenije i ujednačenije, ne zadržava prljavštinu te se lako čisti. Nezapunjeni travertin zadržava svoju izvornu, otvorenu poroznu teksturu."
+      ],
+      [
+        "Koliko je mreža mozaika potrebno za 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Koja je razlika između 1. klase, 2. klase i klase Export?",
+        "Kod prirodnog kamena klase označavaju strogoću selekcije: kamen se razvrstava prema ujednačenosti boje, veličini pora i površinskim nepravilnostima. Export je najstrože birana klasa. Najbolja odluka za konkretan projekt donosi se na temelju uvida u uzorak."
+      ],
+      [
+        "Režete li kamen po mjeri?",
+        "Da. Uz standardne dimenzije režemo kamen u slobodnim duljinama i dimenzijama prilagođenima vašem projektu. Primjerice, travertin Silver širine 8 cm proizvodimo u duljini prema vašoj narudžbi."
+      ],
+      [
+        "Izvozite li svoje proizvode?",
+        "Da, Karabel Doğal Taş prodaje kupcima u Turskoj i inozemstvu. Za cijene, uzorke i otpremu možete nam se javiti putem WhatsAppa ({telefon}) ili na {eposta}."
+      ],
+      [
+        "Jesu li boje kamena na web-stranici stvarne?",
+        "Sve fotografije prikazuju stvarne uzorke; nisu korišteni filtri za korekciju boja, već je samo uklonjena pozadina. Budući da je svaki komad prirodnog kamena jedinstven, a zasloni različito prikazuju boje, prije konačne odluke preporučujemo pregled fizičkog uzorka."
+      ]
+    ]
+  }
+}

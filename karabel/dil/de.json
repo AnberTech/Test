@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Deutsch",
+    "kisa": "DE",
+    "yerel": "de-DE",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "de"
+  },
+  "yol": {
+    "koleksiyon": "kollektion",
+    "urun": "produkt",
+    "tas": "stein",
+    "yuzey": "oberflaeche",
+    "sss": "faq",
+    "hakkimizda": "ueber-uns",
+    "iletisim": "kontakt"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kollektion",
+    "nav.hakkimizda": "Über uns",
+    "nav.iletisim": "Kontakt",
+    "nav.teklif": "Angebot anfordern",
+    "nav.menu": "Menü",
+    "marka.alt": "Marmor · Naturstein",
+    "giris.ust": "Seit 2014 · Denizli",
+    "giris.koleksiyon": "Steine entdecken",
+    "giris.urun": "Produkte",
+    "kol.ust": "Kollektion",
+    "kol.baslik": "Struktur aus der Nähe. <em>Charakter in der Fläche.</em>",
+    "kol.metin": "Alle Abbildungen zeigen echte Steinmuster. Farbton und Aderung variieren bei Naturstein von Stück zu Stück.",
+    "kol.tumu": "Alle",
+    "kol.ara": "Steinname, Farbe oder Maß suchen",
+    "kol.form": "Format",
+    "kol.yuzey": "Oberfläche",
+    "kol.renk": "Farbe",
+    "kol.temizle": "Filter zurücksetzen",
+    "kol.sonuc": "{n} Produkte",
+    "kol.bos": "Keine Produkte für diese Filterauswahl gefunden. Bitte setzen Sie einzelne Filter zurück.",
+    "urun.form": "Format",
+    "urun.parca": "Einzelsteinformat",
+    "urun.birim": "Mattenmaß",
+    "urun.yuzey": "Oberfläche",
+    "urun.sinif": "Sortierung",
+    "urun.ozellik": "Zusatzmerkmal",
+    "urun.grup": "Gesteinsart",
+    "urun.teklif": "Angebot per WhatsApp anfordern",
+    "urun.teyit": "Einige Angaben zu diesem Produkt werden derzeit geprüft. Bitte stimmen Sie die aktuellen Maße und Spezifikationen vor der Bestellung mit uns ab.",
+    "urun.kapat": "Schließen",
+    "urun.olcuyeGore": "Länge nach Kundenwunsch",
+    "hak.ust": "Über uns",
+    "hak.baslik": "Fertigung in Denizli, <em>seit 2014.</em>",
+    "hak.metin1": "Karabel Doğal Taş wurde 2014 in der Organisierten Industriezone Denizli in Honaz, Türkei, gegründet. Wir fertigen Mosaike, Fliesen, Römische Verbände (Mini-Sets), Sechseckfliesen und Spaltstein-Wandpaneele aus Marmor und Travertin.",
+    "hak.metin2": "Wir beliefern Kunden in der Türkei und im Ausland. Wenden Sie sich an uns, wenn Sie sich für Produkte aus unserer Kollektion oder individuelle Maßzuschnitte interessieren.",
+    "hak.kurulus": "Gründung",
+    "hak.uretim": "Fertigungsstandort",
+    "hak.uretimDeger": "Organisierte Industriezone Denizli, Türkei",
+    "hak.olcu": "Zuschnitt",
+    "hak.olcuDeger": "Maßanfertigung",
+    "hak.pazar": "Vertrieb",
+    "hak.pazarDeger": "In- und Ausland",
+    "ilt.ust": "Kontakt",
+    "ilt.baslik": "Als Nächstes: <em>Ihr Projekt.</em>",
+    "ilt.metin": "Schreiben Sie uns für Preisauskünfte, Musteranfragen oder Maßzuschnitte.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-Mail",
+    "ilt.adres": "Adresse",
+    "ilt.harita": "Auf der Karte anzeigen",
+    "ilt.form.ad": "Ihr Name",
+    "ilt.form.konu": "Produkt oder Projekt",
+    "ilt.form.mesaj": "Beschreiben Sie Ihr Anliegen",
+    "ilt.form.gonder": "Auf WhatsApp fortfahren",
+    "ilt.form.eposta": "Im E-Mail-Programm öffnen",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Die Abbildungen zeigen echte Steinmuster. Natürliche Abweichungen in Farbe und Aderung sind charakteristisch für Naturstein.",
+    "wa.urun": "Guten Tag, ich möchte gerne ein Angebot für {urun} anfordern.",
+    "wa.genel": "Guten Tag, ich hätte gerne nähere Informationen zu Ihren Marmor- und Travertinprodukten.",
+    "wa.form": "Guten Tag, mein Name ist {ad}.\nBetreff: {konu}\n{mesaj}",
+    "nav.atla": "Zum Inhalt springen",
+    "urun.kenar": "Kantenlänge: {n} cm",
+    "yardim.numune": "Muster anfordern",
+    "yardim.sinif": "Sortierungsunterschiede erfragen",
+    "nav.sss": "FAQ",
+    "nav.ana": "Startseite",
+    "sayfa.anaBaslik": "Karabel Naturstein — Travertin & Marmor aus Denizli: Mosaike, Fliesen, Römischer Verband, Spaltstein-Paneele",
+    "sayfa.anaAciklama": "Marmor- und Travertinproduktion in Denizli seit 2014: Travertinmosaike, Fliesen, Römischer Verband (Versailles-Set), Sechseckformate und Spaltstein-Paneele. Echte Musterfotos, Maße und Bedarfsangaben pro m².",
+    "kol.hepsi": "Alle Produkte ({n})",
+    "rehber.ust": "Oberflächen-Ratgeber",
+    "sss.baslik": "Häufig gestellte Fragen",
+    "sss.hepsi": "Alle Fragen →",
+    "sss.altBaslik": "Rund um Marmor, Travertin und Bestellung",
+    "urun.birimLevha": "Matten",
+    "urun.birimTas": "Fliesen",
+    "urun.gorunum": "Abbildung",
+    "urun.m2": "Pro m²",
+    "urun.teknikIste": "Technische Daten anfordern",
+    "urun.hakkinda": "Über {ad}",
+    "urun.m2Uzun": "Für 1 m² dieses Produkts werden ca. {n} {birim} benötigt (bei 2 mm Fugenbreite). Planen Sie inklusive 10 % Verschnitt ca. {fire} {birim} ein; die genaue Menge wird bei der Angebotserstellung bestätigt.",
+    "urun.kardes": "{ad}: weitere Formate und Oberflächen",
+    "wa.numune": "Guten Tag, ich möchte gerne ein Muster für {urun} anfordern.",
+    "wa.teknik": "Guten Tag, könnten Sie mir bitte die technischen Daten (Stärke, Toleranzen, Verpackung) für {urun} zusenden?",
+    "wa.sinif": "Guten Tag, ich möchte gerne den Unterschied zwischen den Sortierungen (1. Wahl / 2. Wahl / Export) bei {urun} erfahren.",
+    "wa.kategori": "Guten Tag, ich möchte gerne ein Angebot für Ihre Produkte der Kategorie {kategori} anfordern.",
+    "kat.baslikEk": "Kategorien",
+    "kat.urunSayisi": "Produkte",
+    "kat.olculer": "Formate",
+    "kat.yuzeyler": "Oberflächen",
+    "kat.taslar": "Steine",
+    "kat.ortalama": "Durchschnitt",
+    "kat.ozet": "Karabel Doğal Taş fertigt {ad} in Denizli, Türkei: {n} Produkte; Formate: {olculer}; Oberflächen: {yuzeyler}. Alle Abbildungen zeigen echte Steinmuster.",
+    "yuzeyS.baslik": "Oberfläche: {ad}",
+    "sayfa.kolBaslik": "Marmor- und Travertin-Kollektion",
+    "sayfa.kolAciklama": "{n} Marmor- und Travertinprodukte: Mosaike, Fliesen, Sets im Römischen Verband, Sechseckfliesen und Spaltstein-Paneele. Echte Musterfotos, Maße und Mengen pro m².",
+    "hak.uretimimiz": "Was wir fertigen",
+    "sayfa.yok": "Die gesuchte Seite wurde nicht gefunden.",
+    "giris.baslikSade": "Naturstein.<br>Feine Handwerkskunst.",
+    "giris.metinSade": "Wir verarbeiten die charakteristische Struktur von Marmor und Travertin mit großer Sorgfalt zu Mosaiken, Fliesen und Wandverkleidungen. Mit unserer Fertigung in Denizli und projektspezifischen Maßanfertigungen bringen wir Naturstein in Ihre Räume.",
+    "urun.ustten": "Draufsicht (naturgetreue Farbe)",
+    "urun.uygulamada": "In der Anwendung",
+    "urun.temsili": "Repräsentative Anwendungsbilder: mit KI aus dem Musterfoto dieses Produkts erstellt. Muster, Farbton und Maße können bei der tatsächlichen Verlegung abweichen.",
+    "urun.temsiliKisa": "beispielhaft",
+    "urun.buyut": "vergrößern",
+    "sahne.banyo": "Badezimmerwand",
+    "sahne.mutfak": "Küchenrückwand",
+    "sahne.zemin": "Boden",
+    "sahne.duvar": "Wand",
+    "sahne.teras": "Terrasse",
+    "urun.sergi": "Ausstellung",
+    "sahne.havuz-kenari": "Poolumrandung",
+    "sahne.havuz-su-hatti": "Wasserlinie im Pool",
+    "sahne.bahce-yolu": "Gartenweg",
+    "sahne.avlu": "Mediterraner Innenhof",
+    "sahne.dis-cephe": "Hausfassade",
+    "sahne.bahce-duvari": "Gartenmauer",
+    "sahne.giris-merdiveni": "Eingangsstufen",
+    "sahne.dis-mutfak": "Outdoor-Küche",
+    "sahne.kis-bahcesi": "Wintergarten",
+    "sahne.dus": "Duschwand",
+    "sahne.banyo-zemini": "Badezimmerboden",
+    "sahne.lavabo-arkasi": "Waschtischwand",
+    "sahne.kuvet-nisi": "Badewannennische",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Hallenbad",
+    "sahne.mutfak-tezgah": "Küchenrückwand",
+    "sahne.kir-mutfagi": "Landhausküche",
+    "sahne.mutfak-adasi": "Kücheninsel",
+    "sahne.kafe": "Café-Theke",
+    "sahne.somine": "Kaminverkleidung",
+    "sahne.vurgu-duvari": "Akzentwand im Wohnzimmer",
+    "sahne.salon-zemini": "Wohnzimmerboden",
+    "sahne.antre": "Eingangsbereich",
+    "sahne.merdiven": "Wand entlang der Treppe",
+    "sahne.yatak-basucu": "Wand hinter dem Bett",
+    "sahne.tv-duvari": "TV-Wand",
+    "sahne.yemek-odasi": "Esszimmer",
+    "sahne.otel-lobisi": "Hotellobby",
+    "sahne.butik": "Boutique",
+    "sahne.restoran": "Restaurantwand",
+    "sahne.sarap-mahzeni": "Weinkeller",
+    "sahne.ofis-resepsiyon": "Empfangsbereich im Büro",
+    "urun.kalinlik": "Stärke",
+    "urun.kalinlikPanel": "2 cm (auf Anfrage 1, 2 oder 3 cm)",
+    "urun.m2Cumle": "Ca. {n} {birim} pro m².",
+    "sss.mozaikM2": "Bei Mosaikmatten von ca. 30×30 cm benötigen Sie durchschnittlich {n} Matten pro m² (bei 2 mm Fugenbreite, ohne Verschnitt). Rechnen Sie inklusive 10 % Verschnitt mit etwa {fire} Matten. Auf jeder Produktseite ist der anhand des jeweiligen Mattenformats berechnete Wert angegeben."
+  },
+  "terim": {
+    "form": {
+      "Panel": "Spaltstein-Paneel",
+      "Tek parça": "Fliese",
+      "Mozaik": "Mosaik",
+      "Altıgen": "Hexagon",
+      "Mini set": "Mini-Set im Römischen Verband"
+    },
+    "ton": {
+      "beyaz": "Weiß",
+      "krem": "Creme und Beige",
+      "sari": "Gelb",
+      "kahve": "Braun",
+      "gri": "Grau",
+      "siyah": "Schwarz",
+      "pembe": "Rosa",
+      "karisik": "Farbmix"
+    },
+    "sinif": {
+      "1": "1. Wahl",
+      "2": "2. Wahl",
+      "Export": "Export"
+    },
+    "grup": {
+      "Mermer": "Marmor",
+      "Traverten": "Travertin"
+    },
+    "yuzey": {
+      "Eskitme": "Getrommelt",
+      "Dolgulu honlu": "Gespachtelt und geschliffen",
+      "Dolgulu eskitme": "Gespachtelt und getrommelt",
+      "Dolgulu cilalı": "Gespachtelt und poliert",
+      "Cilalı": "Poliert",
+      "Cilasız": "Unpoliert",
+      "Honlu": "Geschliffen",
+      "Patlatma": "Gespalten"
+    },
+    "ek": {
+      "İkili karışım": "Zweifarben-Mix",
+      "Üçlü karışım": "Dreifarben-Mix",
+      "Koyu": "Dunkel",
+      "Açık": "Hell",
+      "Fileli": "Netzgeklebt",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Muğla Weiß",
+      "Toros Siyahı": "Toros Schwarz",
+      "Eymer Siyah": "Eymer Schwarz",
+      "Sarı": "Gelb",
+      "Pembe": "Rosa",
+      "Bej": "Beige",
+      "Klasik": "Klassisch",
+      "Damarlı Noce": "Noce mit Aderung"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Beiger Marmor",
+      "Blue Stone|Mermer": "Blue Stone Marmor",
+      "Muğla Beyazı|Mermer": "Weißer Muğla-Marmor",
+      "Pembe|Mermer": "Rosa Marmor",
+      "Toros Siyahı|Mermer": "Schwarzer Toros-Marmor",
+      "Damarlı Noce|Traverten": "Noce-Travertin mit Aderung",
+      "Klasik|Traverten": "Klassischer Travertin",
+      "Light Mix|Traverten": "Light Mix Travertin",
+      "Mix|Traverten": "Mix Travertin",
+      "Noce|Traverten": "Noce Travertin",
+      "Pembe|Traverten": "Rosa Travertin",
+      "Sarı|Traverten": "Gelber Travertin",
+      "Silver|Traverten": "Silver Travertin",
+      "Walnut|Traverten": "Walnut Travertin",
+      "Emperador|Mermer": "Emperador Marmor",
+      "Eymer Siyah|Traverten": "Schwarzer Eymer-Travertin",
+      "Ivory|Traverten": "Ivory Travertin",
+      "Light|Traverten": "Light Travertin",
+      "Light + Noce Mix|Traverten": "Light + Noce Mix Travertin",
+      "Nebula|Traverten": "Nebula Travertin",
+      "Onix Silver|Traverten": "Onix Silver Travertin",
+      "Sarı + Noce + Light Mix|Traverten": "Gelb + Noce + Light Mix Travertin",
+      "Sarı + Noce Mix|Traverten": "Gelb + Noce Mix Travertin",
+      "Scabas|Traverten": "Scabas Travertin"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş ist ein 2014 in der Organisierten Industriezone Denizli in Honaz, Türkei, gegründeter Hersteller von Marmor und Travertin. Das Unternehmen fertigt Mosaike, Fliesen, Römische Verbände (Mini-Sets), Sechseckfliesen und Spaltstein-Wandpaneele aus Travertin und Marmor, bietet Zuschnitte nach Maß an und beliefert Kunden im In- und Ausland."
+    },
+    "tas": {
+      "Light Mix": "Ein heller, freundlicher Travertin, in dem helle Creme- und Elfenbeintöne sanft ineinander übergehen und der sich harmonisch in jede Architektur einfügt.",
+      "Mix": "Ein lebendiger Travertin mit natürlichem Farbspiel von hellem Creme über warmes Beige bis hin zu zarten Karamelltönen.",
+      "Light": "Eine ruhige Travertin-Sortierung, die ihre charakteristische offenporige Struktur in hellsten Creme- und Beigetönen zeigt.",
+      "Silver": "Ein grauer Travertin, in dem Silbergrau, Aschgrau und warme Steintöne ineinanderfließen – ideal für moderne und industrielle Raumkonzepte.",
+      "Onix Silver": "Ein charakterstarker grauer Travertin mit vielschichtiger, tief wirkender Aderung auf silbergrauem Grund.",
+      "Noce": "Walnuss- und warme Erdbrauntöne verleihen dem Raum eine gediegene, warme mediterrane Ausstrahlung.",
+      "Damarlı Noce": "Ein rhythmisch strukturierter Travertin, belebt durch ausgeprägte parallele Bänderungen in warmem Braun und Walnuss.",
+      "Walnut": "Ein ausgewogener Travertin zwischen Milchkaffee und Walnussschale mit weichen Übergängen und warmer Ausstrahlung.",
+      "Scabas": "Ein Travertin mit ausgeprägt rustikalem Charakter, in dem Creme-, Honig- und Brauntöne in kräftigen Zeichnungen zusammentreffen.",
+      "Sarı": "Ein Travertin in Goldgelb und warmen Honigtönen, der besonders Terrassen, Gärten und Außenbereiche belebt.",
+      "Klasik": "Ein schlichter Naturstein mit dem warmen Beige-Creme-Ton und der natürlich porösen Struktur des klassischen Denizli-Travertins.",
+      "Ivory": "Ein Travertin in gebrochenem Weiß und hellen Elfenbeintönen – der hellste und schlichteste der Kollektion.",
+      "Nebula": "Ein ruhiger Travertin mit wolkenartig weichen Farbverläufen auf cremegrauem Grund.",
+      "Pembe|Traverten": "Ein Travertin in Lachs- und erdigen Rosatönen, der eine außergewöhnliche, sanfte Raumatmosphäre schafft.",
+      "Eymer Siyah": "Ein kontrastreicher Stein, der Dunkelgrau und Anthrazit mit der typischen Porenstruktur des Travertins verbindet.",
+      "Muğla Beyazı": "Ein heller, klassischer Marmor mit weißem Grund, rauchgrauen Wolken und feinen Adern.",
+      "Bej": "Ein cremebeiger Marmor in hellen und dunklen Sortierungen, der für ruhige, homogene Flächen sorgt.",
+      "Blue Stone": "Ein kühler, moderner Marmor, bei dem Blaugrau- und Schiefertöne von hellen Adern durchzogen werden.",
+      "Emperador": "Ein Marmor mit feiner, heller Netzaderung auf braunem Grund für klassische Eleganz und optische Tiefe.",
+      "Pembe|Mermer": "Ein eleganter rosafarbener Marmor mit weißen Aderverläufen auf altrosafarbenem Grund.",
+      "Toros Siyahı": "Ein Marmor, dessen markante weiße Adern auf dunklem, anthrazitschwarzem Grund einen starken Kontrast erzeugen.",
+      "Light + Noce Mix": "Eine ausgewogene Zweifarbmischung auf einer Matte: Light in hellem Creme und Noce in warmem Braun bilden einen markanten Kontrast.",
+      "Sarı + Noce Mix": "Eine Zweifarbmischung aus goldgelbem und walnussbraunem Travertin in warmen Erdtönen.",
+      "Sarı + Noce + Light Mix": "Eine Dreifarbkombination aus hellcremefarbenem, goldgelbem und walnussbraunem Travertin mit lebendigem Farbrhythmus."
+    },
+    "yuzey": {
+      "Eskitme": "Die Steine werden in einer Trommel bearbeitet, wodurch die Kanten gerundet werden und die Oberfläche eine weiche, antike Struktur erhält. Sie streut das Licht blendfrei und sorgt im Außenbereich, am Pool, im Garten sowie in rustikalen Innenräumen für eine natürliche, warme Optik.",
+      "Honlu": "Die Oberfläche wird ohne Politur glatt und seidenmatt geschliffen. Dank ihrer matten, modernen Optik ist sie eine beliebte Wahl für Böden im Innenbereich.",
+      "Cilalı": "Die Oberfläche wird auf Hochglanz poliert, wodurch Aderung und Farbkontraste besonders intensiv zur Geltung kommen. Eine elegante Wahl für Wand- und Bodenflächen im Innenbereich.",
+      "Cilasız": "Nach dem Zuschnitt unpoliert belassen, sodass die natürliche, matte Struktur des Steins erhalten bleibt.",
+      "Dolgulu honlu": "Die natürlichen Poren des Travertins werden verschlossen und die Oberfläche anschließend glatt und matt geschliffen. Da sich kein Schmutz in offenen Poren absetzen kann, ist der Stein besonders pflegeleicht.",
+      "Dolgulu eskitme": "Gespachtelter Travertin wird getrommelt, um gerundete Kanten und eine antike Optik zu erzielen – die warme Ausstrahlung von getrommeltem Stein kombiniert mit einer geschlosseneren Oberfläche.",
+      "Dolgulu cilalı": "Die Poren des Travertins werden gefüllt und die Oberfläche anschließend auf Hochglanz poliert – für eine glatte, glänzende und leicht zu reinigende Fläche.",
+      "Patlatma": "Der Stein wird mechanisch gespalten, sodass eine markante, bruchraue Felsoberfläche entsteht. Das Spiel aus Licht und Schatten verleiht Kaminen, Fassaden, Gartenmauern und Akzentwänden plastische Tiefe."
+    },
+    "form": {
+      "Tek parça": "Quadratische und rechteckige Fliesen für Boden und Wand – verlegbar im Kreuzfugenverband, Halbverband, Drittelverband oder Fischgrätmuster.",
+      "Mozaik": "Kleinformatige Steine, fertig verklebt auf ca. 30×30 cm großen Netzmatten. Die ineinandergreifenden Matten ermöglichen eine schnelle und gleichmäßige Verlegung auf Duschböden, an Küchenrückwänden und auf gerundeten Flächen.",
+      "Altıgen": "Naturstein im Sechseck- bzw. Wabenformat, der die klassische Travertinstruktur mit einer modernen geometrischen Formensprache verbindet.",
+      "Mini set": "Der Römische Verband (Versailles-Verband): Quadratische und rechteckige Platten verschiedener Formate greifen in einem Modul ineinander und schaffen ein lebendiges Verlegebild ohne starre Wiederholung.",
+      "Panel": "Wandverblender aus versetzt angeordneten Spaltstein-Riemchen. Dank der Z-Form an den Enden greifen die Paneele nahtlos ineinander und erzeugen an Innen- und Außenwänden eine durchgehende Natursteinoptik."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertin-mosaik",
+        "ad": "Travertin-Mosaik"
+      },
+      "Mermer|Mozaik": {
+        "slug": "marmor-mosaik",
+        "ad": "Marmor-Mosaik"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertin-fliesen",
+        "ad": "Travertin-Fliesen"
+      },
+      "Mermer|Tek parça": {
+        "slug": "marmor-fliesen",
+        "ad": "Marmor-Fliesen"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-roemischer-verband",
+        "ad": "Travertin im Römischen Verband"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-sechseck",
+        "ad": "Travertin-Sechseckfliesen"
+      },
+      "Traverten|Panel": {
+        "slug": "travertin-spaltstein-paneele",
+        "ad": "Travertin-Spaltstein-Paneele"
+      }
+    },
+    "sss": [
+      [
+        "Wo produziert Karabel Doğal Taş und welche Produkte werden gefertigt?",
+        "Karabel Doğal Taş ist seit 2014 in der Organisierten Industriezone Denizli in Honaz, Türkei, als Hersteller von Marmor und Travertin tätig. Das Unternehmen fertigt Mosaike, Fliesen, Römische Verbände (Mini-Sets), Sechseckfliesen und Spaltstein-Wandpaneele aus Travertin und Marmor sowie individuelle Zuschnitte nach Maß."
+      ],
+      [
+        "Was ist der Unterschied zwischen Travertin und Marmor?",
+        "Travertin ist ein natürlich poröser Kalkstein, der durch Ablagerungen aus mineralhaltigen Quellen entsteht und für seine warmen Creme-, Beige-, Grau- und Brauntöne bekannt ist. Marmor entsteht durch die Umwandlung von Kalkstein unter hohem Druck und hoher Temperatur; er hat ein dichteres Gefüge und eine markante Aderung. Denizli ist die bekannteste Travertin-Region der Türkei."
+      ],
+      [
+        "Was ist der Unterschied zwischen geschliffenen, getrommelten und polierten Oberflächen?",
+        "Geschliffene Oberflächen werden ohne Politur glatt und matt geschliffen. Bei getrommelten Oberflächen werden die Steine in einer Trommel bearbeitet; dabei werden die Kanten abgerundet und die Oberfläche erhält eine antike Struktur. Polierte Oberflächen werden auf Spiegelglanz poliert und zeigen die Aderung besonders intensiv."
+      ],
+      [
+        "Was bedeutet gespachtelter (gefüllter) Travertin?",
+        "Beim gespachtelten Travertin werden die natürlichen Poren des Steins werkseitig mit einer Füllmasse verschlossen. Die Oberfläche wirkt dadurch geschlossener und ruhiger, nimmt keinen Schmutz in den Poren auf und lässt sich leicht reinigen. Ungespachtelter (offenporiger) Travertin behält seine ursprüngliche, natürlich poröse Struktur."
+      ],
+      [
+        "Wie viele Mosaikmatten benötige ich für 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Was ist der Unterschied zwischen 1. Wahl, 2. Wahl und Export-Sortierung?",
+        "Bei Naturstein geben die Sortierungen an, wie streng nach Kriterien wie Farbgleichmäßigkeit, Poren und Oberflächenfehlern selektiert wird. Export ist die am strengsten selektierte Sortierung. Die passende Sortierung für ein Projekt sollte anhand eines Musters gewählt werden."
+      ],
+      [
+        "Fertigen Sie auch Zuschnitte nach Maß an?",
+        "Ja. Neben Standardformaten fertigen wir freie Längen und projektbezogene Maßzuschnitte. Beispielsweise wird Silver-Travertin in 8 cm Breite in der gewünschten Länge gefertigt."
+      ],
+      [
+        "Liefern Sie auch ins Ausland?",
+        "Ja, Karabel Doğal Taş beliefert sowohl Kunden in der Türkei als auch internationale Abnehmer. Für Preise, Muster und Versandinformationen erreichen Sie uns per WhatsApp ({telefon}) oder per E-Mail an {eposta}."
+      ],
+      [
+        "Entsprechen die Steinfarben auf der Website den echten Steinen?",
+        "Alle Bilder sind Fotografien echter Musterstücke; es wurden keine Farbkorrekturfilter verwendet, lediglich der Hintergrund wurde freigestellt. Da bei Naturstein jedes Stück anders ausfällt und Bildschirme Farben unterschiedlich darstellen, empfehlen wir, vor der endgültigen Entscheidung ein Originalmuster anzusehen."
+      ]
+    ]
+  }
+}

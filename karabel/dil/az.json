@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Azərbaycanca",
+    "kisa": "AZ",
+    "yerel": "az-AZ",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "az"
+  },
+  "yol": {
+    "koleksiyon": "kolleksiya",
+    "urun": "mehsul",
+    "tas": "das",
+    "yuzey": "seth",
+    "sss": "tvs",
+    "hakkimizda": "haqqimizda",
+    "iletisim": "elaqe"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kolleksiya",
+    "nav.hakkimizda": "Haqqımızda",
+    "nav.iletisim": "Əlaqə",
+    "nav.teklif": "Qiymət təklifi al",
+    "nav.menu": "Menyu",
+    "marka.alt": "Mərmər · Təbii Daş",
+    "giris.ust": "2014-cü ildən · Denizli",
+    "giris.koleksiyon": "Daşları kəşf et",
+    "giris.urun": "məhsul",
+    "kol.ust": "Kolleksiya",
+    "kol.baslik": "Yaxından — faktura. <em>Bütövlükdə — xarakter.</em>",
+    "kol.metin": "Gördüyünüz şəkillər həqiqi nümunələrə aiddir. Təbii daşın hər parçasında rəng və damarların paylanması fərqli ola bilər.",
+    "kol.tumu": "Hamısı",
+    "kol.ara": "Daş adına, rəngə və ya ölçüyə görə axtar",
+    "kol.form": "Məhsul forması",
+    "kol.yuzey": "Səth emalı",
+    "kol.renk": "Rəng",
+    "kol.temizle": "Filtrləri təmizlə",
+    "kol.sonuc": "{n} məhsul",
+    "kol.bos": "Bu filtrlərə uyğun məhsul tapılmadı. Bəzi filtrləri ləğv edib yenidən cəhd edin.",
+    "urun.form": "Məhsul forması",
+    "urun.parca": "Parça ölçüsü",
+    "urun.birim": "Tor ölçüsü",
+    "urun.yuzey": "Səth emalı",
+    "urun.sinif": "Məhsul sinfi",
+    "urun.ozellik": "Əlavə xüsusiyyət",
+    "urun.grup": "Daş növü",
+    "urun.teklif": "WhatsApp vasitəsilə qiymət təklifi al",
+    "urun.teyit": "Bu məhsulla bağlı bəzi məlumatlar hələ təsdiqlənməyib. Sifarişdən əvvəl aktual ölçüləri və məhsul xüsusiyyətlərini bizdən dəqiqləşdirin.",
+    "urun.kapat": "Bağla",
+    "urun.olcuyeGore": "Uzunluq sifarişə görə müəyyən edilir",
+    "hak.ust": "Haqqımızda",
+    "hak.baslik": "Denizlidə istehsal, <em>2014-cü ildən.</em>",
+    "hak.metin1": "Karabel Doğal Taş 2014-cü ildə Denizli Mütəşəkkil Sənaye Zonasında, Honazda təsis edilib. Mərmər və travertindən mozaika, plitə, Versailles və mini dəstlər, altıbucaqlı məmulatlar və patlatma (yarma səthli) panellər istehsal edirik.",
+    "hak.metin2": "Türkiyədəki və xaricdəki alıcılarla işləyirik. Kolleksiyadakı məhsullar və fərdi ölçülərdə kəsim sifarişləriniz üçün bizimlə əlaqə saxlaya bilərsiniz.",
+    "hak.kurulus": "Təsis ili",
+    "hak.uretim": "İstehsal yeri",
+    "hak.uretimDeger": "Denizli OSB, Türkiyə",
+    "hak.olcu": "Kəsim",
+    "hak.olcuDeger": "Sifarişə uyğun ölçü",
+    "hak.pazar": "Satış",
+    "hak.pazarDeger": "Türkiyə daxilində və xaricdə",
+    "ilt.ust": "Əlaqə",
+    "ilt.baslik": "Növbədə <em>sizin layihəniz var.</em>",
+    "ilt.metin": "Qiymət, nümunə tələbi və ya sifarişə uyğun ölçüdə kəsim üçün bizə yazın.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-poçt",
+    "ilt.adres": "Ünvan",
+    "ilt.harita": "Xəritədə göstər",
+    "ilt.form.ad": "Adınız",
+    "ilt.form.konu": "Maraqlandığınız məhsul və ya layihə",
+    "ilt.form.mesaj": "Ehtiyacınızı qeyd edin",
+    "ilt.form.gonder": "WhatsApp-da davam et",
+    "ilt.form.eposta": "E-poçt tətbiqində aç",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Şəkillər həqiqi nümunələrə aiddir. Təbii daşda rəng və damar fərqləri müşahidə oluna bilər.",
+    "wa.urun": "Salam, {urun} üçün qiymət təklifi almaq istəyirəm.",
+    "wa.genel": "Salam, mərmər və travertin məhsullarınız haqqında məlumat almaq istəyirəm.",
+    "wa.form": "Salam, mən {ad}.\nMövzu: {konu}\n{mesaj}",
+    "nav.atla": "Məzmuna keç",
+    "urun.kenar": "Kənar uzunluğu: {n} sm",
+    "yardim.numune": "Nümunə tələb et",
+    "yardim.sinif": "Sinif fərqini soruş",
+    "nav.sss": "Tez-tez soruşulanlar",
+    "nav.ana": "Ana səhifə",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Denizli travertini və mərməri: mozaika, plitə, Versailles, patlatma panel",
+    "sayfa.anaAciklama": "Denizlidə 2014-cü ildən bəri mərmər və travertin istehsalı: travertin mozaikası, plitə, Versailles dəsti, altıbucaqlı məmulat və patlatma panel. Həqiqi nümunə fotoşəkilləri, ölçülər və m² üzrə hesablamalar.",
+    "kol.hepsi": "Bütün məhsullar ({n})",
+    "rehber.ust": "Səth emalı bələdçisi",
+    "sss.baslik": "Tez-tez verilən suallar",
+    "sss.hepsi": "Bütün suallar →",
+    "sss.altBaslik": "Mərmər, travertin və sifariş haqqında",
+    "urun.birimLevha": "tor",
+    "urun.birimTas": "plitə",
+    "urun.m2Cumle": "1 m² üçün təxminən {n} {birim}.",
+    "urun.gorunum": "Şəkil",
+    "urun.m2": "1 m² üçün",
+    "urun.teknikIste": "Texniki məlumat istə",
+    "urun.hakkinda": "{ad} haqqında",
+    "urun.m2Uzun": "Bu məhsuldan 1 m² üçün təxminən {n} {birim} tələb olunur (2 mm-lik derzlə). 10% itki payı nəzərə alınmaqla təxminən {fire} {birim} hesablayın; dəqiq miqdar qiymət təklifi mərhələsində təsdiqlənir.",
+    "urun.kardes": "{ad}: digər ölçülər və səth emalları",
+    "wa.numune": "Salam, {urun} üçün nümunə istəmək istəyirəm.",
+    "wa.teknik": "Salam, {urun} üçün texniki məlumatı (qalınlıq, tolerans, qablaşdırma) təqdim etməyinizi xahiş edirəm.",
+    "wa.sinif": "Salam, {urun} üçün siniflər (1-ci sinif / 2-ci sinif / Export) arasındakı fərqi öyrənmək istəyirəm.",
+    "wa.kategori": "Salam, {kategori} məhsullarınız üçün qiymət təklifi almaq istəyirəm.",
+    "kat.baslikEk": "Kateqoriyalar",
+    "kat.urunSayisi": "Məhsul",
+    "kat.olculer": "Ölçülər",
+    "kat.yuzeyler": "Səth emalları",
+    "kat.taslar": "Daşlar",
+    "kat.ortalama": "orta hesabla",
+    "kat.ozet": "Karabel Doğal Taş Denizlidə {ad} istehsal edir: {n} məhsul, ölçüləri: {olculer}; səth emalları: {yuzeyler}. Bütün şəkillər həqiqi nümunələrə aiddir.",
+    "yuzeyS.baslik": "{ad} səth emalı",
+    "sayfa.kolBaslik": "Mərmər və travertin kolleksiyası",
+    "sayfa.kolAciklama": "{n} mərmər və travertin məhsulu: mozaika, plitə, Versailles dəsti, altıbucaqlı məmulat və patlatma panel. Həqiqi nümunə fotoşəkilləri, ölçülər və m² üzrə miqdar hesabı.",
+    "hak.uretimimiz": "İstehsal etdiklərimiz",
+    "sayfa.yok": "Axtardığınız səhifə tapılmadı.",
+    "giris.baslikSade": "Təbii daş.<br>Zərif sənətkarlıq.",
+    "giris.metinSade": "Mərmər və travertinin özünəməxsus fakturasını diqqətlə emal edir, mozaika, plitə və divar üzlüklərinə çeviririk. Denizlidəki istehsalımız və layihənizə uyğun fərdi ölçü seçimlərimizlə təbii daşı məkanlarınıza gətiririk.",
+    "urun.ustten": "Üstdən görünüş (həqiqi rəng)",
+    "urun.uygulamada": "Tətbiqdə görünüş",
+    "urun.temsili": "Təmsili tətbiq təsvirləri: süni intellekt vasitəsilə bu məhsulun nümunə fotoşəklindən yaradılmışdır. Faktiki tətbiqdə naxış, ton və ölçü fərqlənə bilər.",
+    "urun.temsiliKisa": "təmsili",
+    "urun.buyut": "böyüt",
+    "sahne.banyo": "Vanna otağının divarı",
+    "sahne.mutfak": "Mətbəx önlüyü",
+    "sahne.zemin": "Döşəmə",
+    "sahne.duvar": "Divar",
+    "sahne.teras": "Teras",
+    "urun.sergi": "Ekspozisiya",
+    "sahne.havuz-kenari": "Hovuz kənarı",
+    "sahne.havuz-su-hatti": "Hovuz su xətti",
+    "sahne.bahce-yolu": "Bağ cığırı",
+    "sahne.avlu": "Aralıq dənizi üslublu həyət",
+    "sahne.dis-cephe": "Evin fasadı",
+    "sahne.bahce-duvari": "Bağ divarı",
+    "sahne.giris-merdiveni": "Giriş pillələri",
+    "sahne.dis-mutfak": "Açıq hava mətbəxi",
+    "sahne.kis-bahcesi": "Qış bağı",
+    "sahne.dus": "Duş divarı",
+    "sahne.banyo-zemini": "Vanna otağının döşəməsi",
+    "sahne.lavabo-arkasi": "Əlüzyuyanın arxası",
+    "sahne.kuvet-nisi": "Vanna taxçası",
+    "sahne.hamam": "Türk hamamı",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Qapalı hovuz",
+    "sahne.mutfak-tezgah": "Mətbəx önlüyü",
+    "sahne.kir-mutfagi": "Kənd evinin mətbəxi",
+    "sahne.mutfak-adasi": "Mətbəx adası",
+    "sahne.kafe": "Kafe piştaxtası",
+    "sahne.somine": "Buxarının ətrafı",
+    "sahne.vurgu-duvari": "Qonaq otağı vurğu divarı",
+    "sahne.salon-zemini": "Qonaq otağı döşəməsi",
+    "sahne.antre": "Dəhliz",
+    "sahne.merdiven": "Pilləkən divarı",
+    "sahne.yatak-basucu": "Yataq başı divarı",
+    "sahne.tv-duvari": "TV divarı",
+    "sahne.yemek-odasi": "Yemək otağı",
+    "sahne.otel-lobisi": "Otel lobbisi",
+    "sahne.butik": "Butik mağaza",
+    "sahne.restoran": "Restoran divarı",
+    "sahne.sarap-mahzeni": "Şərab zirzəmisi",
+    "sahne.ofis-resepsiyon": "Ofisin qəbul zonası",
+    "urun.kalinlik": "Qalınlıq",
+    "urun.kalinlikPanel": "2 sm (istəyə görə 1, 2 və ya 3 sm)",
+    "sss.mozaikM2": "Təxminən 30×30 sm ölçülü mozaika torlarından 1 m² üçün orta hesabla {n} tor tələb olunur (2 mm-lik derzlə, itki nəzərə alınmadan). 10% itki payı ilə təxminən {fire} tor hesablayın. Hər məhsul səhifəsində həmin məhsulun tor ölçüsünə əsasən hesablanmış göstərici verilir."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Mərmər",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Plitə",
+      "Mozaik": "Mozaika",
+      "Altıgen": "Altıbucaqlı",
+      "Mini set": "Mini dəst",
+      "Panel": "Patlatma (yarma səthli) panel"
+    },
+    "yuzey": {
+      "Eskitme": "Eskitmə (antik)",
+      "Dolgulu honlu": "Dolğulu honlanmış",
+      "Dolgulu eskitme": "Dolğulu eskitmə",
+      "Dolgulu cilalı": "Dolğulu cilalı",
+      "Cilalı": "Cilalı",
+      "Cilasız": "Cilasız",
+      "Honlu": "Honlanmış (mat)",
+      "Patlatma": "Patlatma (yarma səthli)"
+    },
+    "ek": {
+      "İkili karışım": "İkili qarışıq",
+      "Üçlü karışım": "Üçlü qarışıq",
+      "Koyu": "Tünd",
+      "Açık": "Açıq",
+      "Fileli": "Torlu",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Muğla Ağı",
+      "Toros Siyahı": "Toros Qarası",
+      "Eymer Siyah": "Eymer Qara",
+      "Sarı": "Sarı",
+      "Pembe": "Çəhrayı",
+      "Bej": "Bej",
+      "Klasik": "Klassik",
+      "Damarlı Noce": "Damarlı Noce"
+    },
+    "ton": {
+      "beyaz": "Ağ",
+      "krem": "Krem və bej",
+      "sari": "Sarı",
+      "kahve": "Qəhvəyi",
+      "gri": "Boz",
+      "siyah": "Qara",
+      "pembe": "Çəhrayı",
+      "karisik": "Qarışıq çalarlar"
+    },
+    "sinif": {
+      "1": "1-ci sinif",
+      "2": "2-ci sinif",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Bej Mərmər",
+      "Blue Stone|Mermer": "Blue Stone Mərmər",
+      "Muğla Beyazı|Mermer": "Muğla Ağ Mərməri",
+      "Pembe|Mermer": "Çəhrayı Mərmər",
+      "Toros Siyahı|Mermer": "Toros Qara Mərməri",
+      "Damarlı Noce|Traverten": "Damarlı Noce Travertin",
+      "Klasik|Traverten": "Klassik Travertin",
+      "Light Mix|Traverten": "Light Mix Travertin",
+      "Mix|Traverten": "Mix Travertin",
+      "Noce|Traverten": "Noce Travertin",
+      "Pembe|Traverten": "Çəhrayı Travertin",
+      "Sarı|Traverten": "Sarı Travertin",
+      "Silver|Traverten": "Silver Travertin",
+      "Walnut|Traverten": "Walnut Travertin",
+      "Emperador|Mermer": "Emperador Mərmər",
+      "Eymer Siyah|Traverten": "Eymer Qara Travertin",
+      "Ivory|Traverten": "Ivory Travertin",
+      "Light|Traverten": "Light Travertin",
+      "Light + Noce Mix|Traverten": "Light + Noce Mix Travertin",
+      "Nebula|Traverten": "Nebula Travertin",
+      "Onix Silver|Traverten": "Onix Silver Travertin",
+      "Sarı + Noce + Light Mix|Traverten": "Sarı + Noce + Light Mix Travertin",
+      "Sarı + Noce Mix|Traverten": "Sarı + Noce Mix Travertin",
+      "Scabas|Traverten": "Scabas Travertin"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş 2014-cü ildə Denizli Mütəşəkkil Sənaye Zonasında (Honaz) təsis edilmiş mərmər və travertin istehsalçısıdır. Travertin və mərmərdən mozaika, plitə, Versailles (mini dəst), altıbucaqlı məmulat və patlatma divar panelləri istehsal edir; sifarişə uyğun ölçülərdə kəsim edir, Türkiyə daxilində və xaricə satış həyata keçirir."
+    },
+    "tas": {
+      "Light Mix": "Açıq krem və fil sümüyü çalarlarının yumşaq keçidlərlə qarışdığı, məkanı geniş göstərən və hər memarlıq üslubuna yaraşan travertin.",
+      "Mix": "Açıq kremdən isti bej və yumşaq karamel çalarlarınadək uzanan təbii rəng keçidləri ilə canlı travertin.",
+      "Light": "Məsaməli fakturasını ən açıq krem və bej çalarlarında göstərən, sakit görünüşlü travertin çeşidi.",
+      "Silver": "Gümüşü boz, kül və isti daş çalarlarının bir-birinə qarışdığı, müasir və sənaye üslublu məkanlara yaraşan boz travertin.",
+      "Onix Silver": "Gümüşü boz fon üzərində qatlı və dərinlik yaradan damar keçidləri olan xarakterik boz travertin.",
+      "Noce": "Qoz və isti torpaq-qəhvəyi çalarları ilə məkana təmkinli, isti Aralıq dənizi ab-havası bəxş edən travertin.",
+      "Damarlı Noce": "İsti qəhvəyi və qoz çalarlarının aydın, paralel damar qatları ilə canlandığı ritmik fakturalı travertin.",
+      "Walnut": "Südlü qəhvə və qoz qabığı rəngləri arasında tarazlaşan, yumşaq keçidli və isti təsir bağışlayan travertin.",
+      "Scabas": "Krem, bal və qəhvəyi çalarların güclü naxışlarla qovuşduğu, aydın ifadə olunan rustik xarakterə malik travertin.",
+      "Sarı": "Qızılı sarı və isti bal çalarları ilə xüsusilə teraslara, bağlara və açıq məkanlara canlılıq qatan travertin.",
+      "Klasik": "Ənənəvi Denizli travertininin isti bej-krem çalarını və təbii məsaməli quruluşunu əks etdirən sadə daş.",
+      "Ivory": "Kremə çalan ağ və açıq fil sümüyü çaları ilə kolleksiyanın ən açıq rəngli, ən təmkinli travertini.",
+      "Nebula": "Krem-boz fonda buludabənzər yumşaq ton keçidləri olan, sakit fakturalı travertin.",
+      "Pembe|Traverten": "Somon və torpaq çalarlı çəhrayı tonları ilə qeyri-adi, yumşaq ab-hava yaradan travertin.",
+      "Eymer Siyah": "Tünd boz və antrasit çalarlarını travertinin məsaməli fakturası ilə birləşdirən, güclü kontrastlı daş.",
+      "Muğla Beyazı": "Ağ fon üzərində dumanlı boz buludabənzər keçidləri və incə damarları ilə tanınan, məkanı geniş göstərən klassik ağ mərmər.",
+      "Bej": "Açıq və tünd seçimləri ilə həmcins, sakit səth yaradan krem-bej mərmər.",
+      "Blue Stone": "Mavi-boz və şist çalarlarının açıq damarlarla kəsişdiyi, sərin və müasir xarakterli mərmər.",
+      "Emperador": "Qəhvəyi fon üzərində incə, açıq rəngli torşəkilli damarları ilə klassik və zəngin dərinlik yaradan mərmər.",
+      "Pembe|Mermer": "Boz çalarlı çəhrayı fon üzərində ağ damar keçidləri olan zərif çəhrayı mərmər.",
+      "Toros Siyahı": "Tünd antrasit-qara fon üzərində kəskin ağ damarlarla güclü kontrast yaradan mərmər.",
+      "Light + Noce Mix": "Açıq krem rəngli Light ilə isti qəhvəyi Noce travertinin eyni torda balanslı kontrast yaratdığı ikili qarışıq.",
+      "Sarı + Noce Mix": "Qızılı sarı və qoz rəngli travertinlərin isti torpaq çalarlarında qarışdığı ikili qarışıq.",
+      "Sarı + Noce + Light Mix": "Açıq krem, qızılı sarı və qoz rəngli travertinlərin üçlü kombinasiyası ilə zəngin rəng ritmi."
+    },
+    "yuzey": {
+      "Eskitme": "Daşlar barabanda emal edilərək kənarları yuvarlaqlaşdırılır və səthə yumşaq, antik faktura verilir. Səth işığı parıltı yaratmadan yayır; açıq məkanlarda, hovuz kənarlarında, bağlarda və rustik interyerlərdə təbii, isti görünüş yaradır.",
+      "Honlu": "Səth parıldadılmadan hamar və ipək kimi mat vəziyyətədək honlanır. İşığı əks etdirməyən müasir görünüşünə görə daxili məkan döşəmələrində tez-tez seçilir.",
+      "Cilalı": "Səth güzgü parlaqlığına qədər cilalanır; damarları və rəng kontrastını ən canlı şəkildə göstərir. Daxili məkan divar və döşəmələrində zərif nəticə verir.",
+      "Cilasız": "Kəsimdən sonra cilalanmamış, daşın təbii mat fakturasını qoruyan səth.",
+      "Dolgulu honlu": "Travertinin təbii məsamələri dolğu materialı ilə bağlanır, ardınca səth mat və hamar şəkildə honlanır. Məsamələrə çirk dolmadığı üçün təmizlənməsi asandır.",
+      "Dolgulu eskitme": "Məsamələri doldurulmuş travertin barabanda emal edilərək kənarları yuvarlaqlaşdırılır və ona antik görünüş verilir. Eskitmə işlənməsinin isti görünüşünü daha qapalı səthlə birləşdirir.",
+      "Dolgulu cilalı": "Travertinin məsamələri doldurulur və səth parlaq cilalanır; hamar, parlaq və asan silinən səth əldə edilir.",
+      "Patlatma": "Daş mexaniki üsulla yarılaraq təbii qaya səthini xatırladan relyefli faktura əldə edilir. İşıq-kölgə oyunu buxarıların ətrafında, fasadlarda, bağ və vurğu divarlarında dərinlik yaradır."
+    },
+    "form": {
+      "Tek parça": "Kvadrat və düzbucaqlı plitələr. Döşəmə və divarlarda düz, yarım sürüşdürülmüş, ⅓ sürüşdürülmüş və ya balıq sümüyü düzülüşündə istifadə olunur.",
+      "Mozaik": "Kiçik parçaların təxminən 30×30 sm ölçülü torlara düzülməsi ilə hazırlanır. Torlar bir-birinə keçir; duş döşəməsi, mətbəx önlüyü və əyri səthlərdə sürətli və səliqəli tətbiq təmin edir.",
+      "Altıgen": "Pətək həndəsəsində kəsilmiş təbii daş. Klassik travertin fakturasını müasir həndəsi dillə birləşdirir.",
+      "Mini set": "Müxtəlif ölçülü kvadrat və düzbucaqlı parçaların bir modul daxilində birləşdiyi Versailles (Fransız) düzülüşü. Təkrar hissini aradan qaldıran, dinamik səth yaradır.",
+      "Panel": "Patlatma daş zolaqlarının pilləli düzüldüyü divar üzlüyü paneli. Z formalı ucları sayəsində panellər bir-birinə keçir; daxili və xarici divarlarda bütöv qaya fakturası yaradır."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertin-mozaika",
+        "ad": "Travertin mozaika"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mermer-mozaika",
+        "ad": "Mərmər mozaika"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertin-plite",
+        "ad": "Travertin plitə"
+      },
+      "Mermer|Tek parça": {
+        "slug": "mermer-plite",
+        "ad": "Mərmər plitə"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-versailles-desti",
+        "ad": "Travertin Versailles dəsti"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-altibucaqli",
+        "ad": "Travertin altıbucaqlı"
+      },
+      "Traverten|Panel": {
+        "slug": "travertin-patlatma-panel",
+        "ad": "Travertin patlatma paneli"
+      }
+    },
+    "sss": [
+      [
+        "Karabel Doğal Taş harada yerləşir və nə istehsal edir?",
+        "Karabel Doğal Taş Denizli Mütəşəkkil Sənaye Zonasında (Honaz, Denizli) 2014-cü ildən bəri fəaliyyət göstərən mərmər və travertin istehsalçısıdır. Travertin və mərmərdən mozaika, plitə, Versailles (mini dəst), altıbucaqlı məmulat və patlatma divar panelləri istehsal edir; sifarişə uyğun ölçülərdə kəsim edir."
+      ],
+      [
+        "Travertin ilə mərmər arasındakı fərq nədir?",
+        "Travertin bulaq sularının çökdürdüyü kalsium karbonatdan əmələ gələn təbii məsaməli daşdır; isti krem, bej, boz və qəhvəyi çalarları ilə tanınır. Mərmər isə əhəngdaşının istilik və təzyiq altında metamorfizmə uğraması ilə yaranır; daha sıx quruluşa və aydın damarlara malikdir. Denizli Türkiyənin travertini ilə ən çox tanınan bölgəsidir."
+      ],
+      [
+        "Honlanmış, eskitmə (antik) və cilalı səthlər arasındakı fərq nədir?",
+        "Honlanmış səth parıldadılmadan hamar və mat vəziyyətədək işlənir. Eskitmə səth üçün daşlar barabanda fırladılır; kənarlar yuvarlaqlaşır və səth antik faktura qazanır. Cilalı səth güzgü parlaqlığınadək cilalanır və damarları ən canlı şəkildə göstərir."
+      ],
+      [
+        "Dolğulu travertin nədir?",
+        "Travertinin təbii məsamələrinin xüsusi dolğu materialı ilə bağlanmasıdır. Dolğulu səth daha qapalı və həmcins görünür, çirk saxlamır və asan təmizlənir. Dolğusuz travertin isə təbii məsaməli fakturasını qoruyur."
+      ],
+      [
+        "1 m² mozaika üçün neçə tor lazımdır?",
+        "{mozaik_m2}"
+      ],
+      [
+        "1-ci, 2-ci sinif və Export arasındakı fərq nədir?",
+        "Təbii daşda siniflər seçimin (seleksiyanın) sərtliyini göstərir: rəng vahidliyi, məsamələr və səth qüsurları kimi meyarlara görə ayrılır. Export ən seçmə sinifdir. Layihə üçün ən düzgün qərar nümunə əsasında verilir."
+      ],
+      [
+        "Fərdi ölçüyə görə kəsim edirsinizmi?",
+        "Bəli. Standart ölçülərlə yanaşı sərbəst uzunluqda və layihəyə uyğun ölçülərdə kəsim edilir. Məsələn, 8 sm enində Silver travertin istənilən uzunluqda istehsal olunur."
+      ],
+      [
+        "Xaricə satış edirsinizmi?",
+        "Bəli, Karabel Doğal Taş Türkiyə daxilində olduğu kimi xaricdəki müştərilərə də satış həyata keçirir. Qiymət, nümunə və göndəriş üçün WhatsApp ({telefon}) və ya {eposta} vasitəsilə əlaqə saxlaya bilərsiniz."
+      ],
+      [
+        "Saytdakı daş rəngləri həqiqidirmi?",
+        "Şəkillər həqiqi nümunələrin fotoşəkilləridir; rəng korreksiyası filtri tətbiq edilməyib, yalnız arxa fon təmizlənib. Təbii daşın hər parçası bir qədər fərqlənir və ekranlar rəngi fərqli göstərə bilər; yekun qərar verməzdən əvvəl nümunəyə baxmağı tövsiyə edirik."
+      ]
+    ]
+  }
+}

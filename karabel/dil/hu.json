@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Magyar",
+    "kisa": "HU",
+    "yerel": "hu-HU",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "hu"
+  },
+  "yol": {
+    "koleksiyon": "kollekcio",
+    "urun": "termek",
+    "tas": "ko",
+    "yuzey": "felulet",
+    "sss": "gyik",
+    "hakkimizda": "rolunk",
+    "iletisim": "kapcsolat"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kollekció",
+    "nav.hakkimizda": "Rólunk",
+    "nav.iletisim": "Kapcsolat",
+    "nav.teklif": "Ajánlatkérés",
+    "nav.menu": "Menü",
+    "marka.alt": "Márvány · Természetes kő",
+    "giris.ust": "2014 óta · Denizli",
+    "giris.koleksiyon": "Fedezze fel a köveket",
+    "giris.urun": "termék",
+    "kol.ust": "Kollekció",
+    "kol.baslik": "Textúra közelről. <em>Karakter nagy felületen.</em>",
+    "kol.metin": "Minden fotón valódi mintadarab látható. A természetes kő sajátossága, hogy a színárnyalatok és az erezet darabonként eltérhetnek.",
+    "kol.tumu": "Összes",
+    "kol.ara": "Keresés kőnév, szín vagy méret alapján",
+    "kol.form": "Kivitel",
+    "kol.yuzey": "Felületkezelés",
+    "kol.renk": "Szín",
+    "kol.temizle": "Szűrők törlése",
+    "kol.sonuc": "{n} termék",
+    "kol.bos": "A megadott szűrőkkel nem található termék. Próbálja meg csökkenteni a szűrőfeltételeket.",
+    "urun.form": "Kivitel",
+    "urun.parca": "Elem mérete",
+    "urun.birim": "Mozaikháló mérete",
+    "urun.yuzey": "Felületkezelés",
+    "urun.sinif": "Minőségi osztály",
+    "urun.ozellik": "További jellemző",
+    "urun.grup": "Kőtípus",
+    "urun.teklif": "Ajánlatkérés WhatsAppon",
+    "urun.teyit": "A termék egyes adatai pontosítás alatt állnak. Megrendelés előtt kérjük, egyeztesse velünk az aktuális méreteket és műszaki jellemzőket.",
+    "urun.kapat": "Bezárás",
+    "urun.olcuyeGore": "A hosszúság rendelés szerint készül",
+    "hak.ust": "Rólunk",
+    "hak.baslik": "Gyártás Denizliben, <em>2014 óta.</em>",
+    "hak.metin1": "A Karabel Doğal Taş 2014-ben alakult a törökországi Denizli Szervezett Ipari Övezetében, Honazban. Márványból és travertinből mozaikokat, burkolólapokat, Versailles- és miniszetteket, hatszögletű lapokat, valamint roppantott falburkoló paneleket gyártunk.",
+    "hak.metin2": "Törökországi és nemzetközi megrendelőket egyaránt kiszolgálunk. A kollekcióban szereplő termékekkel vagy egyedi méretre vágási igényekkel kapcsolatban forduljon hozzánk bizalommal.",
+    "hak.kurulus": "Alapítva",
+    "hak.uretim": "Gyártás helye",
+    "hak.uretimDeger": "Denizli Szervezett Ipari Övezet",
+    "hak.olcu": "Méretre vágás",
+    "hak.olcuDeger": "Egyedi méretekben is",
+    "hak.pazar": "Értékesítés",
+    "hak.pazarDeger": "Törökországban és külföldön",
+    "ilt.ust": "Kapcsolat",
+    "ilt.baslik": "Most <em>az Ön projektje következik.</em>",
+    "ilt.metin": "Árajánlatért, mintakérésért vagy egyedi méretre vágásért írjon nekünk.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-mail",
+    "ilt.adres": "Cím",
+    "ilt.harita": "Megtekintés a térképen",
+    "ilt.form.ad": "Az Ön neve",
+    "ilt.form.konu": "Az Önt érdeklő termék vagy projekt",
+    "ilt.form.mesaj": "Írja le elképzelését, igényeit",
+    "ilt.form.gonder": "Folytatás WhatsAppon",
+    "ilt.form.eposta": "Megnyitás levelezőprogramban",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "A képeken valódi mintadarabok láthatók. Természetes kő esetén szín- és erezeti eltérések előfordulhatnak.",
+    "wa.urun": "Üdvözlöm! Árajánlatot szeretnék kérni a következő termékre: {urun}.",
+    "wa.genel": "Üdvözlöm! Márvány és travertin termékeikről szeretnék tájékoztatást kérni.",
+    "wa.form": "Üdvözlöm, a nevem {ad}.\nTárgy: {konu}\n{mesaj}",
+    "nav.atla": "Ugrás a tartalomra",
+    "urun.kenar": "Oldalhossz: {n} cm",
+    "yardim.numune": "Minta igénylése",
+    "yardim.sinif": "Érdeklődés a minőségi osztályok közötti különbségekről",
+    "nav.sss": "GYIK",
+    "nav.ana": "Kezdőlap",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Denizli travertin és márvány: mozaik, burkolólap, Versailles-szett, roppantott falburkoló panel",
+    "sayfa.anaAciklama": "Márvány- és travertingyártás Denizliben 2014 óta: travertinmozaikok, burkolólapok, Versailles-szettek, hatszögletű lapok és roppantott falburkoló panelek. Valódi mintafotók, méretek és m²-enkénti darabszükséglet.",
+    "kol.hepsi": "Összes termék ({n})",
+    "rehber.ust": "Felületkezelési útmutató",
+    "sss.baslik": "Gyakran ismételt kérdések",
+    "sss.hepsi": "Összes kérdés →",
+    "sss.altBaslik": "Tudnivalók a márványról, a travertinről és a rendelésről",
+    "urun.birimLevha": "háló",
+    "urun.birimTas": "lap",
+    "urun.m2Cumle": "1 m²-re kb. {n} {birim} szükséges.",
+    "urun.gorunum": "Kép",
+    "urun.m2": "m²-enként",
+    "urun.teknikIste": "Műszaki adatok kérése",
+    "urun.hakkinda": "{ad} – termékismertető",
+    "urun.m2Uzun": "Ebből a termékből 1 m² burkolásához körülbelül {n} {birim} szükséges (2 mm-es fugával számolva). 10%-os vágási veszteséggel (ráhagyással) kb. {fire} {birim} mennyiséggel kalkuláljon; a pontos mennyiséget az ajánlatadás során véglegesítjük.",
+    "urun.kardes": "{ad}: további méretek és felületek",
+    "wa.numune": "Üdvözlöm! Mintadarabot szeretnék kérni a következő termékből: {urun}.",
+    "wa.teknik": "Üdvözlöm! Kérném a(z) {urun} műszaki adatait (vastagság, mérettűrés, csomagolás).",
+    "wa.sinif": "Üdvözlöm! Szeretném megtudni, mi a különbség a minőségi osztályok (1. osztály / 2. osztály / Export) között a(z) {urun} esetében.",
+    "wa.kategori": "Üdvözlöm! Árajánlatot szeretnék kérni {kategori} termékeikre.",
+    "kat.baslikEk": "Kategóriák",
+    "kat.urunSayisi": "Termékek",
+    "kat.olculer": "Méretek",
+    "kat.yuzeyler": "Felületkezelések",
+    "kat.taslar": "Kövek",
+    "kat.ortalama": "átlagosan",
+    "kat.ozet": "A Karabel Doğal Taş {ad} termékeit Denizliben gyártja: {n} termék; méretek: {olculer}; felületkezelések: {yuzeyler}. Minden kép valódi mintadarabot mutat.",
+    "yuzeyS.baslik": "{ad} felület",
+    "sayfa.kolBaslik": "Márvány- és travertinkollekció",
+    "sayfa.kolAciklama": "{n} márvány- és travertintermék: mozaikok, burkolólapok, Versailles-szettek, hatszögletű lapok és roppantott falburkoló panelek. Valódi mintafotók, méretek és m²-enkénti darabszükséglet.",
+    "hak.uretimimiz": "Termékeink",
+    "sayfa.yok": "A keresett oldal nem található.",
+    "giris.baslikSade": "Természetes kő.<br>Gondos megmunkálás.",
+    "giris.metinSade": "A márvány és a travertin egyedi textúráját gondosan megmunkálva mozaikokat, burkolólapokat és falburkolatokat készítünk. Denizliben működő üzemünkben projektre szabott méretre vágást is vállalunk, így a természetes követ az Ön tereihez igazítjuk.",
+    "urun.ustten": "Felülnézet (valós szín)",
+    "urun.uygulamada": "Beépítve",
+    "urun.temsili": "Szemléltető alkalmazási képek: mesterséges intelligenciával, a termék mintafotója alapján készültek. A tényleges beépítésnél a mintázat, az árnyalat és a méret eltérhet.",
+    "urun.temsiliKisa": "illusztráció",
+    "urun.buyut": "nagyítás",
+    "sahne.banyo": "Fürdőszobai fal",
+    "sahne.mutfak": "Konyhai hátfal",
+    "sahne.zemin": "Padló",
+    "sahne.duvar": "Fal",
+    "sahne.teras": "Terasz",
+    "urun.sergi": "Bemutató",
+    "sahne.havuz-kenari": "Medencepart",
+    "sahne.havuz-su-hatti": "Medence vízvonala",
+    "sahne.bahce-yolu": "Kerti sétány",
+    "sahne.avlu": "Mediterrán udvar",
+    "sahne.dis-cephe": "Homlokzat",
+    "sahne.bahce-duvari": "Kerti fal",
+    "sahne.giris-merdiveni": "Bejárati lépcsőfokok",
+    "sahne.dis-mutfak": "Kültéri konyha",
+    "sahne.kis-bahcesi": "Télikert",
+    "sahne.dus": "Zuhanyzó fala",
+    "sahne.banyo-zemini": "Fürdőszobai padló",
+    "sahne.lavabo-arkasi": "Mosdó mögötti fal",
+    "sahne.kuvet-nisi": "Fürdőkádnál kialakított falfülke",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Beltéri medence",
+    "sahne.mutfak-tezgah": "Konyhai hátfal",
+    "sahne.kir-mutfagi": "Rusztikus konyha",
+    "sahne.mutfak-adasi": "Konyhasziget",
+    "sahne.kafe": "Kávézópult",
+    "sahne.somine": "Kandallóburkolat",
+    "sahne.vurgu-duvari": "Nappali dekorfala",
+    "sahne.salon-zemini": "Nappali padlója",
+    "sahne.antre": "Előszoba",
+    "sahne.merdiven": "Lépcsőházi fal",
+    "sahne.yatak-basucu": "Hálószobai fejvég mögötti fal",
+    "sahne.tv-duvari": "TV-fal",
+    "sahne.yemek-odasi": "Étkező",
+    "sahne.otel-lobisi": "Szállodai hall",
+    "sahne.butik": "Butiküzlet",
+    "sahne.restoran": "Éttermi fal",
+    "sahne.sarap-mahzeni": "Borospince",
+    "sahne.ofis-resepsiyon": "Irodai recepció",
+    "urun.kalinlik": "Vastagság",
+    "urun.kalinlikPanel": "2 cm (igény szerint 1, 2 vagy 3 cm)",
+    "sss.mozaikM2": "A megközelítőleg 30×30 cm-es mozaikhálókból 1 m²-re átlagosan {n} háló szükséges (2 mm-es fugával, vágási veszteség nélkül). 10%-os ráhagyással számolva körülbelül {fire} hálóval érdemes kalkulálni. Minden termékoldalon megtalálható az adott termék pontos hálóméretéből számított mennyiség."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Márvány",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Burkolólap",
+      "Mozaik": "Mozaik",
+      "Altıgen": "Hatszög",
+      "Mini set": "Mini Versailles-szett",
+      "Panel": "Roppantott falburkoló panel"
+    },
+    "yuzey": {
+      "Eskitme": "Koptatott",
+      "Dolgulu honlu": "Tömített, matt csiszolt",
+      "Dolgulu eskitme": "Tömített, koptatott",
+      "Dolgulu cilalı": "Tömített, polírozott",
+      "Cilalı": "Polírozott",
+      "Cilasız": "Polírozatlan",
+      "Honlu": "Matt csiszolt",
+      "Patlatma": "Roppantott"
+    },
+    "ek": {
+      "İkili karışım": "Kétszínű keverék",
+      "Üçlü karışım": "Háromszínű keverék",
+      "Koyu": "Sötét",
+      "Açık": "Világos",
+      "Fileli": "Hálóra ragasztott",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Muğla fehér",
+      "Toros Siyahı": "Toros fekete",
+      "Eymer Siyah": "Eymer fekete",
+      "Sarı": "Sárga",
+      "Pembe": "Rózsaszín",
+      "Bej": "Bézs",
+      "Klasik": "Klasszikus",
+      "Damarlı Noce": "Erezett Noce"
+    },
+    "ton": {
+      "beyaz": "Fehér",
+      "krem": "Krém és bézs",
+      "sari": "Sárga",
+      "kahve": "Barna",
+      "gri": "Szürke",
+      "siyah": "Fekete",
+      "pembe": "Rózsaszín",
+      "karisik": "Vegyes árnyalatok"
+    },
+    "sinif": {
+      "1": "1. osztály",
+      "2": "2. osztály",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Bézs márvány",
+      "Blue Stone|Mermer": "Blue Stone márvány",
+      "Muğla Beyazı|Mermer": "Muğla fehér márvány",
+      "Pembe|Mermer": "Rózsaszín márvány",
+      "Toros Siyahı|Mermer": "Toros fekete márvány",
+      "Damarlı Noce|Traverten": "Erezett Noce travertin",
+      "Klasik|Traverten": "Klasszikus travertin",
+      "Light Mix|Traverten": "Light Mix travertin",
+      "Mix|Traverten": "Mix travertin",
+      "Noce|Traverten": "Noce travertin",
+      "Pembe|Traverten": "Rózsaszín travertin",
+      "Sarı|Traverten": "Sárga travertin",
+      "Silver|Traverten": "Silver travertin",
+      "Walnut|Traverten": "Walnut travertin",
+      "Emperador|Mermer": "Emperador márvány",
+      "Eymer Siyah|Traverten": "Eymer fekete travertin",
+      "Ivory|Traverten": "Ivory travertin",
+      "Light|Traverten": "Light travertin",
+      "Light + Noce Mix|Traverten": "Light + Noce Mix travertin",
+      "Nebula|Traverten": "Nebula travertin",
+      "Onix Silver|Traverten": "Onix Silver travertin",
+      "Sarı + Noce + Light Mix|Traverten": "Sárga + Noce + Light Mix travertin",
+      "Sarı + Noce Mix|Traverten": "Sárga + Noce Mix travertin",
+      "Scabas|Traverten": "Scabas travertin"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "A Karabel Doğal Taş 2014-ben alapított márvány- és travertingyártó a törökországi Denizli Szervezett Ipari Övezetében (Honaz). Travertinből és márványból mozaikokat, burkolólapokat, Versailles-szetteket (miniszetteket), hatszögletű lapokat és roppantott falburkoló paneleket gyárt; egyedi méretre vágást vállal, és Törökországban, valamint külföldön értékesít."
+    },
+    "tas": {
+      "Light Mix": "Világos krém- és elefántcsont-árnyalatok lágy átmeneteit ötvöző, világos összhatású travertin, amely bármilyen építészeti stílushoz könnyen illeszkedik.",
+      "Mix": "Élénk összhatású travertin, amelyben a világos krémszíntől a meleg bézsen át a lágy karamellig természetes színátmenetek váltakoznak.",
+      "Light": "Nyugodt összhatású travertin válogatás, amely a legvilágosabb krém és halvány bézs tónusokban mutatja meg természetes, pórusos szerkezetét.",
+      "Silver": "Ezüstszürke, hamuszürke és meleg kőárnyalatok összefonódása; modern és indusztriális terekbe kiválóan illő szürke travertin.",
+      "Onix Silver": "Karakteres szürke travertin, ezüstszürke alapon rétegzett, mélységet adó erezettel.",
+      "Noce": "Dióbarna és meleg földszínek, amelyek nyugodt, barátságos mediterrán hangulatot kölcsönöznek a térnek.",
+      "Damarlı Noce": "Ritmikus textúrájú travertin, amelyet meleg barna és diószínű, határozott párhuzamos erezeti sávok tesznek mozgalmassá.",
+      "Walnut": "A tejeskávé és a dióhéj árnyalatai között egyensúlyozó, lágy átmenetekkel rendelkező, meleg hatású travertin.",
+      "Scabas": "Krém-, méz- és barna tónusok erőteljes rajzolatokban találkoznak ebben a kifejezetten rusztikus karakterű travertinben.",
+      "Sarı": "Aranysárga és meleg mézszínű tónusaival különösen teraszoknak, kerteknek és kültéri felületeknek ad élénk, napfényes karaktert.",
+      "Klasik": "A hagyományos denizli travertin meleg bézses-krémszínű tónusát és természetes pórusos szerkezetét tükröző, letisztult kő.",
+      "Ivory": "Törtfehér és világos elefántcsont árnyalatával a kollekció legvilágosabb, legletisztultabb travertinje.",
+      "Nebula": "Krémszürke alapon felhőszerű, lágy tónusátmeneteket hordozó, harmonikus textúrájú travertin.",
+      "Pembe|Traverten": "Lazac- és földes rózsaszín árnyalataival különleges, lágy hangulatot teremtő travertin.",
+      "Eymer Siyah": "Sötétszürke és antracit tónusokat a travertin pórusos textúrájával ötvöző, erőteljes kontrasztú kő.",
+      "Muğla Beyazı": "Fehér alapon füstszürke felhőfoltokról és finom erezetről ismert, világos, klasszikus fehér márvány.",
+      "Bej": "Világos és sötét válogatásban is elérhető krém-bézs márvány, amely egységes, nyugodt felületet képez.",
+      "Blue Stone": "Kékesszürke és palaszürke tónusokat világos erezettel keresztező, hűvös, modern karakterű márvány.",
+      "Emperador": "Barna alapon finom, világos hálós erezettel átszőtt márvány, amely klasszikus és gazdag mélységet nyújt.",
+      "Pembe|Mermer": "Fáradt rózsaszín alapon fehér erezettel átszőtt, elegáns rózsaszín márvány.",
+      "Toros Siyahı": "Sötét antracit-fekete alapon éles fehér erekkel erőteljes kontrasztot alkotó márvány.",
+      "Light + Noce Mix": "A világos krémszínű Light és a meleg barna Noce travertin kiegyensúlyozott kontrasztja egyetlen hálón, kétszínű keverékként.",
+      "Sarı + Noce Mix": "Aranysárga és dióbarna travertinek meleg földszínekben harmonizáló, kétszínű keveréke.",
+      "Sarı + Noce + Light Mix": "Világos krém, aranysárga és dióbarna travertinek háromszínű kombinációja, amely gazdag színritmust ad a felületnek."
+    },
+    "yuzey": {
+      "Eskitme": "A köveket koptatódobban forgatják, így az élek lekerekednek, a felület pedig lágy, antikolt textúrát kap. Csillogás nélkül szórja a fényt; kültéren, medenceparton, kertben és rusztikus belső terekben természetes, meleg megjelenést biztosít.",
+      "Honlu": "A felületet polírozás nélkül, sima és selymesen matt finomságúra csiszolják. Fényvisszaverődésmentes, modern megjelenése miatt beltéri padlóburkolatként különösen népszerű.",
+      "Cilalı": "A felületet tükörfényesre polírozzák, ami a legélénkebben emeli ki a kő erezetét és színkontrasztjait. Beltéri fal- és padlóburkolatokon elegáns végeredményt nyújt.",
+      "Cilasız": "Vágás után nem polírozott felület, amely megőrzi a kő természetes, matt textúráját.",
+      "Dolgulu honlu": "A travertin természetes pórusait kőtapasszal (tömítőanyaggal) töltik ki, majd a felületet mattra és simára csiszolják. Mivel a pórusokban nem ül meg a szennyeződés, könnyen tisztán tartható.",
+      "Dolgulu eskitme": "A pórusok kitöltése után a travertint koptatódobban antikolják, így lekerekített éleket és antikolt megjelenést kap. A koptatott kő melegségét zártabb felülettel ötvözi.",
+      "Dolgulu cilalı": "A travertin pórusait tömítik, majd a felületet magasfényűre polírozzák; így sima, fényes és könnyen letörölhető burkolat jön létre.",
+      "Patlatma": "A követ mechanikusan roppantják, így természetes sziklafelületre emlékeztető, rusztikus domborzat jön létre. A fény-árnyék játék mélységet ad a kandallóburkolatoknak, homlokzatoknak, kerti falaknak és dekorfalaknak."
+    },
+    "form": {
+      "Tek parça": "Négyzetes és téglalap alakú burkolólapok. Egyenes (hálós), feles vagy harmados eltolású, illetve halszálka kötésben rakhatók padlóra és falra.",
+      "Mozaik": "Kis méretű kőszemekből áll, amelyeket megközelítőleg 30×30 cm-es hálókra ragasztanak. A hálók egymásba illeszkednek, így zuhanyzókban, konyhai hátfalakon és íves felületeken is gyors, egyenletes burkolást tesznek lehetővé.",
+      "Altıgen": "Méhsejt geometriára vágott természetes kő, amely a klasszikus travertin textúrát kortárs geometriai formával ötvözi.",
+      "Mini set": "A Versailles-kötésben (francia kötésben) különböző méretű négyzetes és téglalap alakú lapok kapcsolódnak össze egy modulban. Megtöri az ismétlődés érzetét, és mozgalmas felületet hoz létre.",
+      "Panel": "Roppantott kőcsíkok lépcsőzetes elrendezésével készült falburkoló panel. Z alakú végeinek köszönhetően a panelek egymásba illeszkednek, így kül- és beltéri falakon egyaránt folytonos sziklatextúrát adnak."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertin-mozaik",
+        "ad": "Travertin mozaik"
+      },
+      "Mermer|Mozaik": {
+        "slug": "marvany-mozaik",
+        "ad": "Márvány mozaik"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertin-burkololap",
+        "ad": "Travertin burkolólap"
+      },
+      "Mermer|Tek parça": {
+        "slug": "marvany-burkololap",
+        "ad": "Márvány burkolólap"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-versailles-szett",
+        "ad": "Travertin Versailles-szett"
+      },
+      "Traverten|Altıgen": {
+        "slug": "hatszogletu-travertin",
+        "ad": "Hatszögletű travertin"
+      },
+      "Traverten|Panel": {
+        "slug": "roppantott-travertin-panel",
+        "ad": "Roppantott travertin falburkoló panel"
+      }
+    },
+    "sss": [
+      [
+        "Hol található a Karabel Doğal Taş, és mit gyárt?",
+        "A Karabel Doğal Taş a törökországi Denizli Szervezett Ipari Övezetében (Honaz, Denizli) 2014 óta működő márvány- és travertingyártó. Travertinből és márványból mozaikokat, burkolólapokat, Versailles-szetteket (miniszetteket), hatszögletű lapokat és roppantott falburkoló paneleket gyárt, valamint egyedi méretre vágást is vállal."
+      ],
+      [
+        "Mi a különbség a travertin és a márvány között?",
+        "A travertin ásványi hőforrásokból kiváló kalcium-karbonát lerakódásával keletkezett, természetesen pórusos szerkezetű kőzet; meleg krém, bézs, szürke és barna árnyalatairól ismert. A márvány ezzel szemben a mészkő hő és nyomás hatására végbemenő átalakulásával jön létre; tömörebb szerkezetű és határozottabb erezetű. Denizli Törökország legismertebb travertinlelőhelye."
+      ],
+      [
+        "Mi a különbség a matt csiszolt, a koptatott és a polírozott felület között?",
+        "A matt csiszolt (hónolt) felületet polírozás nélkül simára és mattra csiszolják. A koptatott (antikolt) felület esetében a köveket dobban forgatják, így az élek lekerekednek, a felület pedig antik hatású textúrát kap. A polírozott felületet tükörfényesre csiszolják, ami a legélénkebben hozza elő a kő erezetét."
+      ],
+      [
+        "Mit jelent a tömített travertin?",
+        "A tömített travertin természetes pórusait töltőanyaggal (kőtapasszal) zárják le. A tömített felület zártabbnak és egységesebbnek hat, nem gyűlik meg benne a szennyeződés, és könnyen tisztítható. A tömítetlen travertin megőrzi természetes, pórusos textúráját."
+      ],
+      [
+        "Hány mozaikháló szükséges 1 m²-re?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Mi a különbség az 1. osztály, a 2. osztály és az Export minőség között?",
+        "A természetes köveknél a minőségi osztályok a válogatás szigorúságát jelölik: a lapokat színegységesség, pórusosság és felületi hibák alapján különítik el. Az Export a legszigorúbban válogatott osztály. Egy adott projekthez a megfelelő osztályt mintadarab alapján érdemes kiválasztani."
+      ],
+      [
+        "Vállalnak egyedi méretre vágást?",
+        "Igen. A szabványméretek mellett szabad hosszúságú és projektre szabott méretű elemeket is vágunk. Például a 8 cm széles Silver travertint a kért hosszúságban készítjük el."
+      ],
+      [
+        "Külföldre is értékesítenek?",
+        "Igen, a Karabel Doğal Taş a törökországi piac mellett nemzetközi megrendelőknek is értékesít. Árakkal, mintaküldéssel és szállítással kapcsolatban WhatsAppon ({telefon}) vagy a(z) {eposta} e-mail-címen veheti fel velünk a kapcsolatot."
+      ],
+      [
+        "Valódiak a weboldalon látható kőszínek?",
+        "A képek valódi mintadarabokról készült fotók; színkorrekciós szűrőt nem alkalmaztunk, kizárólag a hátteret távolítottuk el. Mivel a természetes kő minden darabja kissé eltér, és a képernyők is másként jeleníthetik meg a színeket, a végleges döntés előtt javasoljuk mintadarab megtekintését."
+      ]
+    ]
+  }
+}

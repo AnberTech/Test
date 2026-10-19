@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "中文",
+    "kisa": "ZH",
+    "yerel": "zh-CN",
+    "yon": "ltr",
+    "ondalik": ".",
+    "bayrak": "cn"
+  },
+  "yol": {
+    "koleksiyon": "collection",
+    "urun": "product",
+    "tas": "stone",
+    "yuzey": "finish",
+    "sss": "faq",
+    "hakkimizda": "about",
+    "iletisim": "contact"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "产品系列",
+    "nav.hakkimizda": "关于我们",
+    "nav.iletisim": "联系方式",
+    "nav.teklif": "获取报价",
+    "nav.menu": "菜单",
+    "marka.alt": "大理石 · 天然石材",
+    "giris.ust": "始于 2014 年 · 代尼兹利",
+    "giris.koleksiyon": "浏览石材",
+    "giris.urun": "款产品",
+    "kol.ust": "产品系列",
+    "kol.baslik": "近观细腻肌理，<em>远赏整体气韵。</em>",
+    "kol.metin": "所见图片均为实物样品拍摄。天然石材的色泽与纹理分布每片皆有自然差异。",
+    "kol.tumu": "全部",
+    "kol.ara": "搜索石材名称、颜色或尺寸",
+    "kol.form": "产品形式",
+    "kol.yuzey": "表面工艺",
+    "kol.renk": "颜色",
+    "kol.temizle": "清除筛选",
+    "kol.sonuc": "{n} 款产品",
+    "kol.bos": "未找到符合当前筛选条件的产品，请减少筛选条件后重试。",
+    "urun.form": "产品形式",
+    "urun.parca": "单块尺寸",
+    "urun.birim": "联片尺寸",
+    "urun.yuzey": "表面工艺",
+    "urun.sinif": "产品等级",
+    "urun.ozellik": "附加特性",
+    "urun.grup": "石材品类",
+    "urun.teklif": "通过 WhatsApp 获取报价",
+    "urun.teyit": "该产品的部分参数待核实。下单前请与我们确认最新尺寸及产品规格。",
+    "urun.kapat": "关闭",
+    "urun.olcuyeGore": "长度按订单定制",
+    "hak.ust": "关于我们",
+    "hak.baslik": "代尼兹利生产，<em>始于 2014 年。</em>",
+    "hak.metin1": "Karabel Doğal Taş 于 2014 年在位于霍纳兹的代尼兹利工业园区成立。我们生产大理石与洞石马赛克、单片规格板、凡尔赛拼花及迷你套装、六角砖和劈裂面文化石墙板。",
+    "hak.metin2": "我们服务于土耳其本土及全球各地的采购商。如需了解系列产品或定尺加工需求，欢迎随时与我们联系。",
+    "hak.kurulus": "成立时间",
+    "hak.uretim": "生产基地",
+    "hak.uretimDeger": "代尼兹利工业园区",
+    "hak.olcu": "加工方式",
+    "hak.olcuDeger": "按需定尺切裁",
+    "hak.pazar": "销售市场",
+    "hak.pazarDeger": "土耳其本土及海外",
+    "ilt.ust": "联系方式",
+    "ilt.baslik": "接下来，<em>就是您的项目。</em>",
+    "ilt.metin": "如需询价、索取样品或定制尺寸加工，欢迎留言联系。",
+    "ilt.telefon": "电话",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "电子邮箱",
+    "ilt.adres": "地址",
+    "ilt.harita": "在地图上查看",
+    "ilt.form.ad": "您的姓名",
+    "ilt.form.konu": "意向产品或项目名称",
+    "ilt.form.mesaj": "请描述您的具体需求",
+    "ilt.form.gonder": "在 WhatsApp 中继续",
+    "ilt.form.eposta": "在邮件客户端中打开",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "所有图片均为实物样品拍摄。天然石材存在自然的色泽与纹理差异。",
+    "wa.urun": "您好，我想咨询 {urun} 的报价。",
+    "wa.genel": "您好，我想了解贵司的大理石与洞石产品信息。",
+    "wa.form": "您好，我是 {ad}。\n主题：{konu}\n{mesaj}",
+    "nav.atla": "跳至正文",
+    "urun.kenar": "边长：{n} cm",
+    "yardim.numune": "索取样品",
+    "yardim.sinif": "咨询等级差异",
+    "nav.sss": "常见问题",
+    "nav.ana": "首页",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — 代尼兹利洞石与大理石：马赛克、规格板、凡尔赛拼花、劈裂面文化石墙板",
+    "sayfa.anaAciklama": "自 2014 年起扎根代尼兹利的大理石与洞石生产商：主营洞石马赛克、规格板、凡尔赛拼花套组、六角砖及自然劈裂面墙板。提供真实样品实拍、尺寸规格及每 m² 用量换算。",
+    "kol.hepsi": "全部产品 ({n})",
+    "rehber.ust": "表面工艺指南",
+    "sss.baslik": "常见问题解答",
+    "sss.hepsi": "查看全部问题 →",
+    "sss.altBaslik": "关于大理石、洞石及订购流程",
+    "urun.birimLevha": "联",
+    "urun.birimTas": "片",
+    "urun.m2Cumle": "每 1 m² 约需 {n} {birim}。",
+    "urun.gorunum": "图片",
+    "urun.m2": "每 m² 用量",
+    "urun.teknikIste": "索取技术参数",
+    "urun.hakkinda": "关于{ad}",
+    "urun.m2Uzun": "该产品每 1 m² 约需 {n} {birim}（按 2 mm 留缝计算）。建议预留 10% 损耗，按约 {fire} {birim} 备料；最终准确数量将在报价阶段核实。",
+    "urun.kardes": "{ad}：其他尺寸与表面工艺",
+    "wa.numune": "您好，我想索取 {urun} 的样品。",
+    "wa.teknik": "您好，请提供 {urun} 的技术参数（厚度、公差、包装方式）。",
+    "wa.kategori": "您好，我想咨询 {kategori} 系列产品的报价。",
+    "kat.baslikEk": "产品分类",
+    "kat.urunSayisi": "产品数量",
+    "kat.olculer": "尺寸规格",
+    "kat.yuzeyler": "表面工艺",
+    "kat.taslar": "石材品种",
+    "kat.ortalama": "平均",
+    "kat.ozet": "Karabel Doğal Taş 于代尼兹利生产{ad}：共 {n} 款产品，规格涵盖 {olculer}；表面处理：{yuzeyler}。所有图片均为真实样品实拍。",
+    "yuzeyS.baslik": "{ad}工艺",
+    "sayfa.kolBaslik": "大理石与洞石产品系列",
+    "sayfa.kolAciklama": "{n} 款大理石与洞石产品：马赛克、规格板、凡尔赛拼花套装、六角砖及劈裂面墙板。提供实物样品照片、规格尺寸及每 m² 用量。",
+    "hak.uretimimiz": "主营产品",
+    "sayfa.yok": "找不到您要访问的页面。",
+    "giris.baslikSade": "天然石材。<br>精工细作。",
+    "giris.metinSade": "我们精心加工大理石与洞石的独特肌理，将其制成马赛克、规格板和墙面饰材。依托代尼兹利的生产基地及面向项目的定尺加工服务，让天然石材融入您的空间。",
+    "urun.ustten": "俯视图（真实色泽）",
+    "urun.uygulamada": "铺贴效果",
+    "urun.temsili": "空间铺贴效果图：基于本产品实物样品照片由 AI 生成。实际铺贴中的纹理、色调及尺寸比例可能有所差异。",
+    "urun.temsiliKisa": "效果示意",
+    "urun.buyut": "放大查看",
+    "sahne.banyo": "浴室墙面",
+    "sahne.mutfak": "厨房防溅墙",
+    "sahne.zemin": "地面",
+    "sahne.duvar": "墙面",
+    "sahne.teras": "露台",
+    "urun.sergi": "展示",
+    "sahne.havuz-kenari": "泳池周边",
+    "sahne.havuz-su-hatti": "泳池水线",
+    "sahne.bahce-yolu": "庭院步道",
+    "sahne.avlu": "地中海庭院",
+    "sahne.dis-cephe": "建筑外墙",
+    "sahne.bahce-duvari": "庭院围墙",
+    "sahne.giris-merdiveni": "入户台阶",
+    "sahne.dis-mutfak": "户外厨房",
+    "sahne.kis-bahcesi": "阳光房",
+    "sahne.dus": "淋浴间墙面",
+    "sahne.banyo-zemini": "浴室地面",
+    "sahne.lavabo-arkasi": "洗手台背景墙",
+    "sahne.kuvet-nisi": "浴缸壁龛",
+    "sahne.hamam": "土耳其浴室",
+    "sahne.spa": "水疗空间",
+    "sahne.kapali-havuz": "室内泳池",
+    "sahne.mutfak-tezgah": "厨房防溅墙",
+    "sahne.kir-mutfagi": "乡村风厨房",
+    "sahne.mutfak-adasi": "厨房岛台",
+    "sahne.kafe": "咖啡厅吧台",
+    "sahne.somine": "壁炉饰面",
+    "sahne.vurgu-duvari": "客厅背景墙",
+    "sahne.salon-zemini": "客厅地面",
+    "sahne.antre": "玄关",
+    "sahne.merdiven": "楼梯墙面",
+    "sahne.yatak-basucu": "卧室床头背景墙",
+    "sahne.tv-duvari": "电视背景墙",
+    "sahne.yemek-odasi": "餐厅",
+    "sahne.otel-lobisi": "酒店大堂",
+    "sahne.butik": "精品店",
+    "sahne.restoran": "餐厅墙面",
+    "sahne.sarap-mahzeni": "酒窖",
+    "sahne.ofis-resepsiyon": "办公室接待区",
+    "urun.kalinlik": "厚度",
+    "urun.kalinlikPanel": "2 cm（可按需定制 1、2 或 3 cm）",
+    "sss.mozaikM2": "按约 30×30 cm 的马赛克网片计算，每 1 m² 平均约需 {n} 联（按 2 mm 留缝计算，不含损耗）。加上 10% 损耗建议按约 {fire} 联备料。每款产品页面均标注了根据该产品实际联片尺寸换算的用量。",
+    "wa.sinif": "您好，我想了解 {urun} 不同等级（一级品 / 二级品 / 出口级）之间的区别。"
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "大理石",
+      "Traverten": "洞石"
+    },
+    "form": {
+      "Tek parça": "规格板",
+      "Mozaik": "马赛克",
+      "Altıgen": "六角砖",
+      "Mini set": "迷你凡尔赛拼花套装",
+      "Panel": "劈裂面墙板"
+    },
+    "yuzey": {
+      "Eskitme": "滚磨仿古面",
+      "Dolgulu honlu": "填孔磨光面",
+      "Dolgulu eskitme": "填孔滚磨仿古面",
+      "Dolgulu cilalı": "填孔抛光面",
+      "Cilalı": "抛光面",
+      "Cilasız": "未抛光面",
+      "Honlu": "磨光面",
+      "Patlatma": "劈裂面"
+    },
+    "ek": {
+      "İkili karışım": "双色混拼",
+      "Üçlü karışım": "三色混拼",
+      "Koyu": "深色",
+      "Açık": "浅色",
+      "Fileli": "背网联片",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "穆拉白",
+      "Toros Siyahı": "托罗斯黑",
+      "Eymer Siyah": "艾梅尔黑",
+      "Sarı": "黄色",
+      "Pembe": "粉色",
+      "Bej": "米色",
+      "Klasik": "经典",
+      "Damarlı Noce": "直纹 Noce"
+    },
+    "ton": {
+      "beyaz": "白色",
+      "krem": "奶油色与米色",
+      "sari": "黄色",
+      "kahve": "棕色",
+      "gri": "灰色",
+      "siyah": "黑色",
+      "pembe": "粉色",
+      "karisik": "混色"
+    },
+    "sinif": {
+      "1": "一级品",
+      "2": "二级品",
+      "Export": "出口级"
+    },
+    "tasAd": {
+      "Bej|Mermer": "米色大理石",
+      "Blue Stone|Mermer": "Blue Stone 大理石",
+      "Muğla Beyazı|Mermer": "穆拉白大理石",
+      "Pembe|Mermer": "粉色大理石",
+      "Toros Siyahı|Mermer": "托罗斯黑大理石",
+      "Damarlı Noce|Traverten": "直纹 Noce 洞石",
+      "Klasik|Traverten": "经典洞石",
+      "Light Mix|Traverten": "Light Mix 洞石",
+      "Mix|Traverten": "Mix 洞石",
+      "Noce|Traverten": "Noce 洞石",
+      "Pembe|Traverten": "粉色洞石",
+      "Sarı|Traverten": "黄洞石",
+      "Silver|Traverten": "Silver 洞石",
+      "Walnut|Traverten": "Walnut 洞石",
+      "Emperador|Mermer": "Emperador 大理石",
+      "Eymer Siyah|Traverten": "艾梅尔黑洞石",
+      "Ivory|Traverten": "Ivory 洞石",
+      "Light|Traverten": "Light 洞石",
+      "Light + Noce Mix|Traverten": "Light + Noce Mix 洞石",
+      "Nebula|Traverten": "Nebula 洞石",
+      "Onix Silver|Traverten": "Onix Silver 洞石",
+      "Sarı + Noce + Light Mix|Traverten": "黄色 + Noce + Light Mix 洞石",
+      "Sarı + Noce Mix|Traverten": "黄色 + Noce Mix 洞石",
+      "Scabas|Traverten": "Scabas 洞石"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş 是一家大理石与洞石生产商，于 2014 年在位于霍纳兹的代尼兹利工业园区成立。公司生产洞石和大理石马赛克、单片规格板、凡尔赛拼花（迷你套装）、六角砖及劈裂面文化石墙板；提供定尺切割服务，并销往土耳其国内及海外市场。"
+    },
+    "tas": {
+      "Light Mix": "浅奶油色与象牙白柔和交融的浅色洞石，明快通透，百搭各类建筑风格。",
+      "Mix": "从浅奶油色自然过渡到暖米色与淡焦糖色，色调灵动丰富的混色洞石。",
+      "Light": "以明亮的奶油色与浅米色调呈现天然孔洞肌理，气质温润雅致的浅色洞石。",
+      "Silver": "银灰、烟灰与暖石色调交织的银灰洞石，十分契合现代及工业风空间。",
+      "Onix Silver": "银灰底色上分布着层次分明、富有纵深感的层状脉纹，呈现鲜明个性的银灰洞石。",
+      "Noce": "胡桃木色与暖大地棕交融的深啡洞石，为空间赋予沉稳温暖的地中海气息。",
+      "Damarlı Noce": "暖棕色与胡桃木色呈清晰平行层状纹理分布，富有韵律感的直纹洞石。",
+      "Walnut": "色调介于奶咖与胡桃壳色之间，过渡柔和、质感温暖的胡桃木色洞石。",
+      "Scabas": "奶油色、蜜糖色与深棕色交织出鲜明纹路，乡村复古气息浓郁的特色洞石。",
+      "Sarı": "金黄色与暖蜜糖色调的黄洞石，尤其适合为露台、庭院及户外空间注入活力。",
+      "Klasik": "呈现经典代尼兹利洞石温暖的米黄与奶油色调以及天然孔洞肌理，风格简约质朴。",
+      "Ivory": "米白与浅象牙白色调，是整个系列中最明亮、最纯净雅致的洞石。",
+      "Nebula": "奶油灰底色上带有如云雾般柔和色调过渡的静谧质感洞石。",
+      "Pembe|Traverten": "三文鱼粉与大地粉色调交融，营造独特柔和氛围的粉洞石。",
+      "Eymer Siyah": "将深灰与炭灰色调同洞石的天然孔洞肌理相结合，形成鲜明对比。",
+      "Muğla Beyazı": "白色底面上分布着烟灰色云雾状纹理与细腻脉纹，清新而经典的白色大理石。",
+      "Bej": "提供浅色与深色选材，铺贴效果均匀沉稳的奶油米色大理石。",
+      "Blue Stone": "蓝灰与板岩色调间交织着浅色脉纹，呈现冷峻现代质感的大理石。",
+      "Emperador": "深棕底色上交织着细腻浅色网状纹路，展现经典醇厚层次感的啡网大理石。",
+      "Pembe|Mermer": "灰玫瑰色底面上分布着白色脉纹，优雅柔和的粉色大理石。",
+      "Toros Siyahı": "深炭黑底色上分布着利落白色纹理，视觉对比强烈的黑色大理石。",
+      "Light + Noce Mix": "将浅奶油色 Light 与暖棕色 Noce 洞石在同一网片上均衡搭配的双色混拼款。",
+      "Sarı + Noce Mix": "金黄色与胡桃棕洞石在温暖大地色调中自然交融的双色混拼款。",
+      "Sarı + Noce + Light Mix": "由浅奶油色、金黄色与胡桃棕洞石组合而成，色彩韵律丰富的三色混拼款。"
+    },
+    "yuzey": {
+      "Eskitme": "石材经滚筒翻滚打磨，使边角圆润，表面形成柔和的复古做旧肌理。光线经其漫反射而不刺眼，适用于户外、泳池周边、庭院及乡村风室内空间，呈现自然温暖的质感。",
+      "Honlu": "石材表面不经抛光，而是研磨至平整细腻的哑光效果。其不反光的现代质感使其成为室内地面的常用选择。",
+      "Cilalı": "表面抛光至镜面光泽，将石材纹理与色彩对比度展现得淋漓尽致，适合打造精致高雅的室内墙地面。",
+      "Cilasız": "切割后未经抛光处理，保留石材天然哑光肌理的表面工艺。",
+      "Dolgulu honlu": "先用填充材料封闭洞石的天然孔洞，再将表面磨光至平整细腻的哑光效果。封闭后的孔洞不易藏污纳垢，日常清洁更轻松。",
+      "Dolgulu eskitme": "将填孔后的洞石进行滚筒做旧处理，形成圆润边缘与复古质感，兼顾仿古面的温润与封闭表面的实用性。",
+      "Dolgulu cilalı": "将洞石孔洞填充密实后进行高光抛光，表面平滑亮泽、易于擦拭清洁。",
+      "Patlatma": "通过机械劈裂使石材表面呈现如同天然岩石般的立体凹凸肌理。丰富的光影层次为壁炉、建筑外立面、庭院及背景墙增添深邃立体感。"
+    },
+    "form": {
+      "Tek parça": "方形与长方形石材规格板，可采用对缝直铺、工字铺、⅓ 错缝或人字拼等铺法，用于墙面和地面。",
+      "Mozaik": "将小颗粒石材粘贴于约 30×30 cm 的背网上制成。网片之间相互咬合，便于在淋浴间地面、厨房防溅墙及弧形表面实现快速平整的铺贴。",
+      "Altıgen": "切割成蜂巢几何形状的天然石材，将经典洞石肌理与现代几何设计语言融为一体。",
+      "Mini set": "由不同尺寸的方形与长方形石材在一个模数单元内咬合拼接而成的凡尔赛（法式）拼花，打破单调重复感，营造灵动多变的表面效果。",
+      "Panel": "由劈裂面石材条错落拼接而成的文化石墙板。Z 字形端部设计使板材之间紧密咬合，在室内外墙面呈现连贯自然的岩石肌理。"
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertine-mosaic",
+        "ad": "洞石马赛克"
+      },
+      "Mermer|Mozaik": {
+        "slug": "marble-mosaic",
+        "ad": "大理石马赛克"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertine-tiles",
+        "ad": "洞石规格板"
+      },
+      "Mermer|Tek parça": {
+        "slug": "marble-tiles",
+        "ad": "大理石规格板"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertine-versailles-pattern",
+        "ad": "洞石凡尔赛拼花套装"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertine-hexagon",
+        "ad": "洞石六角砖"
+      },
+      "Traverten|Panel": {
+        "slug": "travertine-split-face-panels",
+        "ad": "洞石劈裂面墙板"
+      }
+    },
+    "sss": [
+      [
+        "Karabel Doğal Taş 位于哪里？主要生产什么产品？",
+        "Karabel Doğal Taş 自 2014 年起在位于霍纳兹的代尼兹利工业园区运营，是一家大理石与洞石生产商。公司生产洞石和大理石马赛克、单片规格板、凡尔赛拼花（迷你套装）、六角砖及劈裂面文化石墙板，并提供定尺切割服务。"
+      ],
+      [
+        "洞石与大理石有什么区别？",
+        "洞石是由矿泉水中的碳酸钙沉积形成的天然多孔石材，以温暖的奶油色、米黄色、灰色和棕色调著称。大理石则由石灰岩经高温高压变质而成，质地更为致密，纹理清晰分明。代尼兹利是土耳其最负盛名的洞石产区。"
+      ],
+      [
+        "磨光面、滚磨仿古面和抛光面有什么区别？",
+        "磨光面不经抛光，而是研磨至平整细腻的哑光效果；滚磨仿古面是将石材置于滚筒中翻滚，使边角圆润并呈现复古肌理；抛光面则加工至镜面光泽，能最鲜明地展现石材脉纹。"
+      ],
+      [
+        "什么是填孔洞石？",
+        "填孔洞石是用填缝材料将洞石的天然孔洞封闭处理。填孔后的表面更为密实均匀，不易藏污且易于清洁；未填孔洞石则保留其天然的多孔肌理。"
+      ],
+      [
+        "铺贴 1 m² 马赛克需要多少联网片？",
+        "{mozaik_m2}"
+      ],
+      [
+        "一级品、二级品和出口级有什么区别？",
+        "天然石材的等级反映分选标准的严格程度，主要根据颜色一致性、孔洞及表面瑕疵等指标进行分级。出口级（Export）为最高精选等级。工程项目建议以实物样品为准进行确认。"
+      ],
+      [
+        "你们支持按尺寸定制切割吗？",
+        "支持。除常规标准尺寸外，我们可根据项目需求加工乱尺（自由长度）及定制规格。例如 8 cm 宽的 Silver 洞石可按您所需的长度生产。"
+      ],
+      [
+        "你们做出口业务吗？",
+        "是的，Karabel Doğal Taş 的产品同时面向土耳其本土及海外客户销售。如需咨询价格、索取样品及了解运输事宜，欢迎通过 WhatsApp（{telefon}）或电子邮箱 {eposta} 联系我们。"
+      ],
+      [
+        "网站上的石材颜色真实吗？",
+        "网站图片均为实物样品实拍，仅做了背景抠图处理，未添加任何调色滤镜。由于天然石材每片均有自然差异，且不同屏幕显示存在色差，建议您在最终定样前查看实物样品。"
+      ]
+    ]
+  }
+}

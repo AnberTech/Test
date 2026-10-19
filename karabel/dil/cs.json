@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Čeština",
+    "kisa": "CS",
+    "yerel": "cs-CZ",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "cz"
+  },
+  "yol": {
+    "koleksiyon": "kolekce",
+    "urun": "produkt",
+    "tas": "kamen",
+    "yuzey": "povrch",
+    "sss": "caste-dotazy",
+    "hakkimizda": "o-nas",
+    "iletisim": "kontakt"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Kolekce",
+    "nav.hakkimizda": "O nás",
+    "nav.iletisim": "Kontakt",
+    "nav.teklif": "Poptat cenu",
+    "nav.menu": "Menu",
+    "marka.alt": "Mramor · Přírodní kámen",
+    "giris.ust": "Od roku 2014 · Denizli",
+    "giris.koleksiyon": "Prozkoumat kameny",
+    "giris.urun": "produktů",
+    "kol.ust": "Kolekce",
+    "kol.baslik": "Struktura zblízka. <em>Charakter v celé ploše.</em>",
+    "kol.metin": "Všechny fotografie zachycují skutečné vzorky. Odstín a kresba žilkování se u přírodního kamene kus od kusu přirozeně liší.",
+    "kol.tumu": "Vše",
+    "kol.ara": "Hledat podle názvu kamene, barvy nebo rozměru",
+    "kol.form": "Formát",
+    "kol.yuzey": "Povrchová úprava",
+    "kol.renk": "Barva",
+    "kol.temizle": "Vymazat filtry",
+    "kol.sonuc": "{n} produktů",
+    "kol.bos": "Zvoleným filtrům neodpovídá žádný produkt. Zkuste některý filtr odebrat.",
+    "urun.form": "Formát",
+    "urun.parca": "Rozměr prvku",
+    "urun.birim": "Rozměr mozaikového archu",
+    "urun.yuzey": "Povrchová úprava",
+    "urun.sinif": "Třída jakosti",
+    "urun.ozellik": "Doplňující vlastnost",
+    "urun.grup": "Druh kamene",
+    "urun.teklif": "Poptat přes WhatsApp",
+    "urun.teyit": "Některé parametry tohoto produktu čekají na upřesnění. Před objednáním si u nás prosím ověřte aktuální rozměry a specifikaci.",
+    "urun.kapat": "Zavřít",
+    "urun.olcuyeGore": "Délka dle objednávky",
+    "hak.ust": "O nás",
+    "hak.baslik": "Výroba v Denizli, <em>od roku 2014.</em>",
+    "hak.metin1": "Společnost Karabel Doğal Taş byla založena v roce 2014 v průmyslové zóně Denizli v Honaz. Z mramoru a travertinu vyrábíme mozaiky, dlaždice a obklady, skladby Versailles a mini sety, šestiúhelníky a štípané obkladové panely.",
+    "hak.metin2": "Spolupracujeme s odběrateli v Turecku i v zahraničí. Obraťte se na nás ohledně produktů z kolekce nebo řezání na míru podle požadavků vašeho projektu.",
+    "hak.kurulus": "Založeno",
+    "hak.uretim": "Místo výroby",
+    "hak.uretimDeger": "Průmyslová zóna Denizli, Turecko",
+    "hak.olcu": "Řezání",
+    "hak.olcuDeger": "Rozměry na míru",
+    "hak.pazar": "Prodej",
+    "hak.pazarDeger": "Turecký i zahraniční trh",
+    "ilt.ust": "Kontakt",
+    "ilt.baslik": "Na řadě je <em>váš projekt.</em>",
+    "ilt.metin": "Napište nám ohledně cenové nabídky, zaslání vzorků nebo řezání na míru.",
+    "ilt.telefon": "Telefon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "E-mail",
+    "ilt.adres": "Adresa",
+    "ilt.harita": "Zobrazit na mapě",
+    "ilt.form.ad": "Vaše jméno",
+    "ilt.form.konu": "Poptávaný produkt nebo projekt",
+    "ilt.form.mesaj": "Popište své požadavky",
+    "ilt.form.gonder": "Pokračovat přes WhatsApp",
+    "ilt.form.eposta": "Otevřít v e-mailové aplikaci",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Fotografie zachycují skutečné vzorky. U přírodního kamene jsou přirozené odchylky v barvě a žilkování běžné.",
+    "wa.urun": "Dobrý den, prosím o cenovou nabídku na {urun}.",
+    "wa.genel": "Dobrý den, prosím o více informací o vašich produktech z mramoru a travertinu.",
+    "wa.form": "Dobrý den, jmenuji se {ad}.\nPředmět: {konu}\n{mesaj}",
+    "nav.atla": "Přeskočit na obsah",
+    "urun.kenar": "Délka hrany: {n} cm",
+    "yardim.numune": "Vyžádat vzorek",
+    "yardim.sinif": "Zeptat se na rozdíly mezi třídami jakosti",
+    "nav.sss": "Časté dotazy",
+    "nav.ana": "Úvod",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Turecký travertin a mramor z Denizli: mozaiky, dlažba, Versailles, štípané panely",
+    "sayfa.anaAciklama": "Výroba mramoru a travertinu v Denizli od roku 2014: travertinové mozaiky, dlaždice, sady Versailles, šestiúhelníky a štípané obkladové panely. Skutečné fotografie vzorků, rozměry a přepočty na m².",
+    "kol.hepsi": "Všechny produkty ({n})",
+    "rehber.ust": "Průvodce povrchy",
+    "sss.baslik": "Často kladené otázky",
+    "sss.hepsi": "Všechny otázky →",
+    "sss.altBaslik": "O mramoru, travertinu a objednávkách",
+    "urun.birimLevha": "archů",
+    "urun.birimTas": "dlaždic",
+    "urun.m2Cumle": "Přibližně {n} {birim} na 1 m².",
+    "urun.gorunum": "Obrázek",
+    "urun.m2": "Na 1 m²",
+    "urun.teknikIste": "Vyžádat technické údaje",
+    "urun.hakkinda": "O kameni {ad}",
+    "urun.m2Uzun": "Na 1 m² tohoto produktu je potřeba přibližně {n} {birim} (při spáře 2 mm). S 10% rezervou na prořez počítejte zhruba s {fire} {birim}; přesné množství potvrdíme v cenové nabídce.",
+    "urun.kardes": "{ad}: další rozměry a povrchové úpravy",
+    "wa.numune": "Dobrý den, prosím o zaslání vzorku produktu {urun}.",
+    "wa.teknik": "Dobrý den, prosím o technické informace (tloušťka, tolerance, balení) k produktu {urun}.",
+    "wa.sinif": "Dobrý den, prosím o vysvětlení rozdílu mezi třídami jakosti (1. třída / 2. třída / Export) u produktu {urun}.",
+    "wa.kategori": "Dobrý den, prosím o cenovou nabídku na produkty z kategorie {kategori}.",
+    "kat.baslikEk": "Kategorie",
+    "kat.urunSayisi": "Produktů",
+    "kat.olculer": "Rozměry",
+    "kat.yuzeyler": "Povrchové úpravy",
+    "kat.taslar": "Kameny",
+    "kat.ortalama": "průměrně",
+    "kat.ozet": "Karabel Doğal Taş vyrábí v tureckém Denizli {ad}: {n} produktů, rozměry {olculer}; povrchové úpravy: {yuzeyler}. Všechny snímky zachycují skutečné vzorky.",
+    "yuzeyS.baslik": "Povrchová úprava: {ad}",
+    "sayfa.kolBaslik": "Kolekce mramoru a travertinu",
+    "sayfa.kolAciklama": "{n} produktů z mramoru a travertinu: mozaiky, dlažba a obklady, skladba Versailles, šestiúhelníky a štípané panely. Fotografie skutečných vzorků, rozměry a spotřeba na m².",
+    "hak.uretimimiz": "Co vyrábíme",
+    "sayfa.yok": "Hledaná stránka nebyla nalezena.",
+    "giris.baslikSade": "Přírodní kámen.<br>Precizní zpracování.",
+    "giris.metinSade": "Jedinečnou strukturu mramoru a travertinu pečlivě proměňujeme v mozaiky, dlažbu a kamenné obklady. Díky vlastní výrobě v Denizli a formátování na míru přinášíme přírodní kámen přímo do vašich projektů.",
+    "urun.ustten": "Pohled shora (skutečná barva)",
+    "urun.uygulamada": "V realizaci",
+    "urun.temsili": "Ilustrační vizualizace byly vygenerovány umělou inteligencí z fotografie skutečného vzorku tohoto produktu. Kresba, odstín a rozměry se při skutečné realizaci mohou lišit.",
+    "urun.temsiliKisa": "ilustrační",
+    "urun.buyut": "zvětšit",
+    "sahne.banyo": "Stěna v koupelně",
+    "sahne.mutfak": "Zástěna kuchyňské linky",
+    "sahne.zemin": "Podlaha",
+    "sahne.duvar": "Stěna",
+    "sahne.teras": "Terasa",
+    "urun.sergi": "Expozice",
+    "sahne.havuz-kenari": "Okolí bazénu",
+    "sahne.havuz-su-hatti": "Vodní linka bazénu",
+    "sahne.bahce-yolu": "Zahradní chodník",
+    "sahne.avlu": "Středomořské nádvoří",
+    "sahne.dis-cephe": "Fasáda domu",
+    "sahne.bahce-duvari": "Zahradní zídka",
+    "sahne.giris-merdiveni": "Vstupní schody",
+    "sahne.dis-mutfak": "Venkovní kuchyně",
+    "sahne.kis-bahcesi": "Zimní zahrada",
+    "sahne.dus": "Stěna sprchového koutu",
+    "sahne.banyo-zemini": "Podlaha v koupelně",
+    "sahne.lavabo-arkasi": "Stěna za umyvadlem",
+    "sahne.kuvet-nisi": "Nika u vany",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Vnitřní bazén",
+    "sahne.mutfak-tezgah": "Zástěna kuchyňské linky",
+    "sahne.kir-mutfagi": "Venkovská kuchyně",
+    "sahne.mutfak-adasi": "Kuchyňský ostrůvek",
+    "sahne.kafe": "Kavárenský pult",
+    "sahne.somine": "Obklad krbu",
+    "sahne.vurgu-duvari": "Dominantní stěna v obývacím pokoji",
+    "sahne.salon-zemini": "Podlaha v obývacím pokoji",
+    "sahne.antre": "Vstupní hala",
+    "sahne.merdiven": "Stěna u schodiště",
+    "sahne.yatak-basucu": "Stěna za čelem postele",
+    "sahne.tv-duvari": "Stěna za TV",
+    "sahne.yemek-odasi": "Jídelna",
+    "sahne.otel-lobisi": "Hotelové lobby",
+    "sahne.butik": "Interiér butiku",
+    "sahne.restoran": "Stěna v restauraci",
+    "sahne.sarap-mahzeni": "Vinný sklep",
+    "sahne.ofis-resepsiyon": "Firemní recepce",
+    "urun.kalinlik": "Tloušťka",
+    "urun.kalinlikPanel": "2 cm (na přání 1, 2 nebo 3 cm)",
+    "sss.mozaikM2": "U mozaikových archů o rozměru přibližně 30×30 cm je na 1 m² potřeba v průměru {n} archů (při spáře 2 mm, bez prořezu). S 10% rezervou na prořez počítejte zhruba s {fire} archy. Na stránce každého produktu je uveden přesný přepočet podle rozměru konkrétního archu."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Mramor",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Dlažba a obklady",
+      "Mozaik": "Mozaika",
+      "Altıgen": "Šestiúhelník",
+      "Mini set": "Francouzská skladba (mini set)",
+      "Panel": "Štípaný obkladový panel"
+    },
+    "yuzey": {
+      "Eskitme": "Omílaný (Antic)",
+      "Dolgulu honlu": "Tmelený a broušený",
+      "Dolgulu eskitme": "Tmelený a omílaný",
+      "Dolgulu cilalı": "Tmelený a leštěný",
+      "Cilalı": "Leštěný",
+      "Cilasız": "Neleštěný",
+      "Honlu": "Broušený (honovaný)",
+      "Patlatma": "Štípaný"
+    },
+    "ek": {
+      "İkili karışım": "Dvoubarevná směs",
+      "Üçlü karışım": "Tříbarevná směs",
+      "Koyu": "Tmavý",
+      "Açık": "Světlý",
+      "Fileli": "Na síti",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Bílý Muğla",
+      "Toros Siyahı": "Černý Toros",
+      "Eymer Siyah": "Černý Eymer",
+      "Sarı": "Žlutý",
+      "Pembe": "Růžový",
+      "Bej": "Béžový",
+      "Klasik": "Klasický",
+      "Damarlı Noce": "Žilkovaný Noce"
+    },
+    "ton": {
+      "beyaz": "Bílá",
+      "krem": "Krémová a béžová",
+      "sari": "Žlutá",
+      "kahve": "Hnědá",
+      "gri": "Šedá",
+      "siyah": "Černá",
+      "pembe": "Růžová",
+      "karisik": "Smíšené odstíny"
+    },
+    "sinif": {
+      "1": "1. třída",
+      "2": "2. třída",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Béžový mramor",
+      "Blue Stone|Mermer": "Mramor Blue Stone",
+      "Muğla Beyazı|Mermer": "Bílý mramor Muğla",
+      "Pembe|Mermer": "Růžový mramor",
+      "Toros Siyahı|Mermer": "Černý mramor Toros",
+      "Damarlı Noce|Traverten": "Žilkovaný travertin Noce",
+      "Klasik|Traverten": "Klasický travertin",
+      "Light Mix|Traverten": "Travertin Light Mix",
+      "Mix|Traverten": "Travertin Mix",
+      "Noce|Traverten": "Travertin Noce",
+      "Pembe|Traverten": "Růžový travertin",
+      "Sarı|Traverten": "Žlutý travertin",
+      "Silver|Traverten": "Travertin Silver",
+      "Walnut|Traverten": "Travertin Walnut",
+      "Emperador|Mermer": "Mramor Emperador",
+      "Eymer Siyah|Traverten": "Černý travertin Eymer",
+      "Ivory|Traverten": "Travertin Ivory",
+      "Light|Traverten": "Travertin Light",
+      "Light + Noce Mix|Traverten": "Travertin Light + Noce Mix",
+      "Nebula|Traverten": "Travertin Nebula",
+      "Onix Silver|Traverten": "Travertin Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Travertin Žlutý + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Travertin Žlutý + Noce Mix",
+      "Scabas|Traverten": "Travertin Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş je výrobce mramoru a travertinu založený v roce 2014 v průmyslové zóně Denizli (Honaz, Turecko). Vyrábí travertinové a mramorové mozaiky, formátovanou dlažbu a obklady, francouzskou skladbu Versailles (mini set), šestiúhelníky a štípané obkladové panely, provádí řezání na míru a dodává na turecký i mezinárodní trh."
+    },
+    "tas": {
+      "Light Mix": "Světlý travertin s jemným prolínáním světle krémových tónů a odstínů slonové kosti, který lze snadno kombinovat s jakýmkoli architektonickým stylem.",
+      "Mix": "Živý travertin s přirozenou barevnou proměnlivostí od světle krémové přes teplou béžovou až po jemný karamel.",
+      "Light": "Klidně působící travertin s přirozeně pórovitou strukturou v nejsvětlejších krémových a světle béžových odstínech.",
+      "Silver": "Šedý travertin, v němž se prolínají stříbřitě šedé, popelavé a teplé kamenné tóny — ideální volba do moderních a industriálních interiérů.",
+      "Onix Silver": "Výrazný šedý travertin s vrstevnatou, hlubokou kresbou žil na stříbřitě šedém podkladu.",
+      "Noce": "Travertin v odstínech ořechu a teplé zemité hnědé, který prostoru dodá klidnou, hřejivou středomořskou atmosféru.",
+      "Damarlı Noce": "Travertin s rytmickou kresbou, v níž teplé hnědé a ořechové tóny ožívají ve výrazných souběžných vrstvách žilkování.",
+      "Walnut": "Hřejivý travertin v odstínech od bílé kávy po ořechovou skořápku s jemnými barevnými přechody.",
+      "Scabas": "Travertin s výrazným rustikálním charakterem, kde se v dynamické kresbě potkávají krémové, medové a hnědé tóny.",
+      "Sarı": "Travertin ve zlatavě žlutých a teplých medových odstínech, který oživí zejména terasy, zahrady a exteriéry.",
+      "Klasik": "Čistý, nadčasový kámen odrážející teplý béžově-krémový odstín a přirozenou pórovitou strukturu tradičního travertinu z Denizli.",
+      "Ivory": "Lomená bílá a světlá slonovina — nejsvětlejší a nejstřídmější travertin v kolekci.",
+      "Nebula": "Klidný travertin s měkkými, obláčkovými přechody tónů na krémově šedém podkladu.",
+      "Pembe|Traverten": "Travertin v lososových a zemitě růžových tónech, který vytváří nevšední, jemně hřejivou atmosféru.",
+      "Eymer Siyah": "Vysoce kontrastní kámen spojující tmavě šedé a antracitové odstíny s typickou pórovitou strukturou travertinu.",
+      "Muğla Beyazı": "Vzdušný, klasický bílý mramor známý kouřově šedými obláčky a jemným žilkováním na bílém podkladu.",
+      "Bej": "Krémově béžový mramor ve světlém i tmavším třídění, který vytváří klidnou, sjednocenou plochu.",
+      "Blue Stone": "Chladně působící moderní mramor v modrošedých a břidlicových odstínech, které protínají světlé žilky.",
+      "Emperador": "Mramor s jemnou světlou sítí žilek na hnědém podkladu, který nabízí klasickou eleganci a vizuální hloubku.",
+      "Pembe|Mermer": "Elegantní růžový mramor s bílým žilkováním na podkladu v barvě starorůžové.",
+      "Toros Siyahı": "Mramor s ostrými bílými žilkami na tmavém antracitově černém podkladu pro výrazný kontrast.",
+      "Light + Noce Mix": "Dvoubarevná směs spojující na jednom platu světle krémový travertin Light a teplý hnědý Noce ve vyváženém kontrastu.",
+      "Sarı + Noce Mix": "Dvoubarevná směs zlatavě žlutého a ořechově hnědého travertinu sladěná v teplých zemitých tónech.",
+      "Sarı + Noce + Light Mix": "Tříbarevná kombinace světle krémového, zlatavě žlutého a ořechově hnědého travertinu s bohatým barevným rytmem."
+    },
+    "yuzey": {
+      "Eskitme": "Kameny se omílají v bubnu, čímž se zaoblí hrany a povrch získá měkkou patinu s antickým vzhledem (úprava Antic / tumbled). Rozptyluje světlo bez odlesků a působí přirozeně a hřejivě v exteriéru, kolem bazénů, v zahradách i v rustikálních interiérech.",
+      "Honlu": "Povrch se bez leštění brousí do hladkého, hedvábně matného vzhledu. Díky modernímu vzhledu bez odlesků je oblíbenou volbou pro interiérové podlahy.",
+      "Cilalı": "Povrch vyleštěný do zrcadlového lesku, který nechá nejvýrazněji vyniknout žilkování a barevnou hloubku kamene. Elegantní řešení pro interiérové stěny a podlahy.",
+      "Cilasız": "Po řezání zůstává povrch neleštěný a zachovává si přirozenou matnou strukturu kamene.",
+      "Dolgulu honlu": "Přirozené póry travertinu se vyplní tmelem a povrch se následně zbrousí (honuje) do hladkého matu. Protože se v pórech neusazují nečistoty, velmi snadno se udržuje.",
+      "Dolgulu eskitme": "Travertin s vyplněnými póry, který je následně omílaný pro zaoblené hrany a antický vzhled — spojuje hřejivost omílaného kamene s uzavřenějším povrchem.",
+      "Dolgulu cilalı": "Póry travertinu jsou zatmelené a povrch je vyleštěný do vysokého lesku; výsledkem je hladká, lesklá a snadno omyvatelná plocha.",
+      "Patlatma": "Kámen se mechanicky štípe, čímž vzniká výrazný plastický reliéf připomínající přírodní skálu. Hra světla a stínu dodává hloubku krbům, fasádám, zahradním zídkám a dominantním stěnám."
+    },
+    "form": {
+      "Tek parça": "Čtvercové a obdélníkové dlaždice a obklady. Pokládají se na střih, na vazbu, s ⅓ přesazením nebo do stromečku na podlahy i stěny.",
+      "Mozaik": "Drobné kamenné dílky upevněné na síťce o rozměru přibližně 30×30 cm. Mozaikové archy do sebe plynule zapadají a umožňují rychlou a přesnou pokládku na podlahách sprchových koutů, za kuchyňskou linkou i na zakřivených plochách.",
+      "Altıgen": "Přírodní kámen řezaný do šestiúhelníkového tvaru. Spojuje klasickou kresbu travertinu se současným geometrickým pojetím.",
+      "Mini set": "Francouzská skladba (vzor Versailles), v níž do sebe v jednom modulu zapadají čtverce a obdélníky různých rozměrů. Vytváří živou plochu bez viditelného opakování spár.",
+      "Panel": "Obkladové panely ze štípaných kamenných pásků skládaných v různých úrovních. Díky Z-profilu na koncích do sebe panely přesně zapadají a vytvářejí souvislý skalní reliéf na vnitřních i venkovních stěnách."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertinova-mozaika",
+        "ad": "Travertinová mozaika"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mramorova-mozaika",
+        "ad": "Mramorová mozaika"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertinova-dlazba-a-obklady",
+        "ad": "Travertinová dlažba a obklady"
+      },
+      "Mermer|Tek parça": {
+        "slug": "mramorova-dlazba-a-obklady",
+        "ad": "Mramorová dlažba a obklady"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-francouzska-skladba-versailles",
+        "ad": "Travertin – francouzská skladba Versailles"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-sestiuhelnik",
+        "ad": "Travertinový šestiúhelník"
+      },
+      "Traverten|Panel": {
+        "slug": "travertinove-stipane-panely",
+        "ad": "Travertinové štípané panely"
+      }
+    },
+    "sss": [
+      [
+        "Kde sídlí Karabel Doğal Taş a co vyrábí?",
+        "Karabel Doğal Taş je výrobce mramoru a travertinu působící od roku 2014 v průmyslové zóně Denizli (Honaz, Denizli, Turecko). Vyrábí travertinové a mramorové mozaiky, formátovanou dlažbu a obklady, francouzskou skladbu Versailles (mini set), šestiúhelníky a štípané obkladové panely a provádí řezání na míru."
+      ],
+      [
+        "Jaký je rozdíl mezi travertinem a mramorem?",
+        "Travertin je přirozeně porézní kámen vzniklý usazováním uhličitanu vápenatého z minerálních pramenů; je typický teplými krémovými, béžovými, šedými a hnědými odstíny. Mramor vzniká přeměnou vápence za vysokého tlaku a teploty, má hutnější strukturu a výrazné žilkování. Denizli je turecký region proslulý travertinem."
+      ],
+      [
+        "Jaký je rozdíl mezi broušeným (honovaným), omílaným a leštěným povrchem?",
+        "Broušený (honovaný) povrch je vyhlazený do sametového matu bez leštění. U omílaného povrchu (Antic) se kameny otáčejí v bubnu, čímž se zaoblí hrany a povrch získá antickou patinu. Leštěný povrch je vyleštěn do zrcadlového lesku, který nejživěji zvýrazní kresbu a žilkování."
+      ],
+      [
+        "Co je tmelený (plněný) travertin?",
+        "U tmeleného travertinu jsou přirozené póry kamene uzavřeny speciální výplní. Povrch působí celistvěji, nezachytává nečistoty a snadno se udržuje. Netmelený travertin si naopak ponechává svou přirozenou pórovitou strukturu."
+      ],
+      [
+        "Kolik plat mozaiky je potřeba na 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Jaký je rozdíl mezi 1. třídou, 2. třídou a kvalitou Export?",
+        "Třídy jakosti u přírodního kamene vyjadřují přísnost třídění (selekce) — hodnotí se barevná jednotnost, velikost pórů a drobné povrchové nepravidelnosti. Export představuje nejvyšší výběrovou kvalitu. Nejlepší představu pro konkrétní projekt vždy poskytne fyzický vzorek."
+      ],
+      [
+        "Vyrábíte kámen i v rozměrech na míru?",
+        "Ano. Vedle standardních formátů řežeme kámen na volné délky i přesné rozměry podle projektu. Například travertin Silver o šířce 8 cm vyrobíme v požadované délce na míru."
+      ],
+      [
+        "Dodáváte i do zahraničí?",
+        "Ano, Karabel Doğal Taş prodává zákazníkům v Turecku i v zahraničí. Ohledně cen, vzorků a dopravy nás můžete kontaktovat přes WhatsApp ({telefon}) nebo na e-mailu {eposta}."
+      ],
+      [
+        "Odpovídají barvy kamene na webu skutečnosti?",
+        "Fotografie zachycují skutečné vzorky; nebyly použity žádné barevné filtry, pouze bylo odstraněno pozadí. Protože je každý kus přírodního kamene originál a monitory mohou barvy zobrazovat odlišně, doporučujeme před finálním rozhodnutím vidět fyzický vzorek."
+      ]
+    ]
+  }
+}

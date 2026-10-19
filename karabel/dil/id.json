@@ -1,0 +1,366 @@
+{
+  "dil": {
+    "ad": "Bahasa Indonesia",
+    "kisa": "ID",
+    "yerel": "id-ID",
+    "yon": "ltr",
+    "ondalik": ",",
+    "bayrak": "id"
+  },
+  "yol": {
+    "koleksiyon": "koleksi",
+    "urun": "produk",
+    "tas": "batu",
+    "yuzey": "finishing",
+    "sss": "faq",
+    "hakkimizda": "tentang-kami",
+    "iletisim": "kontak"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Koleksi",
+    "nav.hakkimizda": "Tentang Kami",
+    "nav.iletisim": "Kontak",
+    "nav.teklif": "Minta Penawaran",
+    "nav.menu": "Menu",
+    "marka.alt": "Marmer · Batu Alam",
+    "giris.ust": "Sejak 2014 · Denizli",
+    "giris.koleksiyon": "Jelajahi koleksi batu",
+    "giris.urun": "produk",
+    "kol.ust": "Koleksi",
+    "kol.baslik": "Detail tekstur. <em>Karakter yang utuh.</em>",
+    "kol.metin": "Foto yang Anda lihat berasal dari sampel asli. Warna dan pola urat pada setiap keping batu alam dapat bervariasi secara alami.",
+    "kol.tumu": "Semua",
+    "kol.ara": "Cari nama batu, warna, atau ukuran",
+    "kol.form": "Bentuk produk",
+    "kol.yuzey": "Finishing permukaan",
+    "kol.renk": "Warna",
+    "kol.temizle": "Hapus filter",
+    "kol.sonuc": "{n} produk",
+    "kol.bos": "Tidak ada produk yang cocok dengan filter ini. Coba hapus beberapa filter lalu cari lagi.",
+    "urun.form": "Bentuk produk",
+    "urun.parca": "Ukuran keping",
+    "urun.birim": "Ukuran lembaran",
+    "urun.yuzey": "Finishing permukaan",
+    "urun.sinif": "Kelas produk",
+    "urun.ozellik": "Fitur tambahan",
+    "urun.grup": "Jenis batu",
+    "urun.teklif": "Minta penawaran via WhatsApp",
+    "urun.teyit": "Beberapa detail produk ini masih menunggu konfirmasi. Silakan konfirmasi kepada kami mengenai ukuran dan spesifikasi terkini sebelum memesan.",
+    "urun.kapat": "Tutup",
+    "urun.olcuyeGore": "Panjang disesuaikan dengan pesanan",
+    "hak.ust": "Tentang Kami",
+    "hak.baslik": "Produksi di Denizli, <em>sejak 2014.</em>",
+    "hak.metin1": "Karabel Doğal Taş didirikan pada tahun 2014 di Kawasan Industri Terorganisasi Denizli, Honaz, Turki. Kami memproduksi marmer dan travertin dalam bentuk mosaik, ubin batu alam, set pola Versailles dan mini set, heksagon, serta panel dinding split-face.",
+    "hak.metin2": "Kami melayani pembeli di Turki maupun pasar internasional. Hubungi kami untuk menanyakan produk dalam koleksi atau kebutuhan pemotongan khusus sesuai ukuran.",
+    "hak.kurulus": "Didirikan",
+    "hak.uretim": "Lokasi produksi",
+    "hak.uretimDeger": "Denizli OSB",
+    "hak.olcu": "Pemotongan",
+    "hak.olcuDeger": "Sesuai ukuran pesanan",
+    "hak.pazar": "Penjualan",
+    "hak.pazarDeger": "Domestik dan ekspor",
+    "ilt.ust": "Kontak",
+    "ilt.baslik": "Kini giliran <em>proyek Anda.</em>",
+    "ilt.metin": "Hubungi kami untuk informasi harga, permintaan sampel, atau pemotongan ukuran khusus.",
+    "ilt.telefon": "Telepon",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "Email",
+    "ilt.adres": "Alamat",
+    "ilt.harita": "Lihat di peta",
+    "ilt.form.ad": "Nama Anda",
+    "ilt.form.konu": "Produk atau proyek yang diminati",
+    "ilt.form.mesaj": "Ceritakan kebutuhan Anda",
+    "ilt.form.gonder": "Lanjutkan di WhatsApp",
+    "ilt.form.eposta": "Buka di aplikasi email",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Foto menampilkan sampel asli. Variasi warna dan urat merupakan karakter alami batu alam.",
+    "wa.urun": "Halo, saya ingin meminta penawaran harga untuk {urun}.",
+    "wa.genel": "Halo, saya ingin mendapatkan informasi mengenai produk marmer dan travertin Anda.",
+    "wa.form": "Halo, saya {ad}.\nSubjek: {konu}\n{mesaj}",
+    "nav.atla": "Langsung ke konten",
+    "urun.kenar": "Panjang sisi: {n} cm",
+    "yardim.numune": "Minta sampel",
+    "yardim.sinif": "Tanyakan perbedaan kelas kualitas",
+    "nav.sss": "FAQ",
+    "nav.ana": "Beranda",
+    "sayfa.anaBaslik": "Karabel Doğal Taş — Travertin dan marmer dari Denizli: mosaik, ubin, pola Versailles, panel split-face",
+    "sayfa.anaAciklama": "Produsen marmer dan travertin di Denizli, Turki sejak 2014: mosaik travertin, ubin, set pola Versailles, heksagon, dan panel split-face. Foto sampel asli, ukuran, dan perhitungan kebutuhan per m².",
+    "kol.hepsi": "Semua produk ({n})",
+    "rehber.ust": "Panduan finishing permukaan",
+    "sss.baslik": "Pertanyaan yang sering diajukan",
+    "sss.hepsi": "Semua pertanyaan →",
+    "sss.altBaslik": "Tentang marmer, travertin, dan pemesanan",
+    "urun.birimLevha": "lembar",
+    "urun.birimTas": "keping",
+    "urun.m2Cumle": "Sekitar {n} {birim} untuk 1 m².",
+    "urun.gorunum": "Gambar",
+    "urun.m2": "per m²",
+    "urun.teknikIste": "Minta spesifikasi teknis",
+    "urun.hakkinda": "Tentang {ad}",
+    "urun.m2Uzun": "Untuk 1 m², dibutuhkan sekitar {n} {birim} produk ini (dengan nat 2 mm). Siapkan sekitar {fire} {birim} dengan cadangan 10% untuk pemotongan; jumlah akhir dikonfirmasi pada tahap penawaran.",
+    "urun.kardes": "{ad}: ukuran dan finishing lainnya",
+    "wa.numune": "Halo, saya ingin meminta sampel untuk {urun}.",
+    "wa.teknik": "Halo, mohon informasi spesifikasi teknis (ketebalan, toleransi ukuran, pengemasan) untuk {urun}.",
+    "wa.sinif": "Halo, saya ingin mengetahui perbedaan antarkelas kualitas (Kelas 1 / Kelas 2 / Export) untuk {urun}.",
+    "wa.kategori": "Halo, saya ingin meminta penawaran harga untuk produk {kategori} Anda.",
+    "kat.baslikEk": "Kategori",
+    "kat.urunSayisi": "Produk",
+    "kat.olculer": "Ukuran",
+    "kat.yuzeyler": "Finishing",
+    "kat.taslar": "Jenis batu",
+    "kat.ortalama": "rata-rata",
+    "kat.ozet": "Karabel Doğal Taş memproduksi {ad} di Denizli, Turki: {n} produk, ukuran {olculer}; finishing permukaan: {yuzeyler}. Semua foto menampilkan sampel asli.",
+    "yuzeyS.baslik": "Finishing {ad}",
+    "sayfa.kolBaslik": "Koleksi marmer dan travertin",
+    "sayfa.kolAciklama": "{n} produk marmer dan travertin: mosaik, ubin, set pola Versailles, heksagon, dan panel split-face. Foto sampel asli, ukuran, dan perhitungan kebutuhan per m².",
+    "hak.uretimimiz": "Produk yang kami buat",
+    "sayfa.yok": "Halaman yang Anda cari tidak ditemukan.",
+    "giris.baslikSade": "Batu alam.<br>Pengerjaan bermutu tinggi.",
+    "giris.metinSade": "Kami mengolah tekstur khas marmer dan travertin dengan cermat menjadi mosaik, ubin, dan pelapis dinding. Dengan fasilitas produksi di Denizli serta opsi ukuran khusus sesuai proyek, kami menghadirkan batu alam ke dalam ruang Anda.",
+    "urun.ustten": "Tampak atas (warna asli)",
+    "urun.uygulamada": "Contoh terpasang",
+    "urun.temsili": "Visualisasi pemasangan: dibuat menggunakan AI dari foto sampel produk ini. Pada pemasangan sebenarnya, pola, rona, dan ukuran dapat berbeda.",
+    "urun.temsiliKisa": "ilustrasi",
+    "urun.buyut": "perbesar",
+    "sahne.banyo": "Dinding kamar mandi",
+    "sahne.mutfak": "Backsplash dapur",
+    "sahne.zemin": "Lantai",
+    "sahne.duvar": "Dinding",
+    "sahne.teras": "Teras",
+    "urun.sergi": "Pajangan",
+    "sahne.havuz-kenari": "Tepi kolam renang",
+    "sahne.havuz-su-hatti": "Garis air kolam renang",
+    "sahne.bahce-yolu": "Jalur taman",
+    "sahne.avlu": "Halaman bergaya Mediterania",
+    "sahne.dis-cephe": "Fasad rumah",
+    "sahne.bahce-duvari": "Dinding taman",
+    "sahne.giris-merdiveni": "Tangga masuk",
+    "sahne.dis-mutfak": "Dapur outdoor",
+    "sahne.kis-bahcesi": "Ruang kaca (sunroom)",
+    "sahne.dus": "Dinding area shower",
+    "sahne.banyo-zemini": "Lantai kamar mandi",
+    "sahne.lavabo-arkasi": "Dinding belakang wastafel",
+    "sahne.kuvet-nisi": "Ceruk dinding bathtub",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Kolam renang indoor",
+    "sahne.mutfak-tezgah": "Backsplash dapur",
+    "sahne.kir-mutfagi": "Dapur bergaya pedesaan",
+    "sahne.mutfak-adasi": "Meja island dapur",
+    "sahne.kafe": "Meja konter kafe",
+    "sahne.somine": "Bingkai perapian",
+    "sahne.vurgu-duvari": "Dinding aksen ruang tamu",
+    "sahne.salon-zemini": "Lantai ruang tamu",
+    "sahne.antre": "Area foyer",
+    "sahne.merdiven": "Dinding tangga",
+    "sahne.yatak-basucu": "Dinding belakang tempat tidur",
+    "sahne.tv-duvari": "Dinding TV",
+    "sahne.yemek-odasi": "Ruang makan",
+    "sahne.otel-lobisi": "Lobi hotel",
+    "sahne.butik": "Toko butik",
+    "sahne.restoran": "Dinding restoran",
+    "sahne.sarap-mahzeni": "Gudang anggur",
+    "sahne.ofis-resepsiyon": "Area resepsionis kantor",
+    "urun.kalinlik": "Ketebalan",
+    "urun.kalinlikPanel": "2 cm (tersedia 1, 2, atau 3 cm sesuai pesanan)",
+    "sss.mozaikM2": "Dengan lembaran jaring mosaik berukuran sekitar 30×30 cm, dibutuhkan rata-rata {n} lembar untuk 1 m² (dengan nat 2 mm, belum termasuk cadangan potong). Siapkan sekitar {fire} lembar dengan cadangan 10%. Setiap halaman produk menampilkan jumlah yang dihitung dari ukuran lembar produk tersebut."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Marmer",
+      "Traverten": "Travertin"
+    },
+    "form": {
+      "Tek parça": "Ubin",
+      "Mozaik": "Mosaik",
+      "Altıgen": "Heksagon",
+      "Mini set": "Set pola Versailles mini",
+      "Panel": "Panel split-face"
+    },
+    "yuzey": {
+      "Eskitme": "Tumbled (antik)",
+      "Dolgulu honlu": "Filled & honed (isi pori, matte halus)",
+      "Dolgulu eskitme": "Filled & tumbled (isi pori, antik)",
+      "Dolgulu cilalı": "Filled & polished (isi pori, poles kilap)",
+      "Cilalı": "Polished (poles kilap)",
+      "Cilasız": "Unpolished (tanpa poles)",
+      "Honlu": "Honed (matte halus)",
+      "Patlatma": "Split-face (belah alami)"
+    },
+    "ek": {
+      "İkili karışım": "Kombinasi dua warna",
+      "Üçlü karışım": "Kombinasi tiga warna",
+      "Koyu": "Gelap",
+      "Açık": "Terang",
+      "Fileli": "Dengan jaring (mesh-mounted)",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Putih Muğla",
+      "Toros Siyahı": "Hitam Toros",
+      "Eymer Siyah": "Hitam Eymer",
+      "Sarı": "Kuning",
+      "Pembe": "Merah Muda",
+      "Bej": "Beige",
+      "Klasik": "Klasik",
+      "Damarlı Noce": "Noce Berurat"
+    },
+    "ton": {
+      "beyaz": "Putih",
+      "krem": "Krem dan beige",
+      "sari": "Kuning",
+      "kahve": "Cokelat",
+      "gri": "Abu-abu",
+      "siyah": "Hitam",
+      "pembe": "Merah muda",
+      "karisik": "Warna campuran"
+    },
+    "sinif": {
+      "1": "Kelas 1",
+      "2": "Kelas 2",
+      "Export": "Export"
+    },
+    "tasAd": {
+      "Bej|Mermer": "Marmer Beige",
+      "Blue Stone|Mermer": "Marmer Blue Stone",
+      "Muğla Beyazı|Mermer": "Marmer Putih Muğla",
+      "Pembe|Mermer": "Marmer Merah Muda",
+      "Toros Siyahı|Mermer": "Marmer Hitam Toros",
+      "Damarlı Noce|Traverten": "Travertin Noce Berurat",
+      "Klasik|Traverten": "Travertin Klasik",
+      "Light Mix|Traverten": "Travertin Light Mix",
+      "Mix|Traverten": "Travertin Mix",
+      "Noce|Traverten": "Travertin Noce",
+      "Pembe|Traverten": "Travertin Merah Muda",
+      "Sarı|Traverten": "Travertin Kuning",
+      "Silver|Traverten": "Travertin Silver",
+      "Walnut|Traverten": "Travertin Walnut",
+      "Emperador|Mermer": "Marmer Emperador",
+      "Eymer Siyah|Traverten": "Travertin Hitam Eymer",
+      "Ivory|Traverten": "Travertin Ivory",
+      "Light|Traverten": "Travertin Light",
+      "Light + Noce Mix|Traverten": "Travertin Light + Noce Mix",
+      "Nebula|Traverten": "Travertin Nebula",
+      "Onix Silver|Traverten": "Travertin Onix Silver",
+      "Sarı + Noce + Light Mix|Traverten": "Travertin Kuning + Noce + Light Mix",
+      "Sarı + Noce Mix|Traverten": "Travertin Kuning + Noce Mix",
+      "Scabas|Traverten": "Travertin Scabas"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Doğal Taş adalah produsen marmer dan travertin yang didirikan pada tahun 2014 di Kawasan Industri Terorganisasi Denizli (Honaz, Turki). Perusahaan ini memproduksi mosaik, ubin batu alam, pola Versailles (mini set), heksagon, dan panel dinding split-face dari travertin dan marmer; melayani pemotongan sesuai ukuran pesanan; serta menjual produknya di Turki dan pasar internasional."
+    },
+    "tas": {
+      "Light Mix": "Travertin bernuansa cerah dan lapang dengan perpaduan lembut warna krem muda dan gading yang serasi untuk berbagai gaya arsitektur.",
+      "Mix": "Travertin berkarakter hidup dengan gradasi warna alami mulai dari krem muda hingga beige hangat dan sentuhan karamel lembut.",
+      "Light": "Pilihan travertin bernuansa tenang yang menampilkan tekstur berpori alaminya dalam warna krem paling cerah dan beige muda.",
+      "Silver": "Travertin abu-abu dengan perpaduan warna perak, abu, dan rona batu hangat; sangat cocok untuk ruang bergaya modern dan industrial.",
+      "Onix Silver": "Travertin abu-abu berkarakter kuat dengan urat berlapis yang menciptakan kesan mendalam di atas dasar abu-abu perak.",
+      "Noce": "Travertin dengan rona cokelat kenari dan tanah hangat yang menghadirkan suasana Mediterania yang teduh dan berwibawa.",
+      "Damarlı Noce": "Travertin bertekstur ritmis yang tampak dinamis berkat lapisan urat paralel tegas dalam warna cokelat hangat dan kenari.",
+      "Walnut": "Travertin bernuansa hangat dengan transisi warna lembut dan seimbang antara warna kopi susu dan kulit kenari.",
+      "Scabas": "Travertin dengan karakter rustik yang menonjol, memadukan warna krem, madu, dan cokelat dalam corak yang tegas.",
+      "Sarı": "Travertin berwarna kuning keemasan dan madu hangat yang memberi kesan hidup, terutama pada teras, taman, dan area luar ruang.",
+      "Klasik": "Batu alam bersahaja yang mencerminkan warna beige-krem hangat dan struktur berpori alami khas travertin tradisional Denizli.",
+      "Ivory": "Travertin paling cerah dan paling sederhana dalam koleksi ini, dengan rona putih tulang dan gading muda.",
+      "Nebula": "Travertin bertekstur tenang dengan pergeseran rona lembut bagaikan awan di atas dasar warna krem keabu-abuan.",
+      "Pembe|Traverten": "Travertin bernuansa salmon dan merah muda bernuansa tanah yang menciptakan suasana lembut dan unik.",
+      "Eymer Siyah": "Batu alam berkontras kuat yang memadukan rona abu-abu tua dan antrasit dengan tekstur berpori khas travertin.",
+      "Muğla Beyazı": "Marmer putih klasik yang berkesan cerah, dikenal dengan corak awan abu-abu berasap dan urat halus di atas dasar putih.",
+      "Bej": "Marmer krem-beige dalam pilihan warna terang dan gelap yang membentuk permukaan seragam dan tenang.",
+      "Blue Stone": "Marmer berkarakter sejuk dan modern, dengan rona biru keabu-abuan dan abu-abu sabak yang disilang urat-urat terang.",
+      "Emperador": "Marmer dengan jaringan urat halus berwarna terang di atas dasar cokelat yang menghadirkan kedalaman klasik dan mewah.",
+      "Pembe|Mermer": "Marmer merah muda yang anggun dengan urat putih di atas dasar berwarna dusty rose.",
+      "Toros Siyahı": "Marmer yang menciptakan kontras tegas melalui urat putih tajam di atas dasar hitam-antrasit gelap.",
+      "Light + Noce Mix": "Kombinasi dua warna yang mempertemukan travertin Light krem muda dan Noce cokelat hangat dalam kontras seimbang pada satu lembaran jaring.",
+      "Sarı + Noce Mix": "Kombinasi dua warna yang memadukan travertin kuning keemasan dan cokelat kenari dalam nuansa warna tanah yang hangat.",
+      "Sarı + Noce + Light Mix": "Kombinasi tiga warna travertin krem muda, kuning keemasan, dan cokelat kenari yang menghasilkan irama warna yang kaya."
+    },
+    "yuzey": {
+      "Eskitme": "Batu diputar di dalam drum (tumbled) untuk membulatkan tepiannya dan memberikan tekstur permukaan antik yang lembut. Menyebarkan cahaya tanpa silau; menghadirkan tampilan alami dan hangat untuk area outdoor, tepi kolam, taman, dan interior bergaya rustik.",
+      "Honlu": "Permukaan diasah hingga halus dan bertekstur mat selembut sutra tanpa dipoles mengilap (honed). Tampilannya yang modern dan bebas pantulan menjadikannya pilihan populer untuk lantai interior.",
+      "Cilalı": "Permukaan dipoles hingga mengilap seperti cermin (polished); menonjolkan urat batu dan kontras warna secara paling hidup. Memberikan hasil elegan pada dinding maupun lantai interior.",
+      "Cilasız": "Permukaan tanpa pemolesan setelah proses potong, mempertahankan tekstur matte alami batu.",
+      "Dolgulu honlu": "Pori-pori alami travertin diisi dengan bahan pengisi (filled), lalu permukaannya diasah hingga halus dan mat (honed). Permukaan ini mudah dibersihkan karena kotoran tidak mengendap di dalam pori.",
+      "Dolgulu eskitme": "Travertin yang pori-porinya telah diisi kemudian diproses tumbled untuk menghasilkan tepian membulat dan tampilan antik. Menggabungkan kehangatan tekstur tumbled dengan permukaan yang lebih rapat.",
+      "Dolgulu cilalı": "Pori-pori travertin diisi lalu permukaannya dipoles mengilap; menghasilkan permukaan yang rata, berkilau, dan mudah dilap bersih.",
+      "Patlatma": "Batu dibelah secara mekanis untuk menghasilkan tekstur timbul (split-face) yang menyerupai permukaan batu tebing alami. Permainan cahaya dan bayangannya menciptakan dimensi mendalam pada perapian, fasad, taman, dan dinding aksen."
+    },
+    "form": {
+      "Tek parça": "Ubin persegi dan persegi panjang. Dipasang pada lantai maupun dinding dengan pola lurus, susun bata, geser ⅓, atau herringbone.",
+      "Mozaik": "Disusun dari kepingan-kepingan kecil di atas lembaran jaring (mesh) berukuran sekitar 30×30 cm. Lembaran saling mengunci sehingga memudahkan pemasangan yang cepat dan rapi pada lantai shower, backsplash dapur, dan bidang lengkung.",
+      "Altıgen": "Batu alam yang dipotong dalam geometri sarang lebah (heksagon). Memadukan tekstur travertin klasik dengan bahasa desain geometris kontemporer.",
+      "Mini set": "Susunan pola Versailles (French pattern) yang menyatukan kepingan persegi dan persegi panjang dari berbagai ukuran dalam satu modul. Menghadirkan permukaan dinamis tanpa kesan pengulangan yang monoton.",
+      "Panel": "Panel pelapis dinding dari bilah-bilah batu split-face yang disusun bertingkat. Berkat ujung berbentuk Z, antarpanel saling mengunci dan membentuk tekstur batu alam tanpa sambungan mencolok pada dinding interior maupun eksterior."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "mosaik-travertin",
+        "ad": "Mosaik travertin"
+      },
+      "Mermer|Mozaik": {
+        "slug": "mosaik-marmer",
+        "ad": "Mosaik marmer"
+      },
+      "Traverten|Tek parça": {
+        "slug": "ubin-travertin",
+        "ad": "Ubin travertin"
+      },
+      "Mermer|Tek parça": {
+        "slug": "ubin-marmer",
+        "ad": "Ubin marmer"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertin-pola-versailles",
+        "ad": "Set pola Versailles travertin"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertin-heksagon",
+        "ad": "Heksagon travertin"
+      },
+      "Traverten|Panel": {
+        "slug": "panel-split-face-travertin",
+        "ad": "Panel split-face travertin"
+      }
+    },
+    "sss": [
+      [
+        "Di mana lokasi Karabel Doğal Taş dan apa saja yang diproduksi?",
+        "Karabel Doğal Taş adalah produsen marmer dan travertin yang beroperasi sejak 2014 di Kawasan Industri Terorganisasi Denizli (Honaz, Denizli, Turki). Perusahaan ini memproduksi mosaik, ubin batu alam, pola Versailles (mini set), heksagon, dan panel dinding split-face dari travertin dan marmer, serta melayani pemotongan sesuai ukuran pesanan."
+      ],
+      [
+        "Apa perbedaan antara travertin dan marmer?",
+        "Travertin adalah batu berpori alami yang terbentuk dari pengendapan kalsium karbonat yang dibawa mata air mineral. Batu ini dikenal dengan rona krem hangat, beige, abu-abu, dan cokelat. Marmer terbentuk ketika batu kapur mengalami metamorfosis akibat panas dan tekanan; strukturnya lebih padat dan memiliki urat yang tegas. Denizli merupakan daerah penghasil travertin paling terkenal di Turki."
+      ],
+      [
+        "Apa perbedaan antara finishing honed, tumbled, dan polished?",
+        "Permukaan honed dihaluskan hingga rata dan tampak matte tanpa pemolesan mengilap. Pada permukaan tumbled (eskitme), batu diputar di dalam drum sehingga tepiannya membulat dan permukaannya bertekstur antik. Permukaan polished dipoles hingga mengilap seperti cermin sehingga menampilkan urat batu dengan sangat jelas."
+      ],
+      [
+        "Apa itu travertin filled?",
+        "Travertin filled adalah travertin yang pori-pori alaminya ditutup menggunakan bahan pengisi khusus. Permukaannya tampak lebih rapat dan merata, tidak menyimpan kotoran, serta mudah dibersihkan. Sebaliknya, travertin unfilled tetap mempertahankan tekstur berpori alaminya."
+      ],
+      [
+        "Berapa lembar mosaik yang dibutuhkan untuk 1 m²?",
+        "{mozaik_m2}"
+      ],
+      [
+        "Apa perbedaan antara Kelas 1, Kelas 2, dan kelas Export?",
+        "Pada batu alam, kelas menunjukkan tingkat ketatnya proses seleksi berdasarkan keseragaman warna, karakter pori, dan toleransi cacat permukaan. Export adalah kelas dengan seleksi paling ketat. Keputusan paling tepat untuk proyek Anda sebaiknya diambil dengan melihat sampel secara langsung."
+      ],
+      [
+        "Apakah Anda menyediakan pemotongan sesuai ukuran (cut-to-size)?",
+        "Ya. Selain ukuran standar, kami memotong batu dalam panjang bebas (free length) maupun ukuran khusus sesuai spesifikasi proyek. Misalnya, travertin Silver dengan lebar 8 cm dapat diproduksi dengan panjang sesuai kebutuhan Anda."
+      ],
+      [
+        "Apakah Anda mengekspor produk?",
+        "Ya, Karabel Doğal Taş melayani pembeli di pasar domestik Turki maupun ekspor ke berbagai negara. Untuk informasi harga, permintaan sampel, dan pengiriman, Anda dapat menghubungi kami melalui WhatsApp ({telefon}) atau email di {eposta}."
+      ],
+      [
+        "Apakah warna batu di situs web ini sesuai aslinya?",
+        "Semua gambar adalah foto dari sampel asli; kami tidak menggunakan filter pengubah warna dan hanya membersihkan latar belakangnya. Karena setiap keping batu alam memiliki variasi alami dan setiap layar perangkat menampilkan warna secara berbeda, kami menyarankan Anda melihat sampel fisik sebelum mengambil keputusan akhir."
+      ]
+    ]
+  }
+}

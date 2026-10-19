@@ -1,0 +1,329 @@
+{
+  "dil": {
+    "ad": "English",
+    "kisa": "EN",
+    "yerel": "en-GB",
+    "yon": "ltr"
+  },
+  "arayuz": {
+    "nav.koleksiyon": "Collection",
+    "nav.hakkimizda": "About",
+    "nav.iletisim": "Contact",
+    "nav.teklif": "Request a quote",
+    "nav.menu": "Menu",
+    "marka.alt": "Marble · Natural Stone",
+    "giris.ust": "Since 2014 · Denizli",
+    "giris.koleksiyon": "Explore the stones",
+    "giris.urun": "products",
+    "kol.ust": "Collection",
+    "kol.baslik": "Texture up close. <em>Character at scale.</em>",
+    "kol.metin": "Every image shows a real sample. Colour and veining naturally vary from piece to piece.",
+    "kol.tumu": "All",
+    "kol.ara": "Search by stone, colour or size",
+    "kol.form": "Format",
+    "kol.yuzey": "Finish",
+    "kol.renk": "Colour",
+    "kol.temizle": "Clear filters",
+    "kol.sonuc": "{n} products",
+    "kol.bos": "No products match these filters. Try removing a filter.",
+    "urun.form": "Format",
+    "urun.parca": "Piece dimensions",
+    "urun.birim": "Sheet dimensions",
+    "urun.yuzey": "Finish",
+    "urun.sinif": "Product grade",
+    "urun.ozellik": "Additional detail",
+    "urun.grup": "Stone type",
+    "urun.teklif": "Request a quote on WhatsApp",
+    "urun.teyit": "Some product details are awaiting confirmation. Please confirm current dimensions and specifications with us before ordering.",
+    "urun.kapat": "Close",
+    "urun.olcuyeGore": "Length specified to order",
+    "hak.ust": "About",
+    "hak.baslik": "Natural stone, <em>made in Denizli.</em>",
+    "hak.metin1": "Karabel Doğal Taş was founded in 2014 in the Denizli Organised Industrial Zone in Honaz, Türkiye. We produce marble and travertine mosaics, tiles, Versailles and mini sets, hexagons and split-face panels.",
+    "hak.metin2": "We sell to buyers in Türkiye and internationally. Contact us about products in the collection or your custom cutting requirements.",
+    "hak.kurulus": "Established",
+    "hak.uretim": "Production location",
+    "hak.uretimDeger": "Denizli OIZ, Türkiye",
+    "hak.olcu": "Cutting",
+    "hak.olcuDeger": "Custom dimensions",
+    "hak.pazar": "Sales",
+    "hak.pazarDeger": "Türkiye and international",
+    "ilt.ust": "Contact",
+    "ilt.baslik": "Let’s plan <em>your next surface.</em>",
+    "ilt.metin": "Contact us for pricing, sample requests or custom cutting.",
+    "ilt.telefon": "Phone",
+    "ilt.whatsapp": "WhatsApp",
+    "ilt.eposta": "Email",
+    "ilt.adres": "Address",
+    "ilt.harita": "View on map",
+    "ilt.form.ad": "Your name",
+    "ilt.form.konu": "Product or project",
+    "ilt.form.mesaj": "Tell us what you need",
+    "ilt.form.gonder": "Continue on WhatsApp",
+    "ilt.form.eposta": "Open in email app",
+    "alt.haklar": "© {yil} Karabel Doğal Taş",
+    "alt.not": "Images show real samples. Natural variations in colour and veining are to be expected.",
+    "wa.urun": "Hello, I would like a quote for {urun}.",
+    "wa.genel": "Hello, I would like to learn more about your marble and travertine products.",
+    "wa.form": "Hello, my name is {ad}.\nSubject: {konu}\n{mesaj}",
+    "nav.atla": "Skip to content",
+    "urun.kenar": "Side length: {n} cm",
+    "yardim.numune": "Request a sample",
+    "yardim.sinif": "Ask about grade differences",
+    "nav.sss": "FAQ",
+    "nav.ana": "Home",
+    "sayfa.anaBaslik": "Karabel Natural Stone — Turkish travertine & marble from Denizli: mosaics, tiles, Versailles, split-face panels",
+    "sayfa.anaAciklama": "Marble and travertine manufacturer in Denizli, Türkiye, since 2014: travertine mosaics, tiles, Versailles sets, hexagons and split-face panels. Real sample photos, sizes and per-m² quantities.",
+    "kol.hepsi": "All products ({n})",
+    "rehber.ust": "Finish guide",
+    "sss.baslik": "Frequently asked questions",
+    "sss.hepsi": "All questions →",
+    "sss.altBaslik": "About marble, travertine and ordering",
+    "urun.birimLevha": "sheets",
+    "urun.birimTas": "tiles",
+    "urun.m2Cumle": "About {n} {birim} per m².",
+    "urun.gorunum": "Image",
+    "urun.m2": "Per m²",
+    "urun.teknikIste": "Request technical details",
+    "urun.hakkinda": "About {ad}",
+    "urun.m2Uzun": "You need about {n} {birim} of this product per m² (with 2 mm joints). Allow about {fire} {birim} with 10% waste; final quantities are confirmed when quoting.",
+    "urun.kardes": "{ad}: other sizes and finishes",
+    "wa.numune": "Hello, I would like to request a sample of {urun}.",
+    "wa.teknik": "Hello, could you send technical details (thickness, tolerance, packing) for {urun}?",
+    "wa.sinif": "Hello, I would like to know the difference between the grades (Grade 1 / Grade 2 / Export) for {urun}.",
+    "wa.kategori": "Hello, I would like a quote for your {kategori} products.",
+    "kat.baslikEk": "Categories",
+    "kat.urunSayisi": "Products",
+    "kat.olculer": "Sizes",
+    "kat.yuzeyler": "Finishes",
+    "kat.taslar": "Stones",
+    "kat.ortalama": "average",
+    "kat.ozet": "Karabel Natural Stone manufactures {ad} in Denizli, Türkiye: {n} products, sizes {olculer}; finishes: {yuzeyler}. All images are real samples.",
+    "yuzeyS.baslik": "{ad} finish",
+    "sayfa.kolBaslik": "Marble and travertine collection",
+    "sayfa.kolAciklama": "{n} marble and travertine products: mosaics, tiles, Versailles sets, hexagons and split-face panels. Real sample photographs, sizes and quantities per m².",
+    "hak.uretimimiz": "What we make",
+    "sayfa.yok": "The page you are looking for was not found.",
+    "giris.baslikSade": "Natural stone.<br>Refined craftsmanship.",
+    "giris.metinSade": "We carefully work the distinctive texture of marble and travertine into mosaics, tiles and wall cladding. With our production in Denizli and made-to-measure options for your project, we bring natural stone into your spaces.",
+    "urun.ustten": "Top view (true colour)",
+    "urun.uygulamada": "In use",
+    "urun.temsili": "Representative visuals: generated with AI from this product's sample photograph. Pattern, tone and size may differ in a real installation.",
+    "urun.temsiliKisa": "representative",
+    "urun.buyut": "enlarge",
+    "sahne.banyo": "Bathroom wall",
+    "sahne.mutfak": "Kitchen backsplash",
+    "sahne.zemin": "Floor",
+    "sahne.duvar": "Wall",
+    "sahne.teras": "Terrace",
+    "urun.sergi": "Display",
+    "sahne.havuz-kenari": "Pool deck",
+    "sahne.havuz-su-hatti": "Pool waterline",
+    "sahne.bahce-yolu": "Garden path",
+    "sahne.avlu": "Mediterranean courtyard",
+    "sahne.dis-cephe": "House facade",
+    "sahne.bahce-duvari": "Garden wall",
+    "sahne.giris-merdiveni": "Entrance steps",
+    "sahne.dis-mutfak": "Outdoor kitchen",
+    "sahne.kis-bahcesi": "Conservatory",
+    "sahne.dus": "Shower wall",
+    "sahne.banyo-zemini": "Bathroom floor",
+    "sahne.lavabo-arkasi": "Vanity wall",
+    "sahne.kuvet-nisi": "Bathtub niche",
+    "sahne.hamam": "Hammam",
+    "sahne.spa": "Spa",
+    "sahne.kapali-havuz": "Indoor pool",
+    "sahne.mutfak-tezgah": "Kitchen backsplash",
+    "sahne.kir-mutfagi": "Farmhouse kitchen",
+    "sahne.mutfak-adasi": "Kitchen island",
+    "sahne.kafe": "Café counter",
+    "sahne.somine": "Fireplace surround",
+    "sahne.vurgu-duvari": "Living room feature wall",
+    "sahne.salon-zemini": "Living room floor",
+    "sahne.antre": "Entryway",
+    "sahne.merdiven": "Staircase wall",
+    "sahne.yatak-basucu": "Bedroom headboard wall",
+    "sahne.tv-duvari": "TV wall",
+    "sahne.yemek-odasi": "Dining room",
+    "sahne.otel-lobisi": "Hotel lobby",
+    "sahne.butik": "Boutique store",
+    "sahne.restoran": "Restaurant wall",
+    "sahne.sarap-mahzeni": "Wine cellar",
+    "sahne.ofis-resepsiyon": "Office reception",
+    "urun.kalinlik": "Thickness",
+    "urun.kalinlikPanel": "2 cm (1, 2 or 3 cm on request)",
+    "sss.mozaikM2": "With mosaic sheets of about 30×30 cm you need on average {n} sheets per m² (with 2 mm joints, before waste). Allow about {fire} sheets with 10% waste. Each product page shows the value calculated from that product's own sheet size."
+  },
+  "terim": {
+    "grup": {
+      "Mermer": "Marble",
+      "Traverten": "Travertine"
+    },
+    "form": {
+      "Tek parça": "Tile",
+      "Mozaik": "Mosaic",
+      "Altıgen": "Hexagon",
+      "Mini set": "Mini Versailles set",
+      "Panel": "Split-face panel"
+    },
+    "yuzey": {
+      "Eskitme": "Tumbled",
+      "Dolgulu honlu": "Filled and honed",
+      "Dolgulu eskitme": "Filled and tumbled",
+      "Dolgulu cilalı": "Filled and polished",
+      "Cilalı": "Polished",
+      "Cilasız": "Unpolished",
+      "Honlu": "Honed",
+      "Patlatma": "Split-face"
+    },
+    "ek": {
+      "İkili karışım": "Two-colour blend",
+      "Üçlü karışım": "Three-colour blend",
+      "Koyu": "Dark",
+      "Açık": "Light",
+      "Fileli": "Mesh-mounted",
+      "3D": "3D"
+    },
+    "ad": {
+      "Muğla Beyazı": "Muğla White",
+      "Toros Siyahı": "Toros Black",
+      "Eymer Siyah": "Eymer Black",
+      "Sarı": "Yellow",
+      "Pembe": "Pink",
+      "Bej": "Beige",
+      "Klasik": "Classic",
+      "Damarlı Noce": "Veined Noce"
+    },
+    "ton": {
+      "beyaz": "White",
+      "krem": "Cream and beige",
+      "sari": "Yellow",
+      "kahve": "Brown",
+      "gri": "Grey",
+      "siyah": "Black",
+      "pembe": "Pink",
+      "karisik": "Mixed tones"
+    },
+    "sinif": {
+      "1": "Grade 1",
+      "2": "Grade 2",
+      "Export": "Export"
+    }
+  },
+  "icerik": {
+    "firma": {
+      "kisa": "Karabel Natural Stone is a marble and travertine manufacturer founded in 2014 in the Denizli Organised Industrial Zone (Honaz, Türkiye). It produces travertine and marble mosaics, tiles, Versailles (mini set) patterns, hexagons and split-face wall panels, cuts to size, and sells in Türkiye and abroad."
+    },
+    "tas": {
+      "Light Mix": "A bright travertine where light cream and ivory tones blend softly — easy to pair with any architectural style.",
+      "Mix": "A lively travertine whose natural colour drifts from light cream to warm beige and soft caramel.",
+      "Light": "A calm travertine selection showing its porous texture in the brightest cream and light beige tones.",
+      "Silver": "A grey travertine where silver, ash and warm stone tones intertwine — at home in modern and industrial spaces.",
+      "Onix Silver": "A characterful grey travertine with layered, deep veining over a silver-grey ground.",
+      "Noce": "Walnut and warm earth-brown tones that give a room a grounded, warm Mediterranean feel.",
+      "Damarlı Noce": "A rhythmic travertine animated by distinct parallel bands of warm brown and walnut.",
+      "Walnut": "A warm travertine balanced between milky coffee and walnut shell, with soft transitions.",
+      "Scabas": "A travertine where cream, honey and brown meet in strong patterns — distinctly rustic.",
+      "Sarı": "A golden, honey-toned travertine that brings warmth to terraces, gardens and outdoor spaces.",
+      "Klasik": "A simple stone reflecting the warm beige-cream tone and natural porous structure of classic Denizli travertine.",
+      "Ivory": "Off-white and light ivory — the brightest, most understated travertine in the collection.",
+      "Nebula": "A calm travertine with cloud-like soft tonal shifts over a cream-grey ground.",
+      "Pembe|Traverten": "A travertine in salmon and earthy pink that creates an unusual, soft atmosphere.",
+      "Eymer Siyah": "A high-contrast stone combining dark grey and anthracite with travertine's porous texture.",
+      "Muğla Beyazı": "A classic white marble known for smoky grey clouds and fine veins over a white ground.",
+      "Bej": "A cream-beige marble in light and dark selections that makes a calm, even surface.",
+      "Blue Stone": "A cool, modern marble where blue-grey and slate tones cross light veins.",
+      "Emperador": "A marble with fine, light network veins over a brown ground — classic and rich.",
+      "Pembe|Mermer": "An elegant pink marble with white veins over a dusty-rose ground.",
+      "Toros Siyahı": "A marble that sets sharp white veins against a dark anthracite-black ground for strong contrast.",
+      "Light + Noce Mix": "A two-tone blend pairing light cream Light and warm brown Noce travertine on one sheet.",
+      "Sarı + Noce Mix": "A two-tone blend of golden and walnut travertine in warm earth tones.",
+      "Sarı + Noce + Light Mix": "A three-tone blend of cream, gold and walnut travertine with a rich colour rhythm."
+    },
+    "yuzey": {
+      "Eskitme": "Pieces are drum-tumbled to soften and round the edges and give the surface an aged, antique texture. It diffuses light without glare and suits patios, pool surrounds, gardens and rustic interiors.",
+      "Honlu": "Ground to a smooth, silky matte finish without polishing. Its non-reflective, contemporary look makes it a frequent choice for interior floors.",
+      "Cilalı": "Polished to a mirror gloss that shows veining and colour contrast at their most vivid. An elegant finish for interior walls and floors.",
+      "Cilasız": "Left unpolished after cutting, keeping the stone's natural matte texture.",
+      "Dolgulu honlu": "Travertine's natural pores are filled, then the surface is honed smooth and matte. With no open pores to collect dirt, it is easy to clean.",
+      "Dolgulu eskitme": "Pore-filled travertine that is then tumbled for rounded edges and an antique look — the warmth of tumbled stone with a more closed surface.",
+      "Dolgulu cilalı": "Travertine pores are filled and the surface is polished to a high shine — smooth, glossy and easy to wipe clean.",
+      "Patlatma": "The stone is mechanically split to expose a rugged, rock-like relief. Its play of light and shadow adds depth to fireplaces, facades, garden and feature walls."
+    },
+    "form": {
+      "Tek parça": "Square and rectangular tiles, laid in stack bond, running bond, ⅓ offset or herringbone on floors and walls.",
+      "Mozaik": "Small pieces mounted on roughly 30×30 cm mesh sheets. Sheets interlock for fast, even installation on shower floors, backsplashes and curved surfaces.",
+      "Altıgen": "Natural stone cut to a honeycomb geometry, bringing classic travertine texture into a contemporary pattern.",
+      "Mini set": "The Versailles (French) pattern: squares and rectangles of different sizes interlocking within one module, breaking up visible repetition.",
+      "Panel": "Wall cladding panels of split-face strips laid in steps. Z-shaped ends let panels interlock for a continuous rock texture on interior and exterior walls."
+    },
+    "kategori": {
+      "Traverten|Mozaik": {
+        "slug": "travertine-mosaic",
+        "ad": "Travertine mosaic"
+      },
+      "Mermer|Mozaik": {
+        "slug": "marble-mosaic",
+        "ad": "Marble mosaic"
+      },
+      "Traverten|Tek parça": {
+        "slug": "travertine-tiles",
+        "ad": "Travertine tiles"
+      },
+      "Mermer|Tek parça": {
+        "slug": "marble-tiles",
+        "ad": "Marble tiles"
+      },
+      "Traverten|Mini set": {
+        "slug": "travertine-versailles-pattern",
+        "ad": "Travertine Versailles pattern"
+      },
+      "Traverten|Altıgen": {
+        "slug": "travertine-hexagon",
+        "ad": "Travertine hexagon"
+      },
+      "Traverten|Panel": {
+        "slug": "travertine-split-face-panels",
+        "ad": "Travertine split-face panels"
+      }
+    },
+    "sss": [
+      [
+        "Where is Karabel Natural Stone and what does it make?",
+        "Karabel Natural Stone is a marble and travertine manufacturer operating since 2014 in the Denizli Organised Industrial Zone (Honaz, Denizli, Türkiye). It produces travertine and marble mosaics, tiles, Versailles (mini set) patterns, hexagons and split-face wall panels, and cuts to size."
+      ],
+      [
+        "What is the difference between travertine and marble?",
+        "Travertine is a naturally porous stone formed by calcium carbonate deposited by mineral springs, known for warm cream, beige, grey and brown tones. Marble forms when limestone is transformed by heat and pressure; it is denser and shows distinct veining. Denizli is Türkiye's best-known travertine region."
+      ],
+      [
+        "What is the difference between honed, tumbled and polished?",
+        "Honed stone is ground smooth and matte without polishing. Tumbled pieces are turned in a drum so the edges round off and the surface gains an antique texture. Polished stone is buffed to a mirror gloss that shows the veining most vividly."
+      ],
+      [
+        "What is filled travertine?",
+        "Filled travertine has its natural pores closed with a filler. The surface looks more closed and even, does not trap dirt and is easy to clean. Unfilled travertine keeps its natural porous texture."
+      ],
+      [
+        "How many mosaic sheets do I need per square metre?",
+        "{mozaik_m2}"
+      ],
+      [
+        "What is the difference between first grade, second grade and export grade?",
+        "In natural stone, grades describe how strict the selection is — sorted by colour consistency, pores and surface defects. Export is the most selective grade. The best decision for a project is made from a sample."
+      ],
+      [
+        "Do you cut to size?",
+        "Yes. Besides standard sizes, stone is cut to free lengths and project-specific dimensions — for example, 8 cm wide Silver travertine is produced in the length you need."
+      ],
+      [
+        "Do you export?",
+        "Yes, Karabel Natural Stone sells to customers abroad as well as in Türkiye. For prices, samples and shipping, contact us on WhatsApp ({telefon}) or at {eposta}."
+      ],
+      [
+        "Are the stone colours on the website real?",
+        "The images are photographs of real samples; no colour-correction filter was applied — only the background was removed. Every piece of natural stone varies and screens show colour differently, so we recommend seeing a sample before you decide."
+      ]
+    ]
+  }
+}
